@@ -189,3 +189,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [mlip](https://anaconda.org/conda-forge/mlip) | [![conda](https://anaconda.org/conda-forge/mlip/badges/downloads.svg)](https://anaconda.org/conda-forge/mlip) |
 | [pyiron_experimental](https://anaconda.org/conda-forge/pyiron_experimental) | [![conda](https://anaconda.org/conda-forge/pyiron_experimental/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_experimental) |
 | [n2p2](https://anaconda.org/conda-forge/n2p2) | [![conda](https://anaconda.org/conda-forge/n2p2/badges/downloads.svg)](https://anaconda.org/conda-forge/n2p2) |
+| [jax-md](https://anaconda.org/conda-forge/jax-md) | [![conda](https://anaconda.org/conda-forge/jax-md/badges/downloads.svg)](https://anaconda.org/conda-forge/jax-md) |
+| [dm-haiku](https://anaconda.org/conda-forge/dm-haiku) | [![conda](https://anaconda.org/conda-forge/dm-haiku/badges/downloads.svg)](https://anaconda.org/conda-forge/dm-haiku) |
+| [google-colab](https://anaconda.org/conda-forge/google-colab) | [![conda](https://anaconda.org/conda-forge/google-colab/badges/downloads.svg)](https://anaconda.org/conda-forge/google-colab) |
