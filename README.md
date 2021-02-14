@@ -5,10 +5,9 @@ This repository allows you to quickly generate a list of all your [conda-forge](
 
 For example the contributions of [jan-janssen](https://github.com/jan-janssen) are available at [https://jan-janssen.github.io/conda-forge-contribution/](https://jan-janssen.github.io/conda-forge-contribution/).
 
-To generate your own contribution-list, simply fork this repository and set the following variables for your [travis-ci.com](https://travis-ci.com) build environment:
+To generate your own contribution-list, simply fork this repository and set the following variable as a [github action secret](https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository):
 
 ```
-USERNAME = <your Github username>
 GH_TOKEN = <your Github token which enables access to public_repo and read:org>
 ```
 
