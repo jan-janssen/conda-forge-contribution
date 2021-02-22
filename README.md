@@ -192,3 +192,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [jax-md](https://anaconda.org/conda-forge/jax-md) | [![conda](https://anaconda.org/conda-forge/jax-md/badges/downloads.svg)](https://anaconda.org/conda-forge/jax-md) |
 | [dm-haiku](https://anaconda.org/conda-forge/dm-haiku) | [![conda](https://anaconda.org/conda-forge/dm-haiku/badges/downloads.svg)](https://anaconda.org/conda-forge/dm-haiku) |
 | [google-colab](https://anaconda.org/conda-forge/google-colab) | [![conda](https://anaconda.org/conda-forge/google-colab/badges/downloads.svg)](https://anaconda.org/conda-forge/google-colab) |
+| [pyiron_gpl](https://anaconda.org/conda-forge/pyiron_gpl) | [![conda](https://anaconda.org/conda-forge/pyiron_gpl/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_gpl) |
+| [pyiron_continuum](https://anaconda.org/conda-forge/pyiron_continuum) | [![conda](https://anaconda.org/conda-forge/pyiron_continuum/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_continuum) |
+| [matscipy](https://anaconda.org/conda-forge/matscipy) | [![conda](https://anaconda.org/conda-forge/matscipy/badges/downloads.svg)](https://anaconda.org/conda-forge/matscipy) |
+| [quippy](https://anaconda.org/conda-forge/quippy) | [![conda](https://anaconda.org/conda-forge/quippy/badges/downloads.svg)](https://anaconda.org/conda-forge/quippy) |
