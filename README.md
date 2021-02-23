@@ -196,3 +196,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyiron_continuum](https://anaconda.org/conda-forge/pyiron_continuum) | [![conda](https://anaconda.org/conda-forge/pyiron_continuum/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_continuum) |
 | [matscipy](https://anaconda.org/conda-forge/matscipy) | [![conda](https://anaconda.org/conda-forge/matscipy/badges/downloads.svg)](https://anaconda.org/conda-forge/matscipy) |
 | [quippy](https://anaconda.org/conda-forge/quippy) | [![conda](https://anaconda.org/conda-forge/quippy/badges/downloads.svg)](https://anaconda.org/conda-forge/quippy) |
+| [runner](https://anaconda.org/conda-forge/runner) | [![conda](https://anaconda.org/conda-forge/runner/badges/downloads.svg)](https://anaconda.org/conda-forge/runner) |
