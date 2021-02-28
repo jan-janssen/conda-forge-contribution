@@ -197,3 +197,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [matscipy](https://anaconda.org/conda-forge/matscipy) | [![conda](https://anaconda.org/conda-forge/matscipy/badges/downloads.svg)](https://anaconda.org/conda-forge/matscipy) |
 | [quippy](https://anaconda.org/conda-forge/quippy) | [![conda](https://anaconda.org/conda-forge/quippy/badges/downloads.svg)](https://anaconda.org/conda-forge/quippy) |
 | [runner](https://anaconda.org/conda-forge/runner) | [![conda](https://anaconda.org/conda-forge/runner/badges/downloads.svg)](https://anaconda.org/conda-forge/runner) |
+| [structdbrest](https://anaconda.org/conda-forge/structdbrest) | [![conda](https://anaconda.org/conda-forge/structdbrest/badges/downloads.svg)](https://anaconda.org/conda-forge/structdbrest) |
+| [wquantiles](https://anaconda.org/conda-forge/wquantiles) | [![conda](https://anaconda.org/conda-forge/wquantiles/badges/downloads.svg)](https://anaconda.org/conda-forge/wquantiles) |
+| [dmba](https://anaconda.org/conda-forge/dmba) | [![conda](https://anaconda.org/conda-forge/dmba/badges/downloads.svg)](https://anaconda.org/conda-forge/dmba) |
