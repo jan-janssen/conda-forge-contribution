@@ -23,8 +23,10 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 |:------------:|:---------:|
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
 | [fenics](https://anaconda.org/conda-forge/fenics) | [![conda](https://anaconda.org/conda-forge/fenics/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics) |
+| [monty](https://anaconda.org/conda-forge/monty) | [![conda](https://anaconda.org/conda-forge/monty/badges/downloads.svg)](https://anaconda.org/conda-forge/monty) |
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
 | [kafkacat](https://anaconda.org/conda-forge/kafkacat) | [![conda](https://anaconda.org/conda-forge/kafkacat/badges/downloads.svg)](https://anaconda.org/conda-forge/kafkacat) |
+| [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
 | [siesta](https://anaconda.org/conda-forge/siesta) | [![conda](https://anaconda.org/conda-forge/siesta/badges/downloads.svg)](https://anaconda.org/conda-forge/siesta) |
 | [h5io](https://anaconda.org/conda-forge/h5io) | [![conda](https://anaconda.org/conda-forge/h5io/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io) |
 | [python-box](https://anaconda.org/conda-forge/python-box) | [![conda](https://anaconda.org/conda-forge/python-box/badges/downloads.svg)](https://anaconda.org/conda-forge/python-box) |
@@ -200,3 +202,14 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [structdbrest](https://anaconda.org/conda-forge/structdbrest) | [![conda](https://anaconda.org/conda-forge/structdbrest/badges/downloads.svg)](https://anaconda.org/conda-forge/structdbrest) |
 | [wquantiles](https://anaconda.org/conda-forge/wquantiles) | [![conda](https://anaconda.org/conda-forge/wquantiles/badges/downloads.svg)](https://anaconda.org/conda-forge/wquantiles) |
 | [dmba](https://anaconda.org/conda-forge/dmba) | [![conda](https://anaconda.org/conda-forge/dmba/badges/downloads.svg)](https://anaconda.org/conda-forge/dmba) |
+| [asr](https://anaconda.org/conda-forge/asr) | [![conda](https://anaconda.org/conda-forge/asr/badges/downloads.svg)](https://anaconda.org/conda-forge/asr) |
+| [robocrys](https://anaconda.org/conda-forge/robocrys) | [![conda](https://anaconda.org/conda-forge/robocrys/badges/downloads.svg)](https://anaconda.org/conda-forge/robocrys) |
+| [cite](https://anaconda.org/conda-forge/cite) | [![conda](https://anaconda.org/conda-forge/cite/badges/downloads.svg)](https://anaconda.org/conda-forge/cite) |
+| [pdftotext](https://anaconda.org/conda-forge/pdftotext) | [![conda](https://anaconda.org/conda-forge/pdftotext/badges/downloads.svg)](https://anaconda.org/conda-forge/pdftotext) |
+| [mongita](https://anaconda.org/conda-forge/mongita) | [![conda](https://anaconda.org/conda-forge/mongita/badges/downloads.svg)](https://anaconda.org/conda-forge/mongita) |
+| [rdfpy](https://anaconda.org/conda-forge/rdfpy) | [![conda](https://anaconda.org/conda-forge/rdfpy/badges/downloads.svg)](https://anaconda.org/conda-forge/rdfpy) |
+| [imagedataextractor](https://anaconda.org/conda-forge/imagedataextractor) | [![conda](https://anaconda.org/conda-forge/imagedataextractor/badges/downloads.svg)](https://anaconda.org/conda-forge/imagedataextractor) |
+| [nomad-lab](https://anaconda.org/conda-forge/nomad-lab) | [![conda](https://anaconda.org/conda-forge/nomad-lab/badges/downloads.svg)](https://anaconda.org/conda-forge/nomad-lab) |
+| [otpauth](https://anaconda.org/conda-forge/otpauth) | [![conda](https://anaconda.org/conda-forge/otpauth/badges/downloads.svg)](https://anaconda.org/conda-forge/otpauth) |
+| [qrtools](https://anaconda.org/conda-forge/qrtools) | [![conda](https://anaconda.org/conda-forge/qrtools/badges/downloads.svg)](https://anaconda.org/conda-forge/qrtools) |
+| [pyauthenticator](https://anaconda.org/conda-forge/pyauthenticator) | [![conda](https://anaconda.org/conda-forge/pyauthenticator/badges/downloads.svg)](https://anaconda.org/conda-forge/pyauthenticator) |
