@@ -22,6 +22,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | Package Name | Downloads |
 |:------------:|:---------:|
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
+| [msg-extractor](https://anaconda.org/conda-forge/msg-extractor) | [![conda](https://anaconda.org/conda-forge/msg-extractor/badges/downloads.svg)](https://anaconda.org/conda-forge/msg-extractor) |
+| [textract](https://anaconda.org/conda-forge/textract) | [![conda](https://anaconda.org/conda-forge/textract/badges/downloads.svg)](https://anaconda.org/conda-forge/textract) |
 | [fenics](https://anaconda.org/conda-forge/fenics) | [![conda](https://anaconda.org/conda-forge/fenics/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics) |
 | [monty](https://anaconda.org/conda-forge/monty) | [![conda](https://anaconda.org/conda-forge/monty/badges/downloads.svg)](https://anaconda.org/conda-forge/monty) |
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
@@ -213,3 +215,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [otpauth](https://anaconda.org/conda-forge/otpauth) | [![conda](https://anaconda.org/conda-forge/otpauth/badges/downloads.svg)](https://anaconda.org/conda-forge/otpauth) |
 | [qrtools](https://anaconda.org/conda-forge/qrtools) | [![conda](https://anaconda.org/conda-forge/qrtools/badges/downloads.svg)](https://anaconda.org/conda-forge/qrtools) |
 | [pyauthenticator](https://anaconda.org/conda-forge/pyauthenticator) | [![conda](https://anaconda.org/conda-forge/pyauthenticator/badges/downloads.svg)](https://anaconda.org/conda-forge/pyauthenticator) |
+| [ebcdic](https://anaconda.org/conda-forge/ebcdic) | [![conda](https://anaconda.org/conda-forge/ebcdic/badges/downloads.svg)](https://anaconda.org/conda-forge/ebcdic) |
+| [euporie](https://anaconda.org/conda-forge/euporie) | [![conda](https://anaconda.org/conda-forge/euporie/badges/downloads.svg)](https://anaconda.org/conda-forge/euporie) |
