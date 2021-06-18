@@ -291,3 +291,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pystencils-walberla](https://anaconda.org/conda-forge/pystencils-walberla) | [![conda](https://anaconda.org/conda-forge/pystencils-walberla/badges/downloads.svg)](https://anaconda.org/conda-forge/pystencils-walberla) |
 | [lbmpy-walberla](https://anaconda.org/conda-forge/lbmpy-walberla) | [![conda](https://anaconda.org/conda-forge/lbmpy-walberla/badges/downloads.svg)](https://anaconda.org/conda-forge/lbmpy-walberla) |
 | [p-tqdm](https://anaconda.org/conda-forge/p-tqdm) | [![conda](https://anaconda.org/conda-forge/p-tqdm/badges/downloads.svg)](https://anaconda.org/conda-forge/p-tqdm) |
+| [pystencils-autodiff](https://anaconda.org/conda-forge/pystencils-autodiff) | [![conda](https://anaconda.org/conda-forge/pystencils-autodiff/badges/downloads.svg)](https://anaconda.org/conda-forge/pystencils-autodiff) |
+| [dtool_overlay](https://anaconda.org/conda-forge/dtool_overlay) | [![conda](https://anaconda.org/conda-forge/dtool_overlay/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_overlay) |
+| [pystencils-reco](https://anaconda.org/conda-forge/pystencils-reco) | [![conda](https://anaconda.org/conda-forge/pystencils-reco/badges/downloads.svg)](https://anaconda.org/conda-forge/pystencils-reco) |
+| [dtool_tag](https://anaconda.org/conda-forge/dtool_tag) | [![conda](https://anaconda.org/conda-forge/dtool_tag/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_tag) |
