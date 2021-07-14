@@ -296,3 +296,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pystencils-reco](https://anaconda.org/conda-forge/pystencils-reco) | [![conda](https://anaconda.org/conda-forge/pystencils-reco/badges/downloads.svg)](https://anaconda.org/conda-forge/pystencils-reco) |
 | [dtool_tag](https://anaconda.org/conda-forge/dtool_tag) | [![conda](https://anaconda.org/conda-forge/dtool_tag/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_tag) |
 | [dtool_annotation](https://anaconda.org/conda-forge/dtool_annotation) | [![conda](https://anaconda.org/conda-forge/dtool_annotation/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_annotation) |
+| [alamode](https://anaconda.org/conda-forge/alamode) | [![conda](https://anaconda.org/conda-forge/alamode/badges/downloads.svg)](https://anaconda.org/conda-forge/alamode) |
+| [ifermi](https://anaconda.org/conda-forge/ifermi) | [![conda](https://anaconda.org/conda-forge/ifermi/badges/downloads.svg)](https://anaconda.org/conda-forge/ifermi) |
+| [meshcut](https://anaconda.org/conda-forge/meshcut) | [![conda](https://anaconda.org/conda-forge/meshcut/badges/downloads.svg)](https://anaconda.org/conda-forge/meshcut) |
