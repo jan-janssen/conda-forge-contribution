@@ -307,3 +307,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pylatte](https://anaconda.org/conda-forge/pylatte) | [![conda](https://anaconda.org/conda-forge/pylatte/badges/downloads.svg)](https://anaconda.org/conda-forge/pylatte) |
 | [codeclimate-test-reporter](https://anaconda.org/conda-forge/codeclimate-test-reporter) | [![conda](https://anaconda.org/conda-forge/codeclimate-test-reporter/badges/downloads.svg)](https://anaconda.org/conda-forge/codeclimate-test-reporter) |
 | [vasppy](https://anaconda.org/conda-forge/vasppy) | [![conda](https://anaconda.org/conda-forge/vasppy/badges/downloads.svg)](https://anaconda.org/conda-forge/vasppy) |
+| [pynauty](https://anaconda.org/conda-forge/pynauty) | [![conda](https://anaconda.org/conda-forge/pynauty/badges/downloads.svg)](https://anaconda.org/conda-forge/pynauty) |
