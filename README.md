@@ -303,3 +303,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [enumlib](https://anaconda.org/conda-forge/enumlib) | [![conda](https://anaconda.org/conda-forge/enumlib/badges/downloads.svg)](https://anaconda.org/conda-forge/enumlib) |
 | [pymatgen-analysis-diffusion](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion) | [![conda](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion) |
 | [pymatgen-lammps](https://anaconda.org/conda-forge/pymatgen-lammps) | [![conda](https://anaconda.org/conda-forge/pymatgen-lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-lammps) |
+| [lammps-interface](https://anaconda.org/conda-forge/lammps-interface) | [![conda](https://anaconda.org/conda-forge/lammps-interface/badges/downloads.svg)](https://anaconda.org/conda-forge/lammps-interface) |
+| [pylatte](https://anaconda.org/conda-forge/pylatte) | [![conda](https://anaconda.org/conda-forge/pylatte/badges/downloads.svg)](https://anaconda.org/conda-forge/pylatte) |
+| [codeclimate-test-reporter](https://anaconda.org/conda-forge/codeclimate-test-reporter) | [![conda](https://anaconda.org/conda-forge/codeclimate-test-reporter/badges/downloads.svg)](https://anaconda.org/conda-forge/codeclimate-test-reporter) |
+| [vasppy](https://anaconda.org/conda-forge/vasppy) | [![conda](https://anaconda.org/conda-forge/vasppy/badges/downloads.svg)](https://anaconda.org/conda-forge/vasppy) |
