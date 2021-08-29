@@ -308,3 +308,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [codeclimate-test-reporter](https://anaconda.org/conda-forge/codeclimate-test-reporter) | [![conda](https://anaconda.org/conda-forge/codeclimate-test-reporter/badges/downloads.svg)](https://anaconda.org/conda-forge/codeclimate-test-reporter) |
 | [vasppy](https://anaconda.org/conda-forge/vasppy) | [![conda](https://anaconda.org/conda-forge/vasppy/badges/downloads.svg)](https://anaconda.org/conda-forge/vasppy) |
 | [pynauty](https://anaconda.org/conda-forge/pynauty) | [![conda](https://anaconda.org/conda-forge/pynauty/badges/downloads.svg)](https://anaconda.org/conda-forge/pynauty) |
+| [apav](https://anaconda.org/conda-forge/apav) | [![conda](https://anaconda.org/conda-forge/apav/badges/downloads.svg)](https://anaconda.org/conda-forge/apav) |
+| [codepy](https://anaconda.org/conda-forge/codepy) | [![conda](https://anaconda.org/conda-forge/codepy/badges/downloads.svg)](https://anaconda.org/conda-forge/codepy) |
+| [loopy](https://anaconda.org/conda-forge/loopy) | [![conda](https://anaconda.org/conda-forge/loopy/badges/downloads.svg)](https://anaconda.org/conda-forge/loopy) |
