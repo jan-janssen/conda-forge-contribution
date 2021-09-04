@@ -311,3 +311,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [apav](https://anaconda.org/conda-forge/apav) | [![conda](https://anaconda.org/conda-forge/apav/badges/downloads.svg)](https://anaconda.org/conda-forge/apav) |
 | [codepy](https://anaconda.org/conda-forge/codepy) | [![conda](https://anaconda.org/conda-forge/codepy/badges/downloads.svg)](https://anaconda.org/conda-forge/codepy) |
 | [loopy](https://anaconda.org/conda-forge/loopy) | [![conda](https://anaconda.org/conda-forge/loopy/badges/downloads.svg)](https://anaconda.org/conda-forge/loopy) |
+| [latte](https://anaconda.org/conda-forge/latte) | [![conda](https://anaconda.org/conda-forge/latte/badges/downloads.svg)](https://anaconda.org/conda-forge/latte) |
+| [mail-parser](https://anaconda.org/conda-forge/mail-parser) | [![conda](https://anaconda.org/conda-forge/mail-parser/badges/downloads.svg)](https://anaconda.org/conda-forge/mail-parser) |
+| [rfc6555](https://anaconda.org/conda-forge/rfc6555) | [![conda](https://anaconda.org/conda-forge/rfc6555/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc6555) |
+| [offlineimap](https://anaconda.org/conda-forge/offlineimap) | [![conda](https://anaconda.org/conda-forge/offlineimap/badges/downloads.svg)](https://anaconda.org/conda-forge/offlineimap) |
+| [pyoutlook](https://anaconda.org/conda-forge/pyoutlook) | [![conda](https://anaconda.org/conda-forge/pyoutlook/badges/downloads.svg)](https://anaconda.org/conda-forge/pyoutlook) |
