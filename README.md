@@ -332,3 +332,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [dtoolai](https://anaconda.org/conda-forge/dtoolai) | [![conda](https://anaconda.org/conda-forge/dtoolai/badges/downloads.svg)](https://anaconda.org/conda-forge/dtoolai) |
 | [dtool-lookup-client](https://anaconda.org/conda-forge/dtool-lookup-client) | [![conda](https://anaconda.org/conda-forge/dtool-lookup-client/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool-lookup-client) |
 | [dtool_azure](https://anaconda.org/conda-forge/dtool_azure) | [![conda](https://anaconda.org/conda-forge/dtool_azure/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_azure) |
+| [dtool_ibeis](https://anaconda.org/conda-forge/dtool_ibeis) | [![conda](https://anaconda.org/conda-forge/dtool_ibeis/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_ibeis) |
+| [ubelt](https://anaconda.org/conda-forge/ubelt) | [![conda](https://anaconda.org/conda-forge/ubelt/badges/downloads.svg)](https://anaconda.org/conda-forge/ubelt) |
+| [utool](https://anaconda.org/conda-forge/utool) | [![conda](https://anaconda.org/conda-forge/utool/badges/downloads.svg)](https://anaconda.org/conda-forge/utool) |
+| [chemml](https://anaconda.org/conda-forge/chemml) | [![conda](https://anaconda.org/conda-forge/chemml/badges/downloads.svg)](https://anaconda.org/conda-forge/chemml) |
+| [molsimplify](https://anaconda.org/conda-forge/molsimplify) | [![conda](https://anaconda.org/conda-forge/molsimplify/badges/downloads.svg)](https://anaconda.org/conda-forge/molsimplify) |
