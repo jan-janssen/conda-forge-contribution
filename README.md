@@ -20,7 +20,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 # List of Packages 
 
 | Package Name | Downloads |
-|:------------:|:---------:|
+|:-------------|:---------:|
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
 | [mutagen](https://anaconda.org/conda-forge/mutagen) | [![conda](https://anaconda.org/conda-forge/mutagen/badges/downloads.svg)](https://anaconda.org/conda-forge/mutagen) |
 | [pymongo](https://anaconda.org/conda-forge/pymongo) | [![conda](https://anaconda.org/conda-forge/pymongo/badges/downloads.svg)](https://anaconda.org/conda-forge/pymongo) |
@@ -30,6 +30,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pytrie](https://anaconda.org/conda-forge/pytrie) | [![conda](https://anaconda.org/conda-forge/pytrie/badges/downloads.svg)](https://anaconda.org/conda-forge/pytrie) |
 | [girder-client](https://anaconda.org/conda-forge/girder-client) | [![conda](https://anaconda.org/conda-forge/girder-client/badges/downloads.svg)](https://anaconda.org/conda-forge/girder-client) |
 | [girder](https://anaconda.org/conda-forge/girder) | [![conda](https://anaconda.org/conda-forge/girder/badges/downloads.svg)](https://anaconda.org/conda-forge/girder) |
+| [scandir](https://anaconda.org/conda-forge/scandir) | [![conda](https://anaconda.org/conda-forge/scandir/badges/downloads.svg)](https://anaconda.org/conda-forge/scandir) |
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
 | [qds-sdk](https://anaconda.org/conda-forge/qds-sdk) | [![conda](https://anaconda.org/conda-forge/qds-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/qds-sdk) |
 | [cement](https://anaconda.org/conda-forge/cement) | [![conda](https://anaconda.org/conda-forge/cement/badges/downloads.svg)](https://anaconda.org/conda-forge/cement) |
@@ -337,3 +338,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [utool](https://anaconda.org/conda-forge/utool) | [![conda](https://anaconda.org/conda-forge/utool/badges/downloads.svg)](https://anaconda.org/conda-forge/utool) |
 | [chemml](https://anaconda.org/conda-forge/chemml) | [![conda](https://anaconda.org/conda-forge/chemml/badges/downloads.svg)](https://anaconda.org/conda-forge/chemml) |
 | [molsimplify](https://anaconda.org/conda-forge/molsimplify) | [![conda](https://anaconda.org/conda-forge/molsimplify/badges/downloads.svg)](https://anaconda.org/conda-forge/molsimplify) |
+| [crest](https://anaconda.org/conda-forge/crest) | [![conda](https://anaconda.org/conda-forge/crest/badges/downloads.svg)](https://anaconda.org/conda-forge/crest) |
