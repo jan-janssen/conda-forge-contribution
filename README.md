@@ -101,6 +101,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ovito](https://anaconda.org/conda-forge/ovito) | [![conda](https://anaconda.org/conda-forge/ovito/badges/downloads.svg)](https://anaconda.org/conda-forge/ovito) |
 | [simpletraj](https://anaconda.org/conda-forge/simpletraj) | [![conda](https://anaconda.org/conda-forge/simpletraj/badges/downloads.svg)](https://anaconda.org/conda-forge/simpletraj) |
 | [atomsk](https://anaconda.org/conda-forge/atomsk) | [![conda](https://anaconda.org/conda-forge/atomsk/badges/downloads.svg)](https://anaconda.org/conda-forge/atomsk) |
+| [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
 | [python-flint](https://anaconda.org/conda-forge/python-flint) | [![conda](https://anaconda.org/conda-forge/python-flint/badges/downloads.svg)](https://anaconda.org/conda-forge/python-flint) |
 | [bcrypt](https://anaconda.org/conda-forge/bcrypt) | [![conda](https://anaconda.org/conda-forge/bcrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/bcrypt) |
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
@@ -339,3 +340,9 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [chemml](https://anaconda.org/conda-forge/chemml) | [![conda](https://anaconda.org/conda-forge/chemml/badges/downloads.svg)](https://anaconda.org/conda-forge/chemml) |
 | [molsimplify](https://anaconda.org/conda-forge/molsimplify) | [![conda](https://anaconda.org/conda-forge/molsimplify/badges/downloads.svg)](https://anaconda.org/conda-forge/molsimplify) |
 | [crest](https://anaconda.org/conda-forge/crest) | [![conda](https://anaconda.org/conda-forge/crest/badges/downloads.svg)](https://anaconda.org/conda-forge/crest) |
+| [awesomeversion](https://anaconda.org/conda-forge/awesomeversion) | [![conda](https://anaconda.org/conda-forge/awesomeversion/badges/downloads.svg)](https://anaconda.org/conda-forge/awesomeversion) |
+| [mt940](https://anaconda.org/conda-forge/mt940) | [![conda](https://anaconda.org/conda-forge/mt940/badges/downloads.svg)](https://anaconda.org/conda-forge/mt940) |
+| [fints](https://anaconda.org/conda-forge/fints) | [![conda](https://anaconda.org/conda-forge/fints/badges/downloads.svg)](https://anaconda.org/conda-forge/fints) |
+| [sepaxml](https://anaconda.org/conda-forge/sepaxml) | [![conda](https://anaconda.org/conda-forge/sepaxml/badges/downloads.svg)](https://anaconda.org/conda-forge/sepaxml) |
+| [homeassistant](https://anaconda.org/conda-forge/homeassistant) | [![conda](https://anaconda.org/conda-forge/homeassistant/badges/downloads.svg)](https://anaconda.org/conda-forge/homeassistant) |
+| [voluptuous-serialize](https://anaconda.org/conda-forge/voluptuous-serialize) | [![conda](https://anaconda.org/conda-forge/voluptuous-serialize/badges/downloads.svg)](https://anaconda.org/conda-forge/voluptuous-serialize) |
