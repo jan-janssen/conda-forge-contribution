@@ -286,6 +286,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [euporie](https://anaconda.org/conda-forge/euporie) | [![conda](https://anaconda.org/conda-forge/euporie/badges/downloads.svg)](https://anaconda.org/conda-forge/euporie) |
 | [pyiron_gui](https://anaconda.org/conda-forge/pyiron_gui) | [![conda](https://anaconda.org/conda-forge/pyiron_gui/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_gui) |
 | [smartmontools](https://anaconda.org/conda-forge/smartmontools) | [![conda](https://anaconda.org/conda-forge/smartmontools/badges/downloads.svg)](https://anaconda.org/conda-forge/smartmontools) |
+| [yfinance](https://anaconda.org/conda-forge/yfinance) | [![conda](https://anaconda.org/conda-forge/yfinance/badges/downloads.svg)](https://anaconda.org/conda-forge/yfinance) |
 | [kanapy](https://anaconda.org/conda-forge/kanapy) | [![conda](https://anaconda.org/conda-forge/kanapy/badges/downloads.svg)](https://anaconda.org/conda-forge/kanapy) |
 | [chemprop](https://anaconda.org/conda-forge/chemprop) | [![conda](https://anaconda.org/conda-forge/chemprop/badges/downloads.svg)](https://anaconda.org/conda-forge/chemprop) |
 | [typed-argument-parser](https://anaconda.org/conda-forge/typed-argument-parser) | [![conda](https://anaconda.org/conda-forge/typed-argument-parser/badges/downloads.svg)](https://anaconda.org/conda-forge/typed-argument-parser) |
@@ -346,3 +347,14 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [sepaxml](https://anaconda.org/conda-forge/sepaxml) | [![conda](https://anaconda.org/conda-forge/sepaxml/badges/downloads.svg)](https://anaconda.org/conda-forge/sepaxml) |
 | [homeassistant](https://anaconda.org/conda-forge/homeassistant) | [![conda](https://anaconda.org/conda-forge/homeassistant/badges/downloads.svg)](https://anaconda.org/conda-forge/homeassistant) |
 | [voluptuous-serialize](https://anaconda.org/conda-forge/voluptuous-serialize) | [![conda](https://anaconda.org/conda-forge/voluptuous-serialize/badges/downloads.svg)](https://anaconda.org/conda-forge/voluptuous-serialize) |
+| [pytube](https://anaconda.org/conda-forge/pytube) | [![conda](https://anaconda.org/conda-forge/pytube/badges/downloads.svg)](https://anaconda.org/conda-forge/pytube) |
+| [aiotube](https://anaconda.org/conda-forge/aiotube) | [![conda](https://anaconda.org/conda-forge/aiotube/badges/downloads.svg)](https://anaconda.org/conda-forge/aiotube) |
+| [pure-python-adb](https://anaconda.org/conda-forge/pure-python-adb) | [![conda](https://anaconda.org/conda-forge/pure-python-adb/badges/downloads.svg)](https://anaconda.org/conda-forge/pure-python-adb) |
+| [tld](https://anaconda.org/conda-forge/tld) | [![conda](https://anaconda.org/conda-forge/tld/badges/downloads.svg)](https://anaconda.org/conda-forge/tld) |
+| [adb-shell](https://anaconda.org/conda-forge/adb-shell) | [![conda](https://anaconda.org/conda-forge/adb-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/adb-shell) |
+| [pycoingecko](https://anaconda.org/conda-forge/pycoingecko) | [![conda](https://anaconda.org/conda-forge/pycoingecko/badges/downloads.svg)](https://anaconda.org/conda-forge/pycoingecko) |
+| [py-find-1st](https://anaconda.org/conda-forge/py-find-1st) | [![conda](https://anaconda.org/conda-forge/py-find-1st/badges/downloads.svg)](https://anaconda.org/conda-forge/py-find-1st) |
+| [technical](https://anaconda.org/conda-forge/technical) | [![conda](https://anaconda.org/conda-forge/technical/badges/downloads.svg)](https://anaconda.org/conda-forge/technical) |
+| [pandas-ta](https://anaconda.org/conda-forge/pandas-ta) | [![conda](https://anaconda.org/conda-forge/pandas-ta/badges/downloads.svg)](https://anaconda.org/conda-forge/pandas-ta) |
+| [search-engine-parser](https://anaconda.org/conda-forge/search-engine-parser) | [![conda](https://anaconda.org/conda-forge/search-engine-parser/badges/downloads.svg)](https://anaconda.org/conda-forge/search-engine-parser) |
+| [social-analyzer](https://anaconda.org/conda-forge/social-analyzer) | [![conda](https://anaconda.org/conda-forge/social-analyzer/badges/downloads.svg)](https://anaconda.org/conda-forge/social-analyzer) |
