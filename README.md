@@ -21,6 +21,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 
 | Package Name | Downloads |
 |:-------------|:---------:|
+| [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
 | [mutagen](https://anaconda.org/conda-forge/mutagen) | [![conda](https://anaconda.org/conda-forge/mutagen/badges/downloads.svg)](https://anaconda.org/conda-forge/mutagen) |
 | [pymongo](https://anaconda.org/conda-forge/pymongo) | [![conda](https://anaconda.org/conda-forge/pymongo/badges/downloads.svg)](https://anaconda.org/conda-forge/pymongo) |
@@ -365,3 +366,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [batoms-api](https://anaconda.org/conda-forge/batoms-api) | [![conda](https://anaconda.org/conda-forge/batoms-api/badges/downloads.svg)](https://anaconda.org/conda-forge/batoms-api) |
 | [batoms](https://anaconda.org/conda-forge/batoms) | [![conda](https://anaconda.org/conda-forge/batoms/badges/downloads.svg)](https://anaconda.org/conda-forge/batoms) |
 | [calphy](https://anaconda.org/conda-forge/calphy) | [![conda](https://anaconda.org/conda-forge/calphy/badges/downloads.svg)](https://anaconda.org/conda-forge/calphy) |
+| [i-pi](https://anaconda.org/conda-forge/i-pi) | [![conda](https://anaconda.org/conda-forge/i-pi/badges/downloads.svg)](https://anaconda.org/conda-forge/i-pi) |
+| [where](https://anaconda.org/conda-forge/where) | [![conda](https://anaconda.org/conda-forge/where/badges/downloads.svg)](https://anaconda.org/conda-forge/where) |
+| [itermate](https://anaconda.org/conda-forge/itermate) | [![conda](https://anaconda.org/conda-forge/itermate/badges/downloads.svg)](https://anaconda.org/conda-forge/itermate) |
+| [pumml](https://anaconda.org/conda-forge/pumml) | [![conda](https://anaconda.org/conda-forge/pumml/badges/downloads.svg)](https://anaconda.org/conda-forge/pumml) |
