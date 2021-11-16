@@ -374,3 +374,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [python_version](https://anaconda.org/conda-forge/python_version) | [![conda](https://anaconda.org/conda-forge/python_version/badges/downloads.svg)](https://anaconda.org/conda-forge/python_version) |
 | [jraph](https://anaconda.org/conda-forge/jraph) | [![conda](https://anaconda.org/conda-forge/jraph/badges/downloads.svg)](https://anaconda.org/conda-forge/jraph) |
 | [jmp](https://anaconda.org/conda-forge/jmp) | [![conda](https://anaconda.org/conda-forge/jmp/badges/downloads.svg)](https://anaconda.org/conda-forge/jmp) |
+| [aproc](https://anaconda.org/conda-forge/aproc) | [![conda](https://anaconda.org/conda-forge/aproc/badges/downloads.svg)](https://anaconda.org/conda-forge/aproc) |
+| [fortio](https://anaconda.org/conda-forge/fortio) | [![conda](https://anaconda.org/conda-forge/fortio/badges/downloads.svg)](https://anaconda.org/conda-forge/fortio) |
+| [sty](https://anaconda.org/conda-forge/sty) | [![conda](https://anaconda.org/conda-forge/sty/badges/downloads.svg)](https://anaconda.org/conda-forge/sty) |
+| [precice](https://anaconda.org/conda-forge/precice) | [![conda](https://anaconda.org/conda-forge/precice/badges/downloads.svg)](https://anaconda.org/conda-forge/precice) |
+| [pyprecice](https://anaconda.org/conda-forge/pyprecice) | [![conda](https://anaconda.org/conda-forge/pyprecice/badges/downloads.svg)](https://anaconda.org/conda-forge/pyprecice) |
