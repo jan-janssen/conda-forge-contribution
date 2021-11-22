@@ -58,6 +58,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [zconfig](https://anaconda.org/conda-forge/zconfig) | [![conda](https://anaconda.org/conda-forge/zconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/zconfig) |
 | [flask-migrate](https://anaconda.org/conda-forge/flask-migrate) | [![conda](https://anaconda.org/conda-forge/flask-migrate/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-migrate) |
 | [fenics](https://anaconda.org/conda-forge/fenics) | [![conda](https://anaconda.org/conda-forge/fenics/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics) |
+| [petsc](https://anaconda.org/conda-forge/petsc) | [![conda](https://anaconda.org/conda-forge/petsc/badges/downloads.svg)](https://anaconda.org/conda-forge/petsc) |
 | [phonopy](https://anaconda.org/conda-forge/phonopy) | [![conda](https://anaconda.org/conda-forge/phonopy/badges/downloads.svg)](https://anaconda.org/conda-forge/phonopy) |
 | [monty](https://anaconda.org/conda-forge/monty) | [![conda](https://anaconda.org/conda-forge/monty/badges/downloads.svg)](https://anaconda.org/conda-forge/monty) |
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
@@ -379,3 +380,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [sty](https://anaconda.org/conda-forge/sty) | [![conda](https://anaconda.org/conda-forge/sty/badges/downloads.svg)](https://anaconda.org/conda-forge/sty) |
 | [precice](https://anaconda.org/conda-forge/precice) | [![conda](https://anaconda.org/conda-forge/precice/badges/downloads.svg)](https://anaconda.org/conda-forge/precice) |
 | [pyprecice](https://anaconda.org/conda-forge/pyprecice) | [![conda](https://anaconda.org/conda-forge/pyprecice/badges/downloads.svg)](https://anaconda.org/conda-forge/pyprecice) |
+| [fenicsprecice](https://anaconda.org/conda-forge/fenicsprecice) | [![conda](https://anaconda.org/conda-forge/fenicsprecice/badges/downloads.svg)](https://anaconda.org/conda-forge/fenicsprecice) |
+| [scienceplots](https://anaconda.org/conda-forge/scienceplots) | [![conda](https://anaconda.org/conda-forge/scienceplots/badges/downloads.svg)](https://anaconda.org/conda-forge/scienceplots) |
