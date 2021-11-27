@@ -21,6 +21,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 
 | Package Name | Downloads |
 |:-------------|:---------:|
+| [h5py](https://anaconda.org/conda-forge/h5py) | [![conda](https://anaconda.org/conda-forge/h5py/badges/downloads.svg)](https://anaconda.org/conda-forge/h5py) |
 | [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
 | [mutagen](https://anaconda.org/conda-forge/mutagen) | [![conda](https://anaconda.org/conda-forge/mutagen/badges/downloads.svg)](https://anaconda.org/conda-forge/mutagen) |
