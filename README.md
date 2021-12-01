@@ -383,3 +383,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyprecice](https://anaconda.org/conda-forge/pyprecice) | [![conda](https://anaconda.org/conda-forge/pyprecice/badges/downloads.svg)](https://anaconda.org/conda-forge/pyprecice) |
 | [fenicsprecice](https://anaconda.org/conda-forge/fenicsprecice) | [![conda](https://anaconda.org/conda-forge/fenicsprecice/badges/downloads.svg)](https://anaconda.org/conda-forge/fenicsprecice) |
 | [scienceplots](https://anaconda.org/conda-forge/scienceplots) | [![conda](https://anaconda.org/conda-forge/scienceplots/badges/downloads.svg)](https://anaconda.org/conda-forge/scienceplots) |
+| [sssp](https://anaconda.org/conda-forge/sssp) | [![conda](https://anaconda.org/conda-forge/sssp/badges/downloads.svg)](https://anaconda.org/conda-forge/sssp) |
+| [linkedin-scraper](https://anaconda.org/conda-forge/linkedin-scraper) | [![conda](https://anaconda.org/conda-forge/linkedin-scraper/badges/downloads.svg)](https://anaconda.org/conda-forge/linkedin-scraper) |
+| [linkedin-api](https://anaconda.org/conda-forge/linkedin-api) | [![conda](https://anaconda.org/conda-forge/linkedin-api/badges/downloads.svg)](https://anaconda.org/conda-forge/linkedin-api) |
