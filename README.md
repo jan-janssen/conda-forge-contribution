@@ -35,6 +35,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [girder](https://anaconda.org/conda-forge/girder) | [![conda](https://anaconda.org/conda-forge/girder/badges/downloads.svg)](https://anaconda.org/conda-forge/girder) |
 | [scandir](https://anaconda.org/conda-forge/scandir) | [![conda](https://anaconda.org/conda-forge/scandir/badges/downloads.svg)](https://anaconda.org/conda-forge/scandir) |
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
+| [speechrecognition](https://anaconda.org/conda-forge/speechrecognition) | [![conda](https://anaconda.org/conda-forge/speechrecognition/badges/downloads.svg)](https://anaconda.org/conda-forge/speechrecognition) |
 | [qds-sdk](https://anaconda.org/conda-forge/qds-sdk) | [![conda](https://anaconda.org/conda-forge/qds-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/qds-sdk) |
 | [cement](https://anaconda.org/conda-forge/cement) | [![conda](https://anaconda.org/conda-forge/cement/badges/downloads.svg)](https://anaconda.org/conda-forge/cement) |
 | [tldextract](https://anaconda.org/conda-forge/tldextract) | [![conda](https://anaconda.org/conda-forge/tldextract/badges/downloads.svg)](https://anaconda.org/conda-forge/tldextract) |
@@ -387,3 +388,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [sssp](https://anaconda.org/conda-forge/sssp) | [![conda](https://anaconda.org/conda-forge/sssp/badges/downloads.svg)](https://anaconda.org/conda-forge/sssp) |
 | [linkedin-scraper](https://anaconda.org/conda-forge/linkedin-scraper) | [![conda](https://anaconda.org/conda-forge/linkedin-scraper/badges/downloads.svg)](https://anaconda.org/conda-forge/linkedin-scraper) |
 | [linkedin-api](https://anaconda.org/conda-forge/linkedin-api) | [![conda](https://anaconda.org/conda-forge/linkedin-api/badges/downloads.svg)](https://anaconda.org/conda-forge/linkedin-api) |
+| [uncertainty-toolbox](https://anaconda.org/conda-forge/uncertainty-toolbox) | [![conda](https://anaconda.org/conda-forge/uncertainty-toolbox/badges/downloads.svg)](https://anaconda.org/conda-forge/uncertainty-toolbox) |
+| [libecpint](https://anaconda.org/conda-forge/libecpint) | [![conda](https://anaconda.org/conda-forge/libecpint/badges/downloads.svg)](https://anaconda.org/conda-forge/libecpint) |
+| [handcalcs](https://anaconda.org/conda-forge/handcalcs) | [![conda](https://anaconda.org/conda-forge/handcalcs/badges/downloads.svg)](https://anaconda.org/conda-forge/handcalcs) |
+| [votca](https://anaconda.org/conda-forge/votca) | [![conda](https://anaconda.org/conda-forge/votca/badges/downloads.svg)](https://anaconda.org/conda-forge/votca) |
