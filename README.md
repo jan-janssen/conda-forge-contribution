@@ -392,3 +392,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [libecpint](https://anaconda.org/conda-forge/libecpint) | [![conda](https://anaconda.org/conda-forge/libecpint/badges/downloads.svg)](https://anaconda.org/conda-forge/libecpint) |
 | [handcalcs](https://anaconda.org/conda-forge/handcalcs) | [![conda](https://anaconda.org/conda-forge/handcalcs/badges/downloads.svg)](https://anaconda.org/conda-forge/handcalcs) |
 | [votca](https://anaconda.org/conda-forge/votca) | [![conda](https://anaconda.org/conda-forge/votca/badges/downloads.svg)](https://anaconda.org/conda-forge/votca) |
+| [torchmd](https://anaconda.org/conda-forge/torchmd) | [![conda](https://anaconda.org/conda-forge/torchmd/badges/downloads.svg)](https://anaconda.org/conda-forge/torchmd) |
+| [jobflow](https://anaconda.org/conda-forge/jobflow) | [![conda](https://anaconda.org/conda-forge/jobflow/badges/downloads.svg)](https://anaconda.org/conda-forge/jobflow) |
