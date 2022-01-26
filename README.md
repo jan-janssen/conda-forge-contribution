@@ -85,6 +85,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
 | [pyperclip](https://anaconda.org/conda-forge/pyperclip) | [![conda](https://anaconda.org/conda-forge/pyperclip/badges/downloads.svg)](https://anaconda.org/conda-forge/pyperclip) |
 | [furl](https://anaconda.org/conda-forge/furl) | [![conda](https://anaconda.org/conda-forge/furl/badges/downloads.svg)](https://anaconda.org/conda-forge/furl) |
+| [pyside2](https://anaconda.org/conda-forge/pyside2) | [![conda](https://anaconda.org/conda-forge/pyside2/badges/downloads.svg)](https://anaconda.org/conda-forge/pyside2) |
 | [infinity](https://anaconda.org/conda-forge/infinity) | [![conda](https://anaconda.org/conda-forge/infinity/badges/downloads.svg)](https://anaconda.org/conda-forge/infinity) |
 | [intervals](https://anaconda.org/conda-forge/intervals) | [![conda](https://anaconda.org/conda-forge/intervals/badges/downloads.svg)](https://anaconda.org/conda-forge/intervals) |
 | [dnspython](https://anaconda.org/conda-forge/dnspython) | [![conda](https://anaconda.org/conda-forge/dnspython/badges/downloads.svg)](https://anaconda.org/conda-forge/dnspython) |
@@ -394,3 +395,9 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [votca](https://anaconda.org/conda-forge/votca) | [![conda](https://anaconda.org/conda-forge/votca/badges/downloads.svg)](https://anaconda.org/conda-forge/votca) |
 | [torchmd](https://anaconda.org/conda-forge/torchmd) | [![conda](https://anaconda.org/conda-forge/torchmd/badges/downloads.svg)](https://anaconda.org/conda-forge/torchmd) |
 | [jobflow](https://anaconda.org/conda-forge/jobflow) | [![conda](https://anaconda.org/conda-forge/jobflow/badges/downloads.svg)](https://anaconda.org/conda-forge/jobflow) |
+| [python-binance](https://anaconda.org/conda-forge/python-binance) | [![conda](https://anaconda.org/conda-forge/python-binance/badges/downloads.svg)](https://anaconda.org/conda-forge/python-binance) |
+| [waiting](https://anaconda.org/conda-forge/waiting) | [![conda](https://anaconda.org/conda-forge/waiting/badges/downloads.svg)](https://anaconda.org/conda-forge/waiting) |
+| [ryvencore](https://anaconda.org/conda-forge/ryvencore) | [![conda](https://anaconda.org/conda-forge/ryvencore/badges/downloads.svg)](https://anaconda.org/conda-forge/ryvencore) |
+| [ryvencore-qt](https://anaconda.org/conda-forge/ryvencore-qt) | [![conda](https://anaconda.org/conda-forge/ryvencore-qt/badges/downloads.svg)](https://anaconda.org/conda-forge/ryvencore-qt) |
+| [ryven](https://anaconda.org/conda-forge/ryven) | [![conda](https://anaconda.org/conda-forge/ryven/badges/downloads.svg)](https://anaconda.org/conda-forge/ryven) |
+| [simplegmail](https://anaconda.org/conda-forge/simplegmail) | [![conda](https://anaconda.org/conda-forge/simplegmail/badges/downloads.svg)](https://anaconda.org/conda-forge/simplegmail) |
