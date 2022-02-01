@@ -82,7 +82,9 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [transaction](https://anaconda.org/conda-forge/transaction) | [![conda](https://anaconda.org/conda-forge/transaction/badges/downloads.svg)](https://anaconda.org/conda-forge/transaction) |
 | [zodb](https://anaconda.org/conda-forge/zodb) | [![conda](https://anaconda.org/conda-forge/zodb/badges/downloads.svg)](https://anaconda.org/conda-forge/zodb) |
 | [zeo](https://anaconda.org/conda-forge/zeo) | [![conda](https://anaconda.org/conda-forge/zeo/badges/downloads.svg)](https://anaconda.org/conda-forge/zeo) |
+| [google-auth](https://anaconda.org/conda-forge/google-auth) | [![conda](https://anaconda.org/conda-forge/google-auth/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth) |
 | [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
+| [moto](https://anaconda.org/conda-forge/moto) | [![conda](https://anaconda.org/conda-forge/moto/badges/downloads.svg)](https://anaconda.org/conda-forge/moto) |
 | [pyperclip](https://anaconda.org/conda-forge/pyperclip) | [![conda](https://anaconda.org/conda-forge/pyperclip/badges/downloads.svg)](https://anaconda.org/conda-forge/pyperclip) |
 | [furl](https://anaconda.org/conda-forge/furl) | [![conda](https://anaconda.org/conda-forge/furl/badges/downloads.svg)](https://anaconda.org/conda-forge/furl) |
 | [pyside2](https://anaconda.org/conda-forge/pyside2) | [![conda](https://anaconda.org/conda-forge/pyside2/badges/downloads.svg)](https://anaconda.org/conda-forge/pyside2) |
@@ -94,6 +96,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [plac](https://anaconda.org/conda-forge/plac) | [![conda](https://anaconda.org/conda-forge/plac/badges/downloads.svg)](https://anaconda.org/conda-forge/plac) |
 | [scrypt](https://anaconda.org/conda-forge/scrypt) | [![conda](https://anaconda.org/conda-forge/scrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/scrypt) |
 | [siesta](https://anaconda.org/conda-forge/siesta) | [![conda](https://anaconda.org/conda-forge/siesta/badges/downloads.svg)](https://anaconda.org/conda-forge/siesta) |
+| [oletools](https://anaconda.org/conda-forge/oletools) | [![conda](https://anaconda.org/conda-forge/oletools/badges/downloads.svg)](https://anaconda.org/conda-forge/oletools) |
 | [h5io](https://anaconda.org/conda-forge/h5io) | [![conda](https://anaconda.org/conda-forge/h5io/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io) |
 | [python-box](https://anaconda.org/conda-forge/python-box) | [![conda](https://anaconda.org/conda-forge/python-box/badges/downloads.svg)](https://anaconda.org/conda-forge/python-box) |
 | [pyiron](https://anaconda.org/conda-forge/pyiron) | [![conda](https://anaconda.org/conda-forge/pyiron/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron) |
@@ -401,3 +404,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ryvencore-qt](https://anaconda.org/conda-forge/ryvencore-qt) | [![conda](https://anaconda.org/conda-forge/ryvencore-qt/badges/downloads.svg)](https://anaconda.org/conda-forge/ryvencore-qt) |
 | [ryven](https://anaconda.org/conda-forge/ryven) | [![conda](https://anaconda.org/conda-forge/ryven/badges/downloads.svg)](https://anaconda.org/conda-forge/ryven) |
 | [simplegmail](https://anaconda.org/conda-forge/simplegmail) | [![conda](https://anaconda.org/conda-forge/simplegmail/badges/downloads.svg)](https://anaconda.org/conda-forge/simplegmail) |
+| [google-drive](https://anaconda.org/conda-forge/google-drive) | [![conda](https://anaconda.org/conda-forge/google-drive/badges/downloads.svg)](https://anaconda.org/conda-forge/google-drive) |
+| [rtfde](https://anaconda.org/conda-forge/rtfde) | [![conda](https://anaconda.org/conda-forge/rtfde/badges/downloads.svg)](https://anaconda.org/conda-forge/rtfde) |
+| [msoffcrypto-tool](https://anaconda.org/conda-forge/msoffcrypto-tool) | [![conda](https://anaconda.org/conda-forge/msoffcrypto-tool/badges/downloads.svg)](https://anaconda.org/conda-forge/msoffcrypto-tool) |
+| [pcodedmp](https://anaconda.org/conda-forge/pcodedmp) | [![conda](https://anaconda.org/conda-forge/pcodedmp/badges/downloads.svg)](https://anaconda.org/conda-forge/pcodedmp) |
