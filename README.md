@@ -94,6 +94,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [langdetect](https://anaconda.org/conda-forge/langdetect) | [![conda](https://anaconda.org/conda-forge/langdetect/badges/downloads.svg)](https://anaconda.org/conda-forge/langdetect) |
 | [dotmap](https://anaconda.org/conda-forge/dotmap) | [![conda](https://anaconda.org/conda-forge/dotmap/badges/downloads.svg)](https://anaconda.org/conda-forge/dotmap) |
 | [plac](https://anaconda.org/conda-forge/plac) | [![conda](https://anaconda.org/conda-forge/plac/badges/downloads.svg)](https://anaconda.org/conda-forge/plac) |
+| [aenum](https://anaconda.org/conda-forge/aenum) | [![conda](https://anaconda.org/conda-forge/aenum/badges/downloads.svg)](https://anaconda.org/conda-forge/aenum) |
 | [scrypt](https://anaconda.org/conda-forge/scrypt) | [![conda](https://anaconda.org/conda-forge/scrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/scrypt) |
 | [siesta](https://anaconda.org/conda-forge/siesta) | [![conda](https://anaconda.org/conda-forge/siesta/badges/downloads.svg)](https://anaconda.org/conda-forge/siesta) |
 | [oletools](https://anaconda.org/conda-forge/oletools) | [![conda](https://anaconda.org/conda-forge/oletools/badges/downloads.svg)](https://anaconda.org/conda-forge/oletools) |
@@ -408,3 +409,12 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [rtfde](https://anaconda.org/conda-forge/rtfde) | [![conda](https://anaconda.org/conda-forge/rtfde/badges/downloads.svg)](https://anaconda.org/conda-forge/rtfde) |
 | [msoffcrypto-tool](https://anaconda.org/conda-forge/msoffcrypto-tool) | [![conda](https://anaconda.org/conda-forge/msoffcrypto-tool/badges/downloads.svg)](https://anaconda.org/conda-forge/msoffcrypto-tool) |
 | [pcodedmp](https://anaconda.org/conda-forge/pcodedmp) | [![conda](https://anaconda.org/conda-forge/pcodedmp/badges/downloads.svg)](https://anaconda.org/conda-forge/pcodedmp) |
+| [flatlatex](https://anaconda.org/conda-forge/flatlatex) | [![conda](https://anaconda.org/conda-forge/flatlatex/badges/downloads.svg)](https://anaconda.org/conda-forge/flatlatex) |
+| [matbench](https://anaconda.org/conda-forge/matbench) | [![conda](https://anaconda.org/conda-forge/matbench/badges/downloads.svg)](https://anaconda.org/conda-forge/matbench) |
+| [merge-args](https://anaconda.org/conda-forge/merge-args) | [![conda](https://anaconda.org/conda-forge/merge-args/badges/downloads.svg)](https://anaconda.org/conda-forge/merge-args) |
+| [uvicore](https://anaconda.org/conda-forge/uvicore) | [![conda](https://anaconda.org/conda-forge/uvicore/badges/downloads.svg)](https://anaconda.org/conda-forge/uvicore) |
+| [pydatamail_google](https://anaconda.org/conda-forge/pydatamail_google) | [![conda](https://anaconda.org/conda-forge/pydatamail_google/badges/downloads.svg)](https://anaconda.org/conda-forge/pydatamail_google) |
+| [pydatamail](https://anaconda.org/conda-forge/pydatamail) | [![conda](https://anaconda.org/conda-forge/pydatamail/badges/downloads.svg)](https://anaconda.org/conda-forge/pydatamail) |
+| [pymov2gif](https://anaconda.org/conda-forge/pymov2gif) | [![conda](https://anaconda.org/conda-forge/pymov2gif/badges/downloads.svg)](https://anaconda.org/conda-forge/pymov2gif) |
+| [pyimapsync](https://anaconda.org/conda-forge/pyimapsync) | [![conda](https://anaconda.org/conda-forge/pyimapsync/badges/downloads.svg)](https://anaconda.org/conda-forge/pyimapsync) |
+| [email2pdf2](https://anaconda.org/conda-forge/email2pdf2) | [![conda](https://anaconda.org/conda-forge/email2pdf2/badges/downloads.svg)](https://anaconda.org/conda-forge/email2pdf2) |
