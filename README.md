@@ -418,3 +418,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pymov2gif](https://anaconda.org/conda-forge/pymov2gif) | [![conda](https://anaconda.org/conda-forge/pymov2gif/badges/downloads.svg)](https://anaconda.org/conda-forge/pymov2gif) |
 | [pyimapsync](https://anaconda.org/conda-forge/pyimapsync) | [![conda](https://anaconda.org/conda-forge/pyimapsync/badges/downloads.svg)](https://anaconda.org/conda-forge/pyimapsync) |
 | [email2pdf2](https://anaconda.org/conda-forge/email2pdf2) | [![conda](https://anaconda.org/conda-forge/email2pdf2/badges/downloads.svg)](https://anaconda.org/conda-forge/email2pdf2) |
+| [basisgen](https://anaconda.org/conda-forge/basisgen) | [![conda](https://anaconda.org/conda-forge/basisgen/badges/downloads.svg)](https://anaconda.org/conda-forge/basisgen) |
+| [galeodes](https://anaconda.org/conda-forge/galeodes) | [![conda](https://anaconda.org/conda-forge/galeodes/badges/downloads.svg)](https://anaconda.org/conda-forge/galeodes) |
+| [pycronserver](https://anaconda.org/conda-forge/pycronserver) | [![conda](https://anaconda.org/conda-forge/pycronserver/badges/downloads.svg)](https://anaconda.org/conda-forge/pycronserver) |
