@@ -110,6 +110,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [lammps](https://anaconda.org/conda-forge/lammps) | [![conda](https://anaconda.org/conda-forge/lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/lammps) |
 | [libsigsegv](https://anaconda.org/conda-forge/libsigsegv) | [![conda](https://anaconda.org/conda-forge/libsigsegv/badges/downloads.svg)](https://anaconda.org/conda-forge/libsigsegv) |
 | [ovito](https://anaconda.org/conda-forge/ovito) | [![conda](https://anaconda.org/conda-forge/ovito/badges/downloads.svg)](https://anaconda.org/conda-forge/ovito) |
+| [python-crontab](https://anaconda.org/conda-forge/python-crontab) | [![conda](https://anaconda.org/conda-forge/python-crontab/badges/downloads.svg)](https://anaconda.org/conda-forge/python-crontab) |
 | [simpletraj](https://anaconda.org/conda-forge/simpletraj) | [![conda](https://anaconda.org/conda-forge/simpletraj/badges/downloads.svg)](https://anaconda.org/conda-forge/simpletraj) |
 | [atomsk](https://anaconda.org/conda-forge/atomsk) | [![conda](https://anaconda.org/conda-forge/atomsk/badges/downloads.svg)](https://anaconda.org/conda-forge/atomsk) |
 | [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
@@ -421,3 +422,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [basisgen](https://anaconda.org/conda-forge/basisgen) | [![conda](https://anaconda.org/conda-forge/basisgen/badges/downloads.svg)](https://anaconda.org/conda-forge/basisgen) |
 | [galeodes](https://anaconda.org/conda-forge/galeodes) | [![conda](https://anaconda.org/conda-forge/galeodes/badges/downloads.svg)](https://anaconda.org/conda-forge/galeodes) |
 | [pycronserver](https://anaconda.org/conda-forge/pycronserver) | [![conda](https://anaconda.org/conda-forge/pycronserver/badges/downloads.svg)](https://anaconda.org/conda-forge/pycronserver) |
+| [timg](https://anaconda.org/conda-forge/timg) | [![conda](https://anaconda.org/conda-forge/timg/badges/downloads.svg)](https://anaconda.org/conda-forge/timg) |
+| [astromodels](https://anaconda.org/conda-forge/astromodels) | [![conda](https://anaconda.org/conda-forge/astromodels/badges/downloads.svg)](https://anaconda.org/conda-forge/astromodels) |
