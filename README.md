@@ -64,6 +64,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [phonopy](https://anaconda.org/conda-forge/phonopy) | [![conda](https://anaconda.org/conda-forge/phonopy/badges/downloads.svg)](https://anaconda.org/conda-forge/phonopy) |
 | [monty](https://anaconda.org/conda-forge/monty) | [![conda](https://anaconda.org/conda-forge/monty/badges/downloads.svg)](https://anaconda.org/conda-forge/monty) |
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
+| [leather](https://anaconda.org/conda-forge/leather) | [![conda](https://anaconda.org/conda-forge/leather/badges/downloads.svg)](https://anaconda.org/conda-forge/leather) |
 | [agate](https://anaconda.org/conda-forge/agate) | [![conda](https://anaconda.org/conda-forge/agate/badges/downloads.svg)](https://anaconda.org/conda-forge/agate) |
 | [agate-dbf](https://anaconda.org/conda-forge/agate-dbf) | [![conda](https://anaconda.org/conda-forge/agate-dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-dbf) |
 | [agate-sql](https://anaconda.org/conda-forge/agate-sql) | [![conda](https://anaconda.org/conda-forge/agate-sql/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-sql) |
@@ -425,3 +426,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [timg](https://anaconda.org/conda-forge/timg) | [![conda](https://anaconda.org/conda-forge/timg/badges/downloads.svg)](https://anaconda.org/conda-forge/timg) |
 | [astromodels](https://anaconda.org/conda-forge/astromodels) | [![conda](https://anaconda.org/conda-forge/astromodels/badges/downloads.svg)](https://anaconda.org/conda-forge/astromodels) |
 | [gromacs](https://anaconda.org/conda-forge/gromacs) | [![conda](https://anaconda.org/conda-forge/gromacs/badges/downloads.svg)](https://anaconda.org/conda-forge/gromacs) |
+| [moltemplate](https://anaconda.org/conda-forge/moltemplate) | [![conda](https://anaconda.org/conda-forge/moltemplate/badges/downloads.svg)](https://anaconda.org/conda-forge/moltemplate) |
