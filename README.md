@@ -427,3 +427,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [astromodels](https://anaconda.org/conda-forge/astromodels) | [![conda](https://anaconda.org/conda-forge/astromodels/badges/downloads.svg)](https://anaconda.org/conda-forge/astromodels) |
 | [gromacs](https://anaconda.org/conda-forge/gromacs) | [![conda](https://anaconda.org/conda-forge/gromacs/badges/downloads.svg)](https://anaconda.org/conda-forge/gromacs) |
 | [moltemplate](https://anaconda.org/conda-forge/moltemplate) | [![conda](https://anaconda.org/conda-forge/moltemplate/badges/downloads.svg)](https://anaconda.org/conda-forge/moltemplate) |
+| [qforce](https://anaconda.org/conda-forge/qforce) | [![conda](https://anaconda.org/conda-forge/qforce/badges/downloads.svg)](https://anaconda.org/conda-forge/qforce) |
+| [blueqat](https://anaconda.org/conda-forge/blueqat) | [![conda](https://anaconda.org/conda-forge/blueqat/badges/downloads.svg)](https://anaconda.org/conda-forge/blueqat) |
+| [pycolt](https://anaconda.org/conda-forge/pycolt) | [![conda](https://anaconda.org/conda-forge/pycolt/badges/downloads.svg)](https://anaconda.org/conda-forge/pycolt) |
+| [ezyrb](https://anaconda.org/conda-forge/ezyrb) | [![conda](https://anaconda.org/conda-forge/ezyrb/badges/downloads.svg)](https://anaconda.org/conda-forge/ezyrb) |
