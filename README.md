@@ -431,3 +431,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [blueqat](https://anaconda.org/conda-forge/blueqat) | [![conda](https://anaconda.org/conda-forge/blueqat/badges/downloads.svg)](https://anaconda.org/conda-forge/blueqat) |
 | [pycolt](https://anaconda.org/conda-forge/pycolt) | [![conda](https://anaconda.org/conda-forge/pycolt/badges/downloads.svg)](https://anaconda.org/conda-forge/pycolt) |
 | [ezyrb](https://anaconda.org/conda-forge/ezyrb) | [![conda](https://anaconda.org/conda-forge/ezyrb/badges/downloads.svg)](https://anaconda.org/conda-forge/ezyrb) |
+| [quacc](https://anaconda.org/conda-forge/quacc) | [![conda](https://anaconda.org/conda-forge/quacc/badges/downloads.svg)](https://anaconda.org/conda-forge/quacc) |
+| [atomate2](https://anaconda.org/conda-forge/atomate2) | [![conda](https://anaconda.org/conda-forge/atomate2/badges/downloads.svg)](https://anaconda.org/conda-forge/atomate2) |
+| [turbo-seti](https://anaconda.org/conda-forge/turbo-seti) | [![conda](https://anaconda.org/conda-forge/turbo-seti/badges/downloads.svg)](https://anaconda.org/conda-forge/turbo-seti) |
+| [blimpy](https://anaconda.org/conda-forge/blimpy) | [![conda](https://anaconda.org/conda-forge/blimpy/badges/downloads.svg)](https://anaconda.org/conda-forge/blimpy) |
