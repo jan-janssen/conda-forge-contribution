@@ -435,3 +435,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [atomate2](https://anaconda.org/conda-forge/atomate2) | [![conda](https://anaconda.org/conda-forge/atomate2/badges/downloads.svg)](https://anaconda.org/conda-forge/atomate2) |
 | [turbo-seti](https://anaconda.org/conda-forge/turbo-seti) | [![conda](https://anaconda.org/conda-forge/turbo-seti/badges/downloads.svg)](https://anaconda.org/conda-forge/turbo-seti) |
 | [blimpy](https://anaconda.org/conda-forge/blimpy) | [![conda](https://anaconda.org/conda-forge/blimpy/badges/downloads.svg)](https://anaconda.org/conda-forge/blimpy) |
+| [alchemlyb](https://anaconda.org/conda-forge/alchemlyb) | [![conda](https://anaconda.org/conda-forge/alchemlyb/badges/downloads.svg)](https://anaconda.org/conda-forge/alchemlyb) |
