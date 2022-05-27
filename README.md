@@ -436,3 +436,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [turbo-seti](https://anaconda.org/conda-forge/turbo-seti) | [![conda](https://anaconda.org/conda-forge/turbo-seti/badges/downloads.svg)](https://anaconda.org/conda-forge/turbo-seti) |
 | [blimpy](https://anaconda.org/conda-forge/blimpy) | [![conda](https://anaconda.org/conda-forge/blimpy/badges/downloads.svg)](https://anaconda.org/conda-forge/blimpy) |
 | [alchemlyb](https://anaconda.org/conda-forge/alchemlyb) | [![conda](https://anaconda.org/conda-forge/alchemlyb/badges/downloads.svg)](https://anaconda.org/conda-forge/alchemlyb) |
+| [e3nn](https://anaconda.org/conda-forge/e3nn) | [![conda](https://anaconda.org/conda-forge/e3nn/badges/downloads.svg)](https://anaconda.org/conda-forge/e3nn) |
+| [nequip](https://anaconda.org/conda-forge/nequip) | [![conda](https://anaconda.org/conda-forge/nequip/badges/downloads.svg)](https://anaconda.org/conda-forge/nequip) |
+| [torch-runstats](https://anaconda.org/conda-forge/torch-runstats) | [![conda](https://anaconda.org/conda-forge/torch-runstats/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-runstats) |
+| [torch-ema](https://anaconda.org/conda-forge/torch-ema) | [![conda](https://anaconda.org/conda-forge/torch-ema/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-ema) |
+| [opt_einsum_fx](https://anaconda.org/conda-forge/opt_einsum_fx) | [![conda](https://anaconda.org/conda-forge/opt_einsum_fx/badges/downloads.svg)](https://anaconda.org/conda-forge/opt_einsum_fx) |
