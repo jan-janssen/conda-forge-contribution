@@ -32,7 +32,7 @@ jobs:
       shell: bash -l {0}
       run: |
         python .ci_support/run.py --username ${{ github.actor }} --token ${{ secrets.GH_TOKEN }} --githubrepo ${{ github.repository }} 
-        mv .ci_support/readmetemplate.md README.md 
+        cp .ci_support/readmetemplate.md README.md 
         cat packages.md >> README.md
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@4.0.0
