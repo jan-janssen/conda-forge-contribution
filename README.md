@@ -189,6 +189,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [potentials](https://anaconda.org/conda-forge/potentials) | [![conda](https://anaconda.org/conda-forge/potentials/badges/downloads.svg)](https://anaconda.org/conda-forge/potentials) |
 | [datamodeldict](https://anaconda.org/conda-forge/datamodeldict) | [![conda](https://anaconda.org/conda-forge/datamodeldict/badges/downloads.svg)](https://anaconda.org/conda-forge/datamodeldict) |
 | [atomman](https://anaconda.org/conda-forge/atomman) | [![conda](https://anaconda.org/conda-forge/atomman/badges/downloads.svg)](https://anaconda.org/conda-forge/atomman) |
+| [recordtype](https://anaconda.org/conda-forge/recordtype) | [![conda](https://anaconda.org/conda-forge/recordtype/badges/downloads.svg)](https://anaconda.org/conda-forge/recordtype) |
 | [conda-merge](https://anaconda.org/conda-forge/conda-merge) | [![conda](https://anaconda.org/conda-forge/conda-merge/badges/downloads.svg)](https://anaconda.org/conda-forge/conda-merge) |
 | [kliff](https://anaconda.org/conda-forge/kliff) | [![conda](https://anaconda.org/conda-forge/kliff/badges/downloads.svg)](https://anaconda.org/conda-forge/kliff) |
 | [parsplice](https://anaconda.org/conda-forge/parsplice) | [![conda](https://anaconda.org/conda-forge/parsplice/badges/downloads.svg)](https://anaconda.org/conda-forge/parsplice) |
@@ -442,3 +443,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [torch-ema](https://anaconda.org/conda-forge/torch-ema) | [![conda](https://anaconda.org/conda-forge/torch-ema/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-ema) |
 | [opt_einsum_fx](https://anaconda.org/conda-forge/opt_einsum_fx) | [![conda](https://anaconda.org/conda-forge/opt_einsum_fx/badges/downloads.svg)](https://anaconda.org/conda-forge/opt_einsum_fx) |
 | [pybader](https://anaconda.org/conda-forge/pybader) | [![conda](https://anaconda.org/conda-forge/pybader/badges/downloads.svg)](https://anaconda.org/conda-forge/pybader) |
+| [mailbits](https://anaconda.org/conda-forge/mailbits) | [![conda](https://anaconda.org/conda-forge/mailbits/badges/downloads.svg)](https://anaconda.org/conda-forge/mailbits) |
