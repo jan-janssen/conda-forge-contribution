@@ -3,6 +3,8 @@ name: Deploy
 on:
   repository_dispatch:
     types: [build]
+  schedule:
+    - cron: "0 0 * * *"
   push:
   pull_request:
 
