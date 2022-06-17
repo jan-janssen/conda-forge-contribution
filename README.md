@@ -84,6 +84,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [zodb](https://anaconda.org/conda-forge/zodb) | [![conda](https://anaconda.org/conda-forge/zodb/badges/downloads.svg)](https://anaconda.org/conda-forge/zodb) |
 | [zeo](https://anaconda.org/conda-forge/zeo) | [![conda](https://anaconda.org/conda-forge/zeo/badges/downloads.svg)](https://anaconda.org/conda-forge/zeo) |
 | [google-auth](https://anaconda.org/conda-forge/google-auth) | [![conda](https://anaconda.org/conda-forge/google-auth/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth) |
+| [google-auth-oauthlib](https://anaconda.org/conda-forge/google-auth-oauthlib) | [![conda](https://anaconda.org/conda-forge/google-auth-oauthlib/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth-oauthlib) |
 | [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
 | [moto](https://anaconda.org/conda-forge/moto) | [![conda](https://anaconda.org/conda-forge/moto/badges/downloads.svg)](https://anaconda.org/conda-forge/moto) |
 | [pyperclip](https://anaconda.org/conda-forge/pyperclip) | [![conda](https://anaconda.org/conda-forge/pyperclip/badges/downloads.svg)](https://anaconda.org/conda-forge/pyperclip) |
@@ -236,6 +237,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [mir-flare](https://anaconda.org/conda-forge/mir-flare) | [![conda](https://anaconda.org/conda-forge/mir-flare/badges/downloads.svg)](https://anaconda.org/conda-forge/mir-flare) |
 | [typish](https://anaconda.org/conda-forge/typish) | [![conda](https://anaconda.org/conda-forge/typish/badges/downloads.svg)](https://anaconda.org/conda-forge/typish) |
 | [vapory](https://anaconda.org/conda-forge/vapory) | [![conda](https://anaconda.org/conda-forge/vapory/badges/downloads.svg)](https://anaconda.org/conda-forge/vapory) |
+| [sidpy](https://anaconda.org/conda-forge/sidpy) | [![conda](https://anaconda.org/conda-forge/sidpy/badges/downloads.svg)](https://anaconda.org/conda-forge/sidpy) |
 | [getent](https://anaconda.org/conda-forge/getent) | [![conda](https://anaconda.org/conda-forge/getent/badges/downloads.svg)](https://anaconda.org/conda-forge/getent) |
 | [pyiron_contrib](https://anaconda.org/conda-forge/pyiron_contrib) | [![conda](https://anaconda.org/conda-forge/pyiron_contrib/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_contrib) |
 | [pslibrary](https://anaconda.org/conda-forge/pslibrary) | [![conda](https://anaconda.org/conda-forge/pslibrary/badges/downloads.svg)](https://anaconda.org/conda-forge/pslibrary) |
