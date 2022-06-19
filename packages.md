@@ -427,3 +427,4 @@
 | [opt_einsum_fx](https://anaconda.org/conda-forge/opt_einsum_fx) | [![conda](https://anaconda.org/conda-forge/opt_einsum_fx/badges/downloads.svg)](https://anaconda.org/conda-forge/opt_einsum_fx) |
 | [pybader](https://anaconda.org/conda-forge/pybader) | [![conda](https://anaconda.org/conda-forge/pybader/badges/downloads.svg)](https://anaconda.org/conda-forge/pybader) |
 | [mailbits](https://anaconda.org/conda-forge/mailbits) | [![conda](https://anaconda.org/conda-forge/mailbits/badges/downloads.svg)](https://anaconda.org/conda-forge/mailbits) |
+| [quimb](https://anaconda.org/conda-forge/quimb) | [![conda](https://anaconda.org/conda-forge/quimb/badges/downloads.svg)](https://anaconda.org/conda-forge/quimb) |
