@@ -429,3 +429,4 @@
 | [mailbits](https://anaconda.org/conda-forge/mailbits) | [![conda](https://anaconda.org/conda-forge/mailbits/badges/downloads.svg)](https://anaconda.org/conda-forge/mailbits) |
 | [quimb](https://anaconda.org/conda-forge/quimb) | [![conda](https://anaconda.org/conda-forge/quimb/badges/downloads.svg)](https://anaconda.org/conda-forge/quimb) |
 | [pytoolconfig](https://anaconda.org/conda-forge/pytoolconfig) | [![conda](https://anaconda.org/conda-forge/pytoolconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/pytoolconfig) |
+| [cleantext](https://anaconda.org/conda-forge/cleantext) | [![conda](https://anaconda.org/conda-forge/cleantext/badges/downloads.svg)](https://anaconda.org/conda-forge/cleantext) |
