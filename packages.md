@@ -431,3 +431,11 @@
 | [pytoolconfig](https://anaconda.org/conda-forge/pytoolconfig) | [![conda](https://anaconda.org/conda-forge/pytoolconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/pytoolconfig) |
 | [cleantext](https://anaconda.org/conda-forge/cleantext) | [![conda](https://anaconda.org/conda-forge/cleantext/badges/downloads.svg)](https://anaconda.org/conda-forge/cleantext) |
 | [pydatamail_ml](https://anaconda.org/conda-forge/pydatamail_ml) | [![conda](https://anaconda.org/conda-forge/pydatamail_ml/badges/downloads.svg)](https://anaconda.org/conda-forge/pydatamail_ml) |
+| [funcx](https://anaconda.org/conda-forge/funcx) | [![conda](https://anaconda.org/conda-forge/funcx/badges/downloads.svg)](https://anaconda.org/conda-forge/funcx) |
+| [colmena](https://anaconda.org/conda-forge/colmena) | [![conda](https://anaconda.org/conda-forge/colmena/badges/downloads.svg)](https://anaconda.org/conda-forge/colmena) |
+| [proxystore](https://anaconda.org/conda-forge/proxystore) | [![conda](https://anaconda.org/conda-forge/proxystore/badges/downloads.svg)](https://anaconda.org/conda-forge/proxystore) |
+| [mdf-connect-client](https://anaconda.org/conda-forge/mdf-connect-client) | [![conda](https://anaconda.org/conda-forge/mdf-connect-client/badges/downloads.svg)](https://anaconda.org/conda-forge/mdf-connect-client) |
+| [dlhub-sdk](https://anaconda.org/conda-forge/dlhub-sdk) | [![conda](https://anaconda.org/conda-forge/dlhub-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/dlhub-sdk) |
+| [foundry_ml](https://anaconda.org/conda-forge/foundry_ml) | [![conda](https://anaconda.org/conda-forge/foundry_ml/badges/downloads.svg)](https://anaconda.org/conda-forge/foundry_ml) |
+| [json2table](https://anaconda.org/conda-forge/json2table) | [![conda](https://anaconda.org/conda-forge/json2table/badges/downloads.svg)](https://anaconda.org/conda-forge/json2table) |
+| [hypothesize](https://anaconda.org/conda-forge/hypothesize) | [![conda](https://anaconda.org/conda-forge/hypothesize/badges/downloads.svg)](https://anaconda.org/conda-forge/hypothesize) |
