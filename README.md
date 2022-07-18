@@ -458,3 +458,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [foundry_ml](https://anaconda.org/conda-forge/foundry_ml) | [![conda](https://anaconda.org/conda-forge/foundry_ml/badges/downloads.svg)](https://anaconda.org/conda-forge/foundry_ml) |
 | [json2table](https://anaconda.org/conda-forge/json2table) | [![conda](https://anaconda.org/conda-forge/json2table/badges/downloads.svg)](https://anaconda.org/conda-forge/json2table) |
 | [hypothesize](https://anaconda.org/conda-forge/hypothesize) | [![conda](https://anaconda.org/conda-forge/hypothesize/badges/downloads.svg)](https://anaconda.org/conda-forge/hypothesize) |
+| [fn](https://anaconda.org/conda-forge/fn) | [![conda](https://anaconda.org/conda-forge/fn/badges/downloads.svg)](https://anaconda.org/conda-forge/fn) |
+| [cadcad](https://anaconda.org/conda-forge/cadcad) | [![conda](https://anaconda.org/conda-forge/cadcad/badges/downloads.svg)](https://anaconda.org/conda-forge/cadcad) |
+| [skipatom](https://anaconda.org/conda-forge/skipatom) | [![conda](https://anaconda.org/conda-forge/skipatom/badges/downloads.svg)](https://anaconda.org/conda-forge/skipatom) |
