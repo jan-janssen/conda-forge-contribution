@@ -119,7 +119,7 @@ def get_condaforge_contribution(package_lst):
     
     # Sum number of downloads 
     package_lst.append("sum")
-    download_count_lst.append(sum(download_count_lst))
+    download_count_lst.append(sum([v for v in download_count_lst if v is not None]))
     
     # Prepend date 
     package_lst.insert(0, "Date")
