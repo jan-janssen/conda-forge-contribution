@@ -442,3 +442,4 @@
 | [fn](https://anaconda.org/conda-forge/fn) | [![conda](https://anaconda.org/conda-forge/fn/badges/downloads.svg)](https://anaconda.org/conda-forge/fn) |
 | [cadcad](https://anaconda.org/conda-forge/cadcad) | [![conda](https://anaconda.org/conda-forge/cadcad/badges/downloads.svg)](https://anaconda.org/conda-forge/cadcad) |
 | [skipatom](https://anaconda.org/conda-forge/skipatom) | [![conda](https://anaconda.org/conda-forge/skipatom/badges/downloads.svg)](https://anaconda.org/conda-forge/skipatom) |
+| [pympipool](https://anaconda.org/conda-forge/pympipool) | [![conda](https://anaconda.org/conda-forge/pympipool/badges/downloads.svg)](https://anaconda.org/conda-forge/pympipool) |
