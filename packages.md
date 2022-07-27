@@ -443,3 +443,10 @@
 | [cadcad](https://anaconda.org/conda-forge/cadcad) | [![conda](https://anaconda.org/conda-forge/cadcad/badges/downloads.svg)](https://anaconda.org/conda-forge/cadcad) |
 | [skipatom](https://anaconda.org/conda-forge/skipatom) | [![conda](https://anaconda.org/conda-forge/skipatom/badges/downloads.svg)](https://anaconda.org/conda-forge/skipatom) |
 | [pympipool](https://anaconda.org/conda-forge/pympipool) | [![conda](https://anaconda.org/conda-forge/pympipool/badges/downloads.svg)](https://anaconda.org/conda-forge/pympipool) |
+| [crccheck](https://anaconda.org/conda-forge/crccheck) | [![conda](https://anaconda.org/conda-forge/crccheck/badges/downloads.svg)](https://anaconda.org/conda-forge/crccheck) |
+| [adf2dms](https://anaconda.org/conda-forge/adf2dms) | [![conda](https://anaconda.org/conda-forge/adf2dms/badges/downloads.svg)](https://anaconda.org/conda-forge/adf2dms) |
+| [megnet](https://anaconda.org/conda-forge/megnet) | [![conda](https://anaconda.org/conda-forge/megnet/badges/downloads.svg)](https://anaconda.org/conda-forge/megnet) |
+| [mnemonic](https://anaconda.org/conda-forge/mnemonic) | [![conda](https://anaconda.org/conda-forge/mnemonic/badges/downloads.svg)](https://anaconda.org/conda-forge/mnemonic) |
+| [pbkdf2](https://anaconda.org/conda-forge/pbkdf2) | [![conda](https://anaconda.org/conda-forge/pbkdf2/badges/downloads.svg)](https://anaconda.org/conda-forge/pbkdf2) |
+| [pystore](https://anaconda.org/conda-forge/pystore) | [![conda](https://anaconda.org/conda-forge/pystore/badges/downloads.svg)](https://anaconda.org/conda-forge/pystore) |
+| [sha256](https://anaconda.org/conda-forge/sha256) | [![conda](https://anaconda.org/conda-forge/sha256/badges/downloads.svg)](https://anaconda.org/conda-forge/sha256) |
