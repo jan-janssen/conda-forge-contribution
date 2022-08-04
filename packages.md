@@ -453,3 +453,4 @@
 | [py4vasp](https://anaconda.org/conda-forge/py4vasp) | [![conda](https://anaconda.org/conda-forge/py4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/py4vasp) |
 | [imap-tools](https://anaconda.org/conda-forge/imap-tools) | [![conda](https://anaconda.org/conda-forge/imap-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/imap-tools) |
 | [threeml](https://anaconda.org/conda-forge/threeml) | [![conda](https://anaconda.org/conda-forge/threeml/badges/downloads.svg)](https://anaconda.org/conda-forge/threeml) |
+| [nng](https://anaconda.org/conda-forge/nng) | [![conda](https://anaconda.org/conda-forge/nng/badges/downloads.svg)](https://anaconda.org/conda-forge/nng) |
