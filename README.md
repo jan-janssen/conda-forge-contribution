@@ -473,3 +473,10 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [imap-tools](https://anaconda.org/conda-forge/imap-tools) | [![conda](https://anaconda.org/conda-forge/imap-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/imap-tools) |
 | [threeml](https://anaconda.org/conda-forge/threeml) | [![conda](https://anaconda.org/conda-forge/threeml/badges/downloads.svg)](https://anaconda.org/conda-forge/threeml) |
 | [nng](https://anaconda.org/conda-forge/nng) | [![conda](https://anaconda.org/conda-forge/nng/badges/downloads.svg)](https://anaconda.org/conda-forge/nng) |
+| [pylgbst](https://anaconda.org/conda-forge/pylgbst) | [![conda](https://anaconda.org/conda-forge/pylgbst/badges/downloads.svg)](https://anaconda.org/conda-forge/pylgbst) |
+| [scanpdf](https://anaconda.org/conda-forge/scanpdf) | [![conda](https://anaconda.org/conda-forge/scanpdf/badges/downloads.svg)](https://anaconda.org/conda-forge/scanpdf) |
+| [bleak-winrt](https://anaconda.org/conda-forge/bleak-winrt) | [![conda](https://anaconda.org/conda-forge/bleak-winrt/badges/downloads.svg)](https://anaconda.org/conda-forge/bleak-winrt) |
+| [dbus-next](https://anaconda.org/conda-forge/dbus-next) | [![conda](https://anaconda.org/conda-forge/dbus-next/badges/downloads.svg)](https://anaconda.org/conda-forge/dbus-next) |
+| [getmail6](https://anaconda.org/conda-forge/getmail6) | [![conda](https://anaconda.org/conda-forge/getmail6/badges/downloads.svg)](https://anaconda.org/conda-forge/getmail6) |
+| [bleak](https://anaconda.org/conda-forge/bleak) | [![conda](https://anaconda.org/conda-forge/bleak/badges/downloads.svg)](https://anaconda.org/conda-forge/bleak) |
+| [pyobjc-framework-corebluetooth](https://anaconda.org/conda-forge/pyobjc-framework-corebluetooth) | [![conda](https://anaconda.org/conda-forge/pyobjc-framework-corebluetooth/badges/downloads.svg)](https://anaconda.org/conda-forge/pyobjc-framework-corebluetooth) |
