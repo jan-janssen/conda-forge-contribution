@@ -481,3 +481,4 @@
 | [vharfbuzz](https://anaconda.org/conda-forge/vharfbuzz) | [![conda](https://anaconda.org/conda-forge/vharfbuzz/badges/downloads.svg)](https://anaconda.org/conda-forge/vharfbuzz) |
 | [cffsubr](https://anaconda.org/conda-forge/cffsubr) | [![conda](https://anaconda.org/conda-forge/cffsubr/badges/downloads.svg)](https://anaconda.org/conda-forge/cffsubr) |
 | [pygmailsorter](https://anaconda.org/conda-forge/pygmailsorter) | [![conda](https://anaconda.org/conda-forge/pygmailsorter/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmailsorter) |
+| [funcx-common](https://anaconda.org/conda-forge/funcx-common) | [![conda](https://anaconda.org/conda-forge/funcx-common/badges/downloads.svg)](https://anaconda.org/conda-forge/funcx-common) |
