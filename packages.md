@@ -244,6 +244,7 @@
 | [boltztrap2](https://anaconda.org/conda-forge/boltztrap2) | [![conda](https://anaconda.org/conda-forge/boltztrap2/badges/downloads.svg)](https://anaconda.org/conda-forge/boltztrap2) |
 | [quadpy](https://anaconda.org/conda-forge/quadpy) | [![conda](https://anaconda.org/conda-forge/quadpy/badges/downloads.svg)](https://anaconda.org/conda-forge/quadpy) |
 | [ndim](https://anaconda.org/conda-forge/ndim) | [![conda](https://anaconda.org/conda-forge/ndim/badges/downloads.svg)](https://anaconda.org/conda-forge/ndim) |
+| [pyneqsys](https://anaconda.org/conda-forge/pyneqsys) | [![conda](https://anaconda.org/conda-forge/pyneqsys/badges/downloads.svg)](https://anaconda.org/conda-forge/pyneqsys) |
 | [grakel](https://anaconda.org/conda-forge/grakel) | [![conda](https://anaconda.org/conda-forge/grakel/badges/downloads.svg)](https://anaconda.org/conda-forge/grakel) |
 | [phasepy](https://anaconda.org/conda-forge/phasepy) | [![conda](https://anaconda.org/conda-forge/phasepy/badges/downloads.svg)](https://anaconda.org/conda-forge/phasepy) |
 | [matscholar](https://anaconda.org/conda-forge/matscholar) | [![conda](https://anaconda.org/conda-forge/matscholar/badges/downloads.svg)](https://anaconda.org/conda-forge/matscholar) |
@@ -482,3 +483,7 @@
 | [cffsubr](https://anaconda.org/conda-forge/cffsubr) | [![conda](https://anaconda.org/conda-forge/cffsubr/badges/downloads.svg)](https://anaconda.org/conda-forge/cffsubr) |
 | [pygmailsorter](https://anaconda.org/conda-forge/pygmailsorter) | [![conda](https://anaconda.org/conda-forge/pygmailsorter/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmailsorter) |
 | [funcx-common](https://anaconda.org/conda-forge/funcx-common) | [![conda](https://anaconda.org/conda-forge/funcx-common/badges/downloads.svg)](https://anaconda.org/conda-forge/funcx-common) |
+| [pykmip](https://anaconda.org/conda-forge/pykmip) | [![conda](https://anaconda.org/conda-forge/pykmip/badges/downloads.svg)](https://anaconda.org/conda-forge/pykmip) |
+| [global-chem](https://anaconda.org/conda-forge/global-chem) | [![conda](https://anaconda.org/conda-forge/global-chem/badges/downloads.svg)](https://anaconda.org/conda-forge/global-chem) |
+| [molml](https://anaconda.org/conda-forge/molml) | [![conda](https://anaconda.org/conda-forge/molml/badges/downloads.svg)](https://anaconda.org/conda-forge/molml) |
+| [odachi](https://anaconda.org/conda-forge/odachi) | [![conda](https://anaconda.org/conda-forge/odachi/badges/downloads.svg)](https://anaconda.org/conda-forge/odachi) |
