@@ -263,6 +263,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [boltztrap2](https://anaconda.org/conda-forge/boltztrap2) | [![conda](https://anaconda.org/conda-forge/boltztrap2/badges/downloads.svg)](https://anaconda.org/conda-forge/boltztrap2) |
 | [quadpy](https://anaconda.org/conda-forge/quadpy) | [![conda](https://anaconda.org/conda-forge/quadpy/badges/downloads.svg)](https://anaconda.org/conda-forge/quadpy) |
 | [ndim](https://anaconda.org/conda-forge/ndim) | [![conda](https://anaconda.org/conda-forge/ndim/badges/downloads.svg)](https://anaconda.org/conda-forge/ndim) |
+| [chempy](https://anaconda.org/conda-forge/chempy) | [![conda](https://anaconda.org/conda-forge/chempy/badges/downloads.svg)](https://anaconda.org/conda-forge/chempy) |
 | [pyneqsys](https://anaconda.org/conda-forge/pyneqsys) | [![conda](https://anaconda.org/conda-forge/pyneqsys/badges/downloads.svg)](https://anaconda.org/conda-forge/pyneqsys) |
 | [grakel](https://anaconda.org/conda-forge/grakel) | [![conda](https://anaconda.org/conda-forge/grakel/badges/downloads.svg)](https://anaconda.org/conda-forge/grakel) |
 | [phasepy](https://anaconda.org/conda-forge/phasepy) | [![conda](https://anaconda.org/conda-forge/phasepy/badges/downloads.svg)](https://anaconda.org/conda-forge/phasepy) |
