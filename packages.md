@@ -488,3 +488,6 @@
 | [global-chem](https://anaconda.org/conda-forge/global-chem) | [![conda](https://anaconda.org/conda-forge/global-chem/badges/downloads.svg)](https://anaconda.org/conda-forge/global-chem) |
 | [molml](https://anaconda.org/conda-forge/molml) | [![conda](https://anaconda.org/conda-forge/molml/badges/downloads.svg)](https://anaconda.org/conda-forge/molml) |
 | [odachi](https://anaconda.org/conda-forge/odachi) | [![conda](https://anaconda.org/conda-forge/odachi/badges/downloads.svg)](https://anaconda.org/conda-forge/odachi) |
+| [chemsolve](https://anaconda.org/conda-forge/chemsolve) | [![conda](https://anaconda.org/conda-forge/chemsolve/badges/downloads.svg)](https://anaconda.org/conda-forge/chemsolve) |
+| [pyscreener](https://anaconda.org/conda-forge/pyscreener) | [![conda](https://anaconda.org/conda-forge/pyscreener/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscreener) |
+| [paddy](https://anaconda.org/conda-forge/paddy) | [![conda](https://anaconda.org/conda-forge/paddy/badges/downloads.svg)](https://anaconda.org/conda-forge/paddy) |
