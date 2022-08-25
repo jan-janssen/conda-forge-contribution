@@ -491,3 +491,4 @@
 | [chemsolve](https://anaconda.org/conda-forge/chemsolve) | [![conda](https://anaconda.org/conda-forge/chemsolve/badges/downloads.svg)](https://anaconda.org/conda-forge/chemsolve) |
 | [pyscreener](https://anaconda.org/conda-forge/pyscreener) | [![conda](https://anaconda.org/conda-forge/pyscreener/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscreener) |
 | [paddy](https://anaconda.org/conda-forge/paddy) | [![conda](https://anaconda.org/conda-forge/paddy/badges/downloads.svg)](https://anaconda.org/conda-forge/paddy) |
+| [plams](https://anaconda.org/conda-forge/plams) | [![conda](https://anaconda.org/conda-forge/plams/badges/downloads.svg)](https://anaconda.org/conda-forge/plams) |
