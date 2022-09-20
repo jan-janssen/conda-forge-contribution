@@ -511,3 +511,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyscreener](https://anaconda.org/conda-forge/pyscreener) | [![conda](https://anaconda.org/conda-forge/pyscreener/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscreener) |
 | [paddy](https://anaconda.org/conda-forge/paddy) | [![conda](https://anaconda.org/conda-forge/paddy/badges/downloads.svg)](https://anaconda.org/conda-forge/paddy) |
 | [plams](https://anaconda.org/conda-forge/plams) | [![conda](https://anaconda.org/conda-forge/plams/badges/downloads.svg)](https://anaconda.org/conda-forge/plams) |
+| [mp-api](https://anaconda.org/conda-forge/mp-api) | [![conda](https://anaconda.org/conda-forge/mp-api/badges/downloads.svg)](https://anaconda.org/conda-forge/mp-api) |
+| [emmet-core](https://anaconda.org/conda-forge/emmet-core) | [![conda](https://anaconda.org/conda-forge/emmet-core/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-core) |
+| [emmet-api](https://anaconda.org/conda-forge/emmet-api) | [![conda](https://anaconda.org/conda-forge/emmet-api/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-api) |
+| [emmet-builders](https://anaconda.org/conda-forge/emmet-builders) | [![conda](https://anaconda.org/conda-forge/emmet-builders/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-builders) |
