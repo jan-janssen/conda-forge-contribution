@@ -496,3 +496,16 @@
 | [emmet-core](https://anaconda.org/conda-forge/emmet-core) | [![conda](https://anaconda.org/conda-forge/emmet-core/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-core) |
 | [emmet-api](https://anaconda.org/conda-forge/emmet-api) | [![conda](https://anaconda.org/conda-forge/emmet-api/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-api) |
 | [emmet-builders](https://anaconda.org/conda-forge/emmet-builders) | [![conda](https://anaconda.org/conda-forge/emmet-builders/badges/downloads.svg)](https://anaconda.org/conda-forge/emmet-builders) |
+| [de-interpol](https://anaconda.org/conda-forge/de-interpol) | [![conda](https://anaconda.org/conda-forge/de-interpol/badges/downloads.svg)](https://anaconda.org/conda-forge/de-interpol) |
+| [de-risikogebiete](https://anaconda.org/conda-forge/de-risikogebiete) | [![conda](https://anaconda.org/conda-forge/de-risikogebiete/badges/downloads.svg)](https://anaconda.org/conda-forge/de-risikogebiete) |
+| [de-bundesrat](https://anaconda.org/conda-forge/de-bundesrat) | [![conda](https://anaconda.org/conda-forge/de-bundesrat/badges/downloads.svg)](https://anaconda.org/conda-forge/de-bundesrat) |
+| [de-smard](https://anaconda.org/conda-forge/de-smard) | [![conda](https://anaconda.org/conda-forge/de-smard/badges/downloads.svg)](https://anaconda.org/conda-forge/de-smard) |
+| [de-jobsuche](https://anaconda.org/conda-forge/de-jobsuche) | [![conda](https://anaconda.org/conda-forge/de-jobsuche/badges/downloads.svg)](https://anaconda.org/conda-forge/de-jobsuche) |
+| [de-strahlenschutz](https://anaconda.org/conda-forge/de-strahlenschutz) | [![conda](https://anaconda.org/conda-forge/de-strahlenschutz/badges/downloads.svg)](https://anaconda.org/conda-forge/de-strahlenschutz) |
+| [de-mudab](https://anaconda.org/conda-forge/de-mudab) | [![conda](https://anaconda.org/conda-forge/de-mudab/badges/downloads.svg)](https://anaconda.org/conda-forge/de-mudab) |
+| [pypresseportal](https://anaconda.org/conda-forge/pypresseportal) | [![conda](https://anaconda.org/conda-forge/pypresseportal/badges/downloads.svg)](https://anaconda.org/conda-forge/pypresseportal) |
+| [de-bundestag](https://anaconda.org/conda-forge/de-bundestag) | [![conda](https://anaconda.org/conda-forge/de-bundestag/badges/downloads.svg)](https://anaconda.org/conda-forge/de-bundestag) |
+| [de-travelwarning](https://anaconda.org/conda-forge/de-travelwarning) | [![conda](https://anaconda.org/conda-forge/de-travelwarning/badges/downloads.svg)](https://anaconda.org/conda-forge/de-travelwarning) |
+| [de-zoll](https://anaconda.org/conda-forge/de-zoll) | [![conda](https://anaconda.org/conda-forge/de-zoll/badges/downloads.svg)](https://anaconda.org/conda-forge/de-zoll) |
+| [de-ladestationen](https://anaconda.org/conda-forge/de-ladestationen) | [![conda](https://anaconda.org/conda-forge/de-ladestationen/badges/downloads.svg)](https://anaconda.org/conda-forge/de-ladestationen) |
+| [de-polizei-brandenburg](https://anaconda.org/conda-forge/de-polizei-brandenburg) | [![conda](https://anaconda.org/conda-forge/de-polizei-brandenburg/badges/downloads.svg)](https://anaconda.org/conda-forge/de-polizei-brandenburg) |
