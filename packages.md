@@ -146,6 +146,7 @@
 | [fypp](https://anaconda.org/conda-forge/fypp) | [![conda](https://anaconda.org/conda-forge/fypp/badges/downloads.svg)](https://anaconda.org/conda-forge/fypp) |
 | [cp2k](https://anaconda.org/conda-forge/cp2k) | [![conda](https://anaconda.org/conda-forge/cp2k/badges/downloads.svg)](https://anaconda.org/conda-forge/cp2k) |
 | [pycp2k](https://anaconda.org/conda-forge/pycp2k) | [![conda](https://anaconda.org/conda-forge/pycp2k/badges/downloads.svg)](https://anaconda.org/conda-forge/pycp2k) |
+| [mapbox-vector-tile](https://anaconda.org/conda-forge/mapbox-vector-tile) | [![conda](https://anaconda.org/conda-forge/mapbox-vector-tile/badges/downloads.svg)](https://anaconda.org/conda-forge/mapbox-vector-tile) |
 | [tamkin](https://anaconda.org/conda-forge/tamkin) | [![conda](https://anaconda.org/conda-forge/tamkin/badges/downloads.svg)](https://anaconda.org/conda-forge/tamkin) |
 | [phonolammps](https://anaconda.org/conda-forge/phonolammps) | [![conda](https://anaconda.org/conda-forge/phonolammps/badges/downloads.svg)](https://anaconda.org/conda-forge/phonolammps) |
 | [dynaphopy](https://anaconda.org/conda-forge/dynaphopy) | [![conda](https://anaconda.org/conda-forge/dynaphopy/badges/downloads.svg)](https://anaconda.org/conda-forge/dynaphopy) |
@@ -509,3 +510,8 @@
 | [de-zoll](https://anaconda.org/conda-forge/de-zoll) | [![conda](https://anaconda.org/conda-forge/de-zoll/badges/downloads.svg)](https://anaconda.org/conda-forge/de-zoll) |
 | [de-ladestationen](https://anaconda.org/conda-forge/de-ladestationen) | [![conda](https://anaconda.org/conda-forge/de-ladestationen/badges/downloads.svg)](https://anaconda.org/conda-forge/de-ladestationen) |
 | [de-polizei-brandenburg](https://anaconda.org/conda-forge/de-polizei-brandenburg) | [![conda](https://anaconda.org/conda-forge/de-polizei-brandenburg/badges/downloads.svg)](https://anaconda.org/conda-forge/de-polizei-brandenburg) |
+| [latexify-py](https://anaconda.org/conda-forge/latexify-py) | [![conda](https://anaconda.org/conda-forge/latexify-py/badges/downloads.svg)](https://anaconda.org/conda-forge/latexify-py) |
+| [de-autobahn](https://anaconda.org/conda-forge/de-autobahn) | [![conda](https://anaconda.org/conda-forge/de-autobahn/badges/downloads.svg)](https://anaconda.org/conda-forge/de-autobahn) |
+| [de-dwd](https://anaconda.org/conda-forge/de-dwd) | [![conda](https://anaconda.org/conda-forge/de-dwd/badges/downloads.svg)](https://anaconda.org/conda-forge/de-dwd) |
+| [de-nina](https://anaconda.org/conda-forge/de-nina) | [![conda](https://anaconda.org/conda-forge/de-nina/badges/downloads.svg)](https://anaconda.org/conda-forge/de-nina) |
+| [deutschland](https://anaconda.org/conda-forge/deutschland) | [![conda](https://anaconda.org/conda-forge/deutschland/badges/downloads.svg)](https://anaconda.org/conda-forge/deutschland) |
