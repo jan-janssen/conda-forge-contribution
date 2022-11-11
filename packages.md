@@ -534,3 +534,4 @@
 | [de-berufssprachkurssuche](https://anaconda.org/conda-forge/de-berufssprachkurssuche) | [![conda](https://anaconda.org/conda-forge/de-berufssprachkurssuche/badges/downloads.svg)](https://anaconda.org/conda-forge/de-berufssprachkurssuche) |
 | [de-feiertage](https://anaconda.org/conda-forge/de-feiertage) | [![conda](https://anaconda.org/conda-forge/de-feiertage/badges/downloads.svg)](https://anaconda.org/conda-forge/de-feiertage) |
 | [de-pegel-online](https://anaconda.org/conda-forge/de-pegel-online) | [![conda](https://anaconda.org/conda-forge/de-pegel-online/badges/downloads.svg)](https://anaconda.org/conda-forge/de-pegel-online) |
+| [ironflow](https://anaconda.org/conda-forge/ironflow) | [![conda](https://anaconda.org/conda-forge/ironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/ironflow) |
