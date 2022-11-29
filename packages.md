@@ -535,3 +535,4 @@
 | [de-feiertage](https://anaconda.org/conda-forge/de-feiertage) | [![conda](https://anaconda.org/conda-forge/de-feiertage/badges/downloads.svg)](https://anaconda.org/conda-forge/de-feiertage) |
 | [de-pegel-online](https://anaconda.org/conda-forge/de-pegel-online) | [![conda](https://anaconda.org/conda-forge/de-pegel-online/badges/downloads.svg)](https://anaconda.org/conda-forge/de-pegel-online) |
 | [ironflow](https://anaconda.org/conda-forge/ironflow) | [![conda](https://anaconda.org/conda-forge/ironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/ironflow) |
+| [e3nn-jax](https://anaconda.org/conda-forge/e3nn-jax) | [![conda](https://anaconda.org/conda-forge/e3nn-jax/badges/downloads.svg)](https://anaconda.org/conda-forge/e3nn-jax) |
