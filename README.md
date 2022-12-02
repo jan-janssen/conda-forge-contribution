@@ -556,3 +556,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ironflow](https://anaconda.org/conda-forge/ironflow) | [![conda](https://anaconda.org/conda-forge/ironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/ironflow) |
 | [e3nn-jax](https://anaconda.org/conda-forge/e3nn-jax) | [![conda](https://anaconda.org/conda-forge/e3nn-jax/badges/downloads.svg)](https://anaconda.org/conda-forge/e3nn-jax) |
 | [red-black-tree-mod](https://anaconda.org/conda-forge/red-black-tree-mod) | [![conda](https://anaconda.org/conda-forge/red-black-tree-mod/badges/downloads.svg)](https://anaconda.org/conda-forge/red-black-tree-mod) |
+| [architector](https://anaconda.org/conda-forge/architector) | [![conda](https://anaconda.org/conda-forge/architector/badges/downloads.svg)](https://anaconda.org/conda-forge/architector) |
