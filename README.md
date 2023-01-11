@@ -559,3 +559,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [architector](https://anaconda.org/conda-forge/architector) | [![conda](https://anaconda.org/conda-forge/architector/badges/downloads.svg)](https://anaconda.org/conda-forge/architector) |
 | [hippynn](https://anaconda.org/conda-forge/hippynn) | [![conda](https://anaconda.org/conda-forge/hippynn/badges/downloads.svg)](https://anaconda.org/conda-forge/hippynn) |
 | [dirsync](https://anaconda.org/conda-forge/dirsync) | [![conda](https://anaconda.org/conda-forge/dirsync/badges/downloads.svg)](https://anaconda.org/conda-forge/dirsync) |
+| [ssh-ipykernel](https://anaconda.org/conda-forge/ssh-ipykernel) | [![conda](https://anaconda.org/conda-forge/ssh-ipykernel/badges/downloads.svg)](https://anaconda.org/conda-forge/ssh-ipykernel) |
