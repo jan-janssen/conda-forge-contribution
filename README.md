@@ -209,6 +209,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [jupyterlab-latex](https://anaconda.org/conda-forge/jupyterlab-latex) | [![conda](https://anaconda.org/conda-forge/jupyterlab-latex/badges/downloads.svg)](https://anaconda.org/conda-forge/jupyterlab-latex) |
 | [qe](https://anaconda.org/conda-forge/qe) | [![conda](https://anaconda.org/conda-forge/qe/badges/downloads.svg)](https://anaconda.org/conda-forge/qe) |
 | [pwtools](https://anaconda.org/conda-forge/pwtools) | [![conda](https://anaconda.org/conda-forge/pwtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pwtools) |
+| [click-shell](https://anaconda.org/conda-forge/click-shell) | [![conda](https://anaconda.org/conda-forge/click-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/click-shell) |
 | [temmeta](https://anaconda.org/conda-forge/temmeta) | [![conda](https://anaconda.org/conda-forge/temmeta/badges/downloads.svg)](https://anaconda.org/conda-forge/temmeta) |
 | [abipy](https://anaconda.org/conda-forge/abipy) | [![conda](https://anaconda.org/conda-forge/abipy/badges/downloads.svg)](https://anaconda.org/conda-forge/abipy) |
 | [periodic-table-plotter](https://anaconda.org/conda-forge/periodic-table-plotter) | [![conda](https://anaconda.org/conda-forge/periodic-table-plotter/badges/downloads.svg)](https://anaconda.org/conda-forge/periodic-table-plotter) |
