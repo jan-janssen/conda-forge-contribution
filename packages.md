@@ -546,3 +546,4 @@
 | [safetensors](https://anaconda.org/conda-forge/safetensors) | [![conda](https://anaconda.org/conda-forge/safetensors/badges/downloads.svg)](https://anaconda.org/conda-forge/safetensors) |
 | [facexlib](https://anaconda.org/conda-forge/facexlib) | [![conda](https://anaconda.org/conda-forge/facexlib/badges/downloads.svg)](https://anaconda.org/conda-forge/facexlib) |
 | [imaginairy](https://anaconda.org/conda-forge/imaginairy) | [![conda](https://anaconda.org/conda-forge/imaginairy/badges/downloads.svg)](https://anaconda.org/conda-forge/imaginairy) |
+| [timerit](https://anaconda.org/conda-forge/timerit) | [![conda](https://anaconda.org/conda-forge/timerit/badges/downloads.svg)](https://anaconda.org/conda-forge/timerit) |
