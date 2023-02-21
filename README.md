@@ -568,3 +568,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [timerit](https://anaconda.org/conda-forge/timerit) | [![conda](https://anaconda.org/conda-forge/timerit/badges/downloads.svg)](https://anaconda.org/conda-forge/timerit) |
 | [sixelcrop](https://anaconda.org/conda-forge/sixelcrop) | [![conda](https://anaconda.org/conda-forge/sixelcrop/badges/downloads.svg)](https://anaconda.org/conda-forge/sixelcrop) |
 | [mamonca](https://anaconda.org/conda-forge/mamonca) | [![conda](https://anaconda.org/conda-forge/mamonca/badges/downloads.svg)](https://anaconda.org/conda-forge/mamonca) |
+| [openphase](https://anaconda.org/conda-forge/openphase) | [![conda](https://anaconda.org/conda-forge/openphase/badges/downloads.svg)](https://anaconda.org/conda-forge/openphase) |
