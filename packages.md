@@ -553,3 +553,4 @@
 | [units](https://anaconda.org/conda-forge/units) | [![conda](https://anaconda.org/conda-forge/units/badges/downloads.svg)](https://anaconda.org/conda-forge/units) |
 | [pyre-extensions](https://anaconda.org/conda-forge/pyre-extensions) | [![conda](https://anaconda.org/conda-forge/pyre-extensions/badges/downloads.svg)](https://anaconda.org/conda-forge/pyre-extensions) |
 | [xformers](https://anaconda.org/conda-forge/xformers) | [![conda](https://anaconda.org/conda-forge/xformers/badges/downloads.svg)](https://anaconda.org/conda-forge/xformers) |
+| [oxdna-analysis-tools](https://anaconda.org/conda-forge/oxdna-analysis-tools) | [![conda](https://anaconda.org/conda-forge/oxdna-analysis-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/oxdna-analysis-tools) |
