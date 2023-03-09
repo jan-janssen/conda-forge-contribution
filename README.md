@@ -573,3 +573,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyre-extensions](https://anaconda.org/conda-forge/pyre-extensions) | [![conda](https://anaconda.org/conda-forge/pyre-extensions/badges/downloads.svg)](https://anaconda.org/conda-forge/pyre-extensions) |
 | [xformers](https://anaconda.org/conda-forge/xformers) | [![conda](https://anaconda.org/conda-forge/xformers/badges/downloads.svg)](https://anaconda.org/conda-forge/xformers) |
 | [oxdna-analysis-tools](https://anaconda.org/conda-forge/oxdna-analysis-tools) | [![conda](https://anaconda.org/conda-forge/oxdna-analysis-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/oxdna-analysis-tools) |
+| [hydra-colorlog](https://anaconda.org/conda-forge/hydra-colorlog) | [![conda](https://anaconda.org/conda-forge/hydra-colorlog/badges/downloads.svg)](https://anaconda.org/conda-forge/hydra-colorlog) |
