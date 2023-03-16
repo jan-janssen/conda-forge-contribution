@@ -199,6 +199,7 @@
 | [abinit](https://anaconda.org/conda-forge/abinit) | [![conda](https://anaconda.org/conda-forge/abinit/badges/downloads.svg)](https://anaconda.org/conda-forge/abinit) |
 | [gpaw-data](https://anaconda.org/conda-forge/gpaw-data) | [![conda](https://anaconda.org/conda-forge/gpaw-data/badges/downloads.svg)](https://anaconda.org/conda-forge/gpaw-data) |
 | [atompaw](https://anaconda.org/conda-forge/atompaw) | [![conda](https://anaconda.org/conda-forge/atompaw/badges/downloads.svg)](https://anaconda.org/conda-forge/atompaw) |
+| [pytorch-lightning](https://anaconda.org/conda-forge/pytorch-lightning) | [![conda](https://anaconda.org/conda-forge/pytorch-lightning/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch-lightning) |
 | [sphinxdft-data](https://anaconda.org/conda-forge/sphinxdft-data) | [![conda](https://anaconda.org/conda-forge/sphinxdft-data/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinxdft-data) |
 | [iprpy](https://anaconda.org/conda-forge/iprpy) | [![conda](https://anaconda.org/conda-forge/iprpy/badges/downloads.svg)](https://anaconda.org/conda-forge/iprpy) |
 | [iprpy-data](https://anaconda.org/conda-forge/iprpy-data) | [![conda](https://anaconda.org/conda-forge/iprpy-data/badges/downloads.svg)](https://anaconda.org/conda-forge/iprpy-data) |
