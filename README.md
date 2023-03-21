@@ -569,6 +569,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [timerit](https://anaconda.org/conda-forge/timerit) | [![conda](https://anaconda.org/conda-forge/timerit/badges/downloads.svg)](https://anaconda.org/conda-forge/timerit) |
 | [sixelcrop](https://anaconda.org/conda-forge/sixelcrop) | [![conda](https://anaconda.org/conda-forge/sixelcrop/badges/downloads.svg)](https://anaconda.org/conda-forge/sixelcrop) |
 | [mamonca](https://anaconda.org/conda-forge/mamonca) | [![conda](https://anaconda.org/conda-forge/mamonca/badges/downloads.svg)](https://anaconda.org/conda-forge/mamonca) |
+| [pyiron_ontology](https://anaconda.org/conda-forge/pyiron_ontology) | [![conda](https://anaconda.org/conda-forge/pyiron_ontology/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_ontology) |
 | [openphase](https://anaconda.org/conda-forge/openphase) | [![conda](https://anaconda.org/conda-forge/openphase/badges/downloads.svg)](https://anaconda.org/conda-forge/openphase) |
 | [units](https://anaconda.org/conda-forge/units) | [![conda](https://anaconda.org/conda-forge/units/badges/downloads.svg)](https://anaconda.org/conda-forge/units) |
 | [pyre-extensions](https://anaconda.org/conda-forge/pyre-extensions) | [![conda](https://anaconda.org/conda-forge/pyre-extensions/badges/downloads.svg)](https://anaconda.org/conda-forge/pyre-extensions) |
