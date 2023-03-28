@@ -558,3 +558,4 @@
 | [oxdna-analysis-tools](https://anaconda.org/conda-forge/oxdna-analysis-tools) | [![conda](https://anaconda.org/conda-forge/oxdna-analysis-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/oxdna-analysis-tools) |
 | [hydra-colorlog](https://anaconda.org/conda-forge/hydra-colorlog) | [![conda](https://anaconda.org/conda-forge/hydra-colorlog/badges/downloads.svg)](https://anaconda.org/conda-forge/hydra-colorlog) |
 | [read-version](https://anaconda.org/conda-forge/read-version) | [![conda](https://anaconda.org/conda-forge/read-version/badges/downloads.svg)](https://anaconda.org/conda-forge/read-version) |
+| [structuretoolkit](https://anaconda.org/conda-forge/structuretoolkit) | [![conda](https://anaconda.org/conda-forge/structuretoolkit/badges/downloads.svg)](https://anaconda.org/conda-forge/structuretoolkit) |
