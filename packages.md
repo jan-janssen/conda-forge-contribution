@@ -115,6 +115,7 @@
 | [catlearn](https://anaconda.org/conda-forge/catlearn) | [![conda](https://anaconda.org/conda-forge/catlearn/badges/downloads.svg)](https://anaconda.org/conda-forge/catlearn) |
 | [pylops](https://anaconda.org/conda-forge/pylops) | [![conda](https://anaconda.org/conda-forge/pylops/badges/downloads.svg)](https://anaconda.org/conda-forge/pylops) |
 | [scikit-fmm](https://anaconda.org/conda-forge/scikit-fmm) | [![conda](https://anaconda.org/conda-forge/scikit-fmm/badges/downloads.svg)](https://anaconda.org/conda-forge/scikit-fmm) |
+| [cfn-lint](https://anaconda.org/conda-forge/cfn-lint) | [![conda](https://anaconda.org/conda-forge/cfn-lint/badges/downloads.svg)](https://anaconda.org/conda-forge/cfn-lint) |
 | [libssh](https://anaconda.org/conda-forge/libssh) | [![conda](https://anaconda.org/conda-forge/libssh/badges/downloads.svg)](https://anaconda.org/conda-forge/libssh) |
 | [cabextract](https://anaconda.org/conda-forge/cabextract) | [![conda](https://anaconda.org/conda-forge/cabextract/badges/downloads.svg)](https://anaconda.org/conda-forge/cabextract) |
 | [mscorefonts](https://anaconda.org/conda-forge/mscorefonts) | [![conda](https://anaconda.org/conda-forge/mscorefonts/badges/downloads.svg)](https://anaconda.org/conda-forge/mscorefonts) |
