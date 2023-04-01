@@ -266,6 +266,7 @@
 | [jax-md](https://anaconda.org/conda-forge/jax-md) | [![conda](https://anaconda.org/conda-forge/jax-md/badges/downloads.svg)](https://anaconda.org/conda-forge/jax-md) |
 | [dm-haiku](https://anaconda.org/conda-forge/dm-haiku) | [![conda](https://anaconda.org/conda-forge/dm-haiku/badges/downloads.svg)](https://anaconda.org/conda-forge/dm-haiku) |
 | [google-colab](https://anaconda.org/conda-forge/google-colab) | [![conda](https://anaconda.org/conda-forge/google-colab/badges/downloads.svg)](https://anaconda.org/conda-forge/google-colab) |
+| [memoization](https://anaconda.org/conda-forge/memoization) | [![conda](https://anaconda.org/conda-forge/memoization/badges/downloads.svg)](https://anaconda.org/conda-forge/memoization) |
 | [pyiron_gpl](https://anaconda.org/conda-forge/pyiron_gpl) | [![conda](https://anaconda.org/conda-forge/pyiron_gpl/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_gpl) |
 | [pyiron_continuum](https://anaconda.org/conda-forge/pyiron_continuum) | [![conda](https://anaconda.org/conda-forge/pyiron_continuum/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_continuum) |
 | [matscipy](https://anaconda.org/conda-forge/matscipy) | [![conda](https://anaconda.org/conda-forge/matscipy/badges/downloads.svg)](https://anaconda.org/conda-forge/matscipy) |
@@ -562,3 +563,5 @@
 | [structuretoolkit](https://anaconda.org/conda-forge/structuretoolkit) | [![conda](https://anaconda.org/conda-forge/structuretoolkit/badges/downloads.svg)](https://anaconda.org/conda-forge/structuretoolkit) |
 | [pysipfenn](https://anaconda.org/conda-forge/pysipfenn) | [![conda](https://anaconda.org/conda-forge/pysipfenn/badges/downloads.svg)](https://anaconda.org/conda-forge/pysipfenn) |
 | [pysmartdl](https://anaconda.org/conda-forge/pysmartdl) | [![conda](https://anaconda.org/conda-forge/pysmartdl/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl) |
+| [rfc3161ng](https://anaconda.org/conda-forge/rfc3161ng) | [![conda](https://anaconda.org/conda-forge/rfc3161ng/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3161ng) |
+| [pdb-tools](https://anaconda.org/conda-forge/pdb-tools) | [![conda](https://anaconda.org/conda-forge/pdb-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/pdb-tools) |
