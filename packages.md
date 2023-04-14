@@ -565,3 +565,4 @@
 | [pysmartdl](https://anaconda.org/conda-forge/pysmartdl) | [![conda](https://anaconda.org/conda-forge/pysmartdl/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl) |
 | [rfc3161ng](https://anaconda.org/conda-forge/rfc3161ng) | [![conda](https://anaconda.org/conda-forge/rfc3161ng/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3161ng) |
 | [pdb-tools](https://anaconda.org/conda-forge/pdb-tools) | [![conda](https://anaconda.org/conda-forge/pdb-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/pdb-tools) |
+| [moleculekit](https://anaconda.org/conda-forge/moleculekit) | [![conda](https://anaconda.org/conda-forge/moleculekit/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculekit) |
