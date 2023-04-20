@@ -422,6 +422,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [msoffcrypto-tool](https://anaconda.org/conda-forge/msoffcrypto-tool) | [![conda](https://anaconda.org/conda-forge/msoffcrypto-tool/badges/downloads.svg)](https://anaconda.org/conda-forge/msoffcrypto-tool) |
 | [pcodedmp](https://anaconda.org/conda-forge/pcodedmp) | [![conda](https://anaconda.org/conda-forge/pcodedmp/badges/downloads.svg)](https://anaconda.org/conda-forge/pcodedmp) |
 | [flatlatex](https://anaconda.org/conda-forge/flatlatex) | [![conda](https://anaconda.org/conda-forge/flatlatex/badges/downloads.svg)](https://anaconda.org/conda-forge/flatlatex) |
+| [yabadaba](https://anaconda.org/conda-forge/yabadaba) | [![conda](https://anaconda.org/conda-forge/yabadaba/badges/downloads.svg)](https://anaconda.org/conda-forge/yabadaba) |
 | [matbench](https://anaconda.org/conda-forge/matbench) | [![conda](https://anaconda.org/conda-forge/matbench/badges/downloads.svg)](https://anaconda.org/conda-forge/matbench) |
 | [merge-args](https://anaconda.org/conda-forge/merge-args) | [![conda](https://anaconda.org/conda-forge/merge-args/badges/downloads.svg)](https://anaconda.org/conda-forge/merge-args) |
 | [uvicore](https://anaconda.org/conda-forge/uvicore) | [![conda](https://anaconda.org/conda-forge/uvicore/badges/downloads.svg)](https://anaconda.org/conda-forge/uvicore) |
@@ -586,3 +587,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pdb-tools](https://anaconda.org/conda-forge/pdb-tools) | [![conda](https://anaconda.org/conda-forge/pdb-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/pdb-tools) |
 | [moleculekit](https://anaconda.org/conda-forge/moleculekit) | [![conda](https://anaconda.org/conda-forge/moleculekit/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculekit) |
 | [pymace](https://anaconda.org/conda-forge/pymace) | [![conda](https://anaconda.org/conda-forge/pymace/badges/downloads.svg)](https://anaconda.org/conda-forge/pymace) |
+| [watchgha](https://anaconda.org/conda-forge/watchgha) | [![conda](https://anaconda.org/conda-forge/watchgha/badges/downloads.svg)](https://anaconda.org/conda-forge/watchgha) |
+| [flux-core](https://anaconda.org/conda-forge/flux-core) | [![conda](https://anaconda.org/conda-forge/flux-core/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-core) |
