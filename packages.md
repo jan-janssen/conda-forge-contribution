@@ -570,3 +570,4 @@
 | [pymace](https://anaconda.org/conda-forge/pymace) | [![conda](https://anaconda.org/conda-forge/pymace/badges/downloads.svg)](https://anaconda.org/conda-forge/pymace) |
 | [watchgha](https://anaconda.org/conda-forge/watchgha) | [![conda](https://anaconda.org/conda-forge/watchgha/badges/downloads.svg)](https://anaconda.org/conda-forge/watchgha) |
 | [flux-core](https://anaconda.org/conda-forge/flux-core) | [![conda](https://anaconda.org/conda-forge/flux-core/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-core) |
+| [flux-sched](https://anaconda.org/conda-forge/flux-sched) | [![conda](https://anaconda.org/conda-forge/flux-sched/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-sched) |
