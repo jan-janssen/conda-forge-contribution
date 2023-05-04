@@ -590,3 +590,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [watchgha](https://anaconda.org/conda-forge/watchgha) | [![conda](https://anaconda.org/conda-forge/watchgha/badges/downloads.svg)](https://anaconda.org/conda-forge/watchgha) |
 | [flux-core](https://anaconda.org/conda-forge/flux-core) | [![conda](https://anaconda.org/conda-forge/flux-core/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-core) |
 | [flux-sched](https://anaconda.org/conda-forge/flux-sched) | [![conda](https://anaconda.org/conda-forge/flux-sched/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-sched) |
+| [fvgp](https://anaconda.org/conda-forge/fvgp) | [![conda](https://anaconda.org/conda-forge/fvgp/badges/downloads.svg)](https://anaconda.org/conda-forge/fvgp) |
+| [hgdl](https://anaconda.org/conda-forge/hgdl) | [![conda](https://anaconda.org/conda-forge/hgdl/badges/downloads.svg)](https://anaconda.org/conda-forge/hgdl) |
+| [gpcam](https://anaconda.org/conda-forge/gpcam) | [![conda](https://anaconda.org/conda-forge/gpcam/badges/downloads.svg)](https://anaconda.org/conda-forge/gpcam) |
