@@ -595,3 +595,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [gpcam](https://anaconda.org/conda-forge/gpcam) | [![conda](https://anaconda.org/conda-forge/gpcam/badges/downloads.svg)](https://anaconda.org/conda-forge/gpcam) |
 | [pycrystal](https://anaconda.org/conda-forge/pycrystal) | [![conda](https://anaconda.org/conda-forge/pycrystal/badges/downloads.svg)](https://anaconda.org/conda-forge/pycrystal) |
 | [pyxtal](https://anaconda.org/conda-forge/pyxtal) | [![conda](https://anaconda.org/conda-forge/pyxtal/badges/downloads.svg)](https://anaconda.org/conda-forge/pyxtal) |
+| [flux-restful-client](https://anaconda.org/conda-forge/flux-restful-client) | [![conda](https://anaconda.org/conda-forge/flux-restful-client/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-restful-client) |
