@@ -22,6 +22,7 @@
 | [tldextract](https://anaconda.org/conda-forge/tldextract) | [![conda](https://anaconda.org/conda-forge/tldextract/badges/downloads.svg)](https://anaconda.org/conda-forge/tldextract) |
 | [wtf-peewee](https://anaconda.org/conda-forge/wtf-peewee) | [![conda](https://anaconda.org/conda-forge/wtf-peewee/badges/downloads.svg)](https://anaconda.org/conda-forge/wtf-peewee) |
 | [cloudant](https://anaconda.org/conda-forge/cloudant) | [![conda](https://anaconda.org/conda-forge/cloudant/badges/downloads.svg)](https://anaconda.org/conda-forge/cloudant) |
+| [libhwloc](https://anaconda.org/conda-forge/libhwloc) | [![conda](https://anaconda.org/conda-forge/libhwloc/badges/downloads.svg)](https://anaconda.org/conda-forge/libhwloc) |
 | [imapclient](https://anaconda.org/conda-forge/imapclient) | [![conda](https://anaconda.org/conda-forge/imapclient/badges/downloads.svg)](https://anaconda.org/conda-forge/imapclient) |
 | [flask-seasurf](https://anaconda.org/conda-forge/flask-seasurf) | [![conda](https://anaconda.org/conda-forge/flask-seasurf/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-seasurf) |
 | [flask-restful](https://anaconda.org/conda-forge/flask-restful) | [![conda](https://anaconda.org/conda-forge/flask-restful/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-restful) |
