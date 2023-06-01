@@ -3,6 +3,7 @@
 | Package Name | Downloads |
 |:-------------|:---------:|
 | [h5py](https://anaconda.org/conda-forge/h5py) | [![conda](https://anaconda.org/conda-forge/h5py/badges/downloads.svg)](https://anaconda.org/conda-forge/h5py) |
+| [pyzmq](https://anaconda.org/conda-forge/pyzmq) | [![conda](https://anaconda.org/conda-forge/pyzmq/badges/downloads.svg)](https://anaconda.org/conda-forge/pyzmq) |
 | [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
 | [mutagen](https://anaconda.org/conda-forge/mutagen) | [![conda](https://anaconda.org/conda-forge/mutagen/badges/downloads.svg)](https://anaconda.org/conda-forge/mutagen) |
@@ -579,3 +580,4 @@
 | [pyxtal](https://anaconda.org/conda-forge/pyxtal) | [![conda](https://anaconda.org/conda-forge/pyxtal/badges/downloads.svg)](https://anaconda.org/conda-forge/pyxtal) |
 | [flux-restful-client](https://anaconda.org/conda-forge/flux-restful-client) | [![conda](https://anaconda.org/conda-forge/flux-restful-client/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-restful-client) |
 | [maxvolpy](https://anaconda.org/conda-forge/maxvolpy) | [![conda](https://anaconda.org/conda-forge/maxvolpy/badges/downloads.svg)](https://anaconda.org/conda-forge/maxvolpy) |
+| [ttopt](https://anaconda.org/conda-forge/ttopt) | [![conda](https://anaconda.org/conda-forge/ttopt/badges/downloads.svg)](https://anaconda.org/conda-forge/ttopt) |
