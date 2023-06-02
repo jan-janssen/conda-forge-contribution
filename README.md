@@ -22,6 +22,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | Package Name | Downloads |
 |:-------------|:---------:|
 | [h5py](https://anaconda.org/conda-forge/h5py) | [![conda](https://anaconda.org/conda-forge/h5py/badges/downloads.svg)](https://anaconda.org/conda-forge/h5py) |
+| [pystache](https://anaconda.org/conda-forge/pystache) | [![conda](https://anaconda.org/conda-forge/pystache/badges/downloads.svg)](https://anaconda.org/conda-forge/pystache) |
 | [pyzmq](https://anaconda.org/conda-forge/pyzmq) | [![conda](https://anaconda.org/conda-forge/pyzmq/badges/downloads.svg)](https://anaconda.org/conda-forge/pyzmq) |
 | [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
@@ -600,3 +601,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [flux-restful-client](https://anaconda.org/conda-forge/flux-restful-client) | [![conda](https://anaconda.org/conda-forge/flux-restful-client/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-restful-client) |
 | [maxvolpy](https://anaconda.org/conda-forge/maxvolpy) | [![conda](https://anaconda.org/conda-forge/maxvolpy/badges/downloads.svg)](https://anaconda.org/conda-forge/maxvolpy) |
 | [ttopt](https://anaconda.org/conda-forge/ttopt) | [![conda](https://anaconda.org/conda-forge/ttopt/badges/downloads.svg)](https://anaconda.org/conda-forge/ttopt) |
+| [insightface](https://anaconda.org/conda-forge/insightface) | [![conda](https://anaconda.org/conda-forge/insightface/badges/downloads.svg)](https://anaconda.org/conda-forge/insightface) |
+| [psij-rest](https://anaconda.org/conda-forge/psij-rest) | [![conda](https://anaconda.org/conda-forge/psij-rest/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-rest) |
+| [psij-zmq](https://anaconda.org/conda-forge/psij-zmq) | [![conda](https://anaconda.org/conda-forge/psij-zmq/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-zmq) |
+| [websocket](https://anaconda.org/conda-forge/websocket) | [![conda](https://anaconda.org/conda-forge/websocket/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket) |
+| [psij-python](https://anaconda.org/conda-forge/psij-python) | [![conda](https://anaconda.org/conda-forge/psij-python/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-python) |
