@@ -106,6 +106,7 @@
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
 | [codacy-coverage](https://anaconda.org/conda-forge/codacy-coverage) | [![conda](https://anaconda.org/conda-forge/codacy-coverage/badges/downloads.svg)](https://anaconda.org/conda-forge/codacy-coverage) |
 | [openbabel](https://anaconda.org/conda-forge/openbabel) | [![conda](https://anaconda.org/conda-forge/openbabel/badges/downloads.svg)](https://anaconda.org/conda-forge/openbabel) |
+| [pyotp](https://anaconda.org/conda-forge/pyotp) | [![conda](https://anaconda.org/conda-forge/pyotp/badges/downloads.svg)](https://anaconda.org/conda-forge/pyotp) |
 | [libxc](https://anaconda.org/conda-forge/libxc) | [![conda](https://anaconda.org/conda-forge/libxc/badges/downloads.svg)](https://anaconda.org/conda-forge/libxc) |
 | [dtool_s3](https://anaconda.org/conda-forge/dtool_s3) | [![conda](https://anaconda.org/conda-forge/dtool_s3/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_s3) |
 | [dtool_http](https://anaconda.org/conda-forge/dtool_http) | [![conda](https://anaconda.org/conda-forge/dtool_http/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_http) |
@@ -590,3 +591,4 @@
 | [websocket](https://anaconda.org/conda-forge/websocket) | [![conda](https://anaconda.org/conda-forge/websocket/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket) |
 | [psij-python](https://anaconda.org/conda-forge/psij-python) | [![conda](https://anaconda.org/conda-forge/psij-python/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-python) |
 | [emdfile](https://anaconda.org/conda-forge/emdfile) | [![conda](https://anaconda.org/conda-forge/emdfile/badges/downloads.svg)](https://anaconda.org/conda-forge/emdfile) |
+| [covalent](https://anaconda.org/conda-forge/covalent) | [![conda](https://anaconda.org/conda-forge/covalent/badges/downloads.svg)](https://anaconda.org/conda-forge/covalent) |
