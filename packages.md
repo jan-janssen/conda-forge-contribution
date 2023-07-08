@@ -174,6 +174,7 @@
 | [proteus](https://anaconda.org/conda-forge/proteus) | [![conda](https://anaconda.org/conda-forge/proteus/badges/downloads.svg)](https://anaconda.org/conda-forge/proteus) |
 | [kimpy](https://anaconda.org/conda-forge/kimpy) | [![conda](https://anaconda.org/conda-forge/kimpy/badges/downloads.svg)](https://anaconda.org/conda-forge/kimpy) |
 | [openkimmodels](https://anaconda.org/conda-forge/openkimmodels) | [![conda](https://anaconda.org/conda-forge/openkimmodels/badges/downloads.svg)](https://anaconda.org/conda-forge/openkimmodels) |
+| [rocm-smi](https://anaconda.org/conda-forge/rocm-smi) | [![conda](https://anaconda.org/conda-forge/rocm-smi/badges/downloads.svg)](https://anaconda.org/conda-forge/rocm-smi) |
 | [openkim-models](https://anaconda.org/conda-forge/openkim-models) | [![conda](https://anaconda.org/conda-forge/openkim-models/badges/downloads.svg)](https://anaconda.org/conda-forge/openkim-models) |
 | [numericalunits](https://anaconda.org/conda-forge/numericalunits) | [![conda](https://anaconda.org/conda-forge/numericalunits/badges/downloads.svg)](https://anaconda.org/conda-forge/numericalunits) |
 | [potentials](https://anaconda.org/conda-forge/potentials) | [![conda](https://anaconda.org/conda-forge/potentials/badges/downloads.svg)](https://anaconda.org/conda-forge/potentials) |
