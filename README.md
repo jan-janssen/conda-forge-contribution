@@ -612,3 +612,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [psij-python](https://anaconda.org/conda-forge/psij-python) | [![conda](https://anaconda.org/conda-forge/psij-python/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-python) |
 | [emdfile](https://anaconda.org/conda-forge/emdfile) | [![conda](https://anaconda.org/conda-forge/emdfile/badges/downloads.svg)](https://anaconda.org/conda-forge/emdfile) |
 | [covalent](https://anaconda.org/conda-forge/covalent) | [![conda](https://anaconda.org/conda-forge/covalent/badges/downloads.svg)](https://anaconda.org/conda-forge/covalent) |
+| [gmailsorter](https://anaconda.org/conda-forge/gmailsorter) | [![conda](https://anaconda.org/conda-forge/gmailsorter/badges/downloads.svg)](https://anaconda.org/conda-forge/gmailsorter) |
