@@ -191,6 +191,7 @@
 | [hiphive](https://anaconda.org/conda-forge/hiphive) | [![conda](https://anaconda.org/conda-forge/hiphive/badges/downloads.svg)](https://anaconda.org/conda-forge/hiphive) |
 | [pylammpsmpi](https://anaconda.org/conda-forge/pylammpsmpi) | [![conda](https://anaconda.org/conda-forge/pylammpsmpi/badges/downloads.svg)](https://anaconda.org/conda-forge/pylammpsmpi) |
 | [quickff](https://anaconda.org/conda-forge/quickff) | [![conda](https://anaconda.org/conda-forge/quickff/badges/downloads.svg)](https://anaconda.org/conda-forge/quickff) |
+| [python-keycloak](https://anaconda.org/conda-forge/python-keycloak) | [![conda](https://anaconda.org/conda-forge/python-keycloak/badges/downloads.svg)](https://anaconda.org/conda-forge/python-keycloak) |
 | [jupyterlab_latex](https://anaconda.org/conda-forge/jupyterlab_latex) | [![conda](https://anaconda.org/conda-forge/jupyterlab_latex/badges/downloads.svg)](https://anaconda.org/conda-forge/jupyterlab_latex) |
 | [gifsicle](https://anaconda.org/conda-forge/gifsicle) | [![conda](https://anaconda.org/conda-forge/gifsicle/badges/downloads.svg)](https://anaconda.org/conda-forge/gifsicle) |
 | [pymatnest](https://anaconda.org/conda-forge/pymatnest) | [![conda](https://anaconda.org/conda-forge/pymatnest/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatnest) |
