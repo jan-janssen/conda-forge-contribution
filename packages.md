@@ -598,3 +598,4 @@
 | [descriptastorus](https://anaconda.org/conda-forge/descriptastorus) | [![conda](https://anaconda.org/conda-forge/descriptastorus/badges/downloads.svg)](https://anaconda.org/conda-forge/descriptastorus) |
 | [pyqalloy](https://anaconda.org/conda-forge/pyqalloy) | [![conda](https://anaconda.org/conda-forge/pyqalloy/badges/downloads.svg)](https://anaconda.org/conda-forge/pyqalloy) |
 | [abacusutils](https://anaconda.org/conda-forge/abacusutils) | [![conda](https://anaconda.org/conda-forge/abacusutils/badges/downloads.svg)](https://anaconda.org/conda-forge/abacusutils) |
+| [sphinx-pdj-theme](https://anaconda.org/conda-forge/sphinx-pdj-theme) | [![conda](https://anaconda.org/conda-forge/sphinx-pdj-theme/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-pdj-theme) |
