@@ -599,3 +599,5 @@
 | [pyqalloy](https://anaconda.org/conda-forge/pyqalloy) | [![conda](https://anaconda.org/conda-forge/pyqalloy/badges/downloads.svg)](https://anaconda.org/conda-forge/pyqalloy) |
 | [abacusutils](https://anaconda.org/conda-forge/abacusutils) | [![conda](https://anaconda.org/conda-forge/abacusutils/badges/downloads.svg)](https://anaconda.org/conda-forge/abacusutils) |
 | [sphinx-pdj-theme](https://anaconda.org/conda-forge/sphinx-pdj-theme) | [![conda](https://anaconda.org/conda-forge/sphinx-pdj-theme/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-pdj-theme) |
+| [lobsterpy](https://anaconda.org/conda-forge/lobsterpy) | [![conda](https://anaconda.org/conda-forge/lobsterpy/badges/downloads.svg)](https://anaconda.org/conda-forge/lobsterpy) |
+| [vermouth](https://anaconda.org/conda-forge/vermouth) | [![conda](https://anaconda.org/conda-forge/vermouth/badges/downloads.svg)](https://anaconda.org/conda-forge/vermouth) |
