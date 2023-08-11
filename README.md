@@ -621,3 +621,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [lobsterpy](https://anaconda.org/conda-forge/lobsterpy) | [![conda](https://anaconda.org/conda-forge/lobsterpy/badges/downloads.svg)](https://anaconda.org/conda-forge/lobsterpy) |
 | [vermouth](https://anaconda.org/conda-forge/vermouth) | [![conda](https://anaconda.org/conda-forge/vermouth/badges/downloads.svg)](https://anaconda.org/conda-forge/vermouth) |
 | [materials-learning-algorithms](https://anaconda.org/conda-forge/materials-learning-algorithms) | [![conda](https://anaconda.org/conda-forge/materials-learning-algorithms/badges/downloads.svg)](https://anaconda.org/conda-forge/materials-learning-algorithms) |
+| [coexist](https://anaconda.org/conda-forge/coexist) | [![conda](https://anaconda.org/conda-forge/coexist/badges/downloads.svg)](https://anaconda.org/conda-forge/coexist) |
