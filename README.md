@@ -177,6 +177,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [phonolammps](https://anaconda.org/conda-forge/phonolammps) | [![conda](https://anaconda.org/conda-forge/phonolammps/badges/downloads.svg)](https://anaconda.org/conda-forge/phonolammps) |
 | [dynaphopy](https://anaconda.org/conda-forge/dynaphopy) | [![conda](https://anaconda.org/conda-forge/dynaphopy/badges/downloads.svg)](https://anaconda.org/conda-forge/dynaphopy) |
 | [owlready2](https://anaconda.org/conda-forge/owlready2) | [![conda](https://anaconda.org/conda-forge/owlready2/badges/downloads.svg)](https://anaconda.org/conda-forge/owlready2) |
+| [flask-smorest](https://anaconda.org/conda-forge/flask-smorest) | [![conda](https://anaconda.org/conda-forge/flask-smorest/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-smorest) |
 | [atomicrex](https://anaconda.org/conda-forge/atomicrex) | [![conda](https://anaconda.org/conda-forge/atomicrex/badges/downloads.svg)](https://anaconda.org/conda-forge/atomicrex) |
 | [mdf_forge](https://anaconda.org/conda-forge/mdf_forge) | [![conda](https://anaconda.org/conda-forge/mdf_forge/badges/downloads.svg)](https://anaconda.org/conda-forge/mdf_forge) |
 | [mdf_toolbox](https://anaconda.org/conda-forge/mdf_toolbox) | [![conda](https://anaconda.org/conda-forge/mdf_toolbox/badges/downloads.svg)](https://anaconda.org/conda-forge/mdf_toolbox) |
