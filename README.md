@@ -73,6 +73,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [agate-dbf](https://anaconda.org/conda-forge/agate-dbf) | [![conda](https://anaconda.org/conda-forge/agate-dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-dbf) |
 | [agate-sql](https://anaconda.org/conda-forge/agate-sql) | [![conda](https://anaconda.org/conda-forge/agate-sql/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-sql) |
 | [csvkit](https://anaconda.org/conda-forge/csvkit) | [![conda](https://anaconda.org/conda-forge/csvkit/badges/downloads.svg)](https://anaconda.org/conda-forge/csvkit) |
+| [interpolation](https://anaconda.org/conda-forge/interpolation) | [![conda](https://anaconda.org/conda-forge/interpolation/badges/downloads.svg)](https://anaconda.org/conda-forge/interpolation) |
 | [kafkacat](https://anaconda.org/conda-forge/kafkacat) | [![conda](https://anaconda.org/conda-forge/kafkacat/badges/downloads.svg)](https://anaconda.org/conda-forge/kafkacat) |
 | [rope](https://anaconda.org/conda-forge/rope) | [![conda](https://anaconda.org/conda-forge/rope/badges/downloads.svg)](https://anaconda.org/conda-forge/rope) |
 | [rednose](https://anaconda.org/conda-forge/rednose) | [![conda](https://anaconda.org/conda-forge/rednose/badges/downloads.svg)](https://anaconda.org/conda-forge/rednose) |
