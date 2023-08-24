@@ -123,6 +123,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
 | [python-flint](https://anaconda.org/conda-forge/python-flint) | [![conda](https://anaconda.org/conda-forge/python-flint/badges/downloads.svg)](https://anaconda.org/conda-forge/python-flint) |
 | [bcrypt](https://anaconda.org/conda-forge/bcrypt) | [![conda](https://anaconda.org/conda-forge/bcrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/bcrypt) |
+| [typeguard](https://anaconda.org/conda-forge/typeguard) | [![conda](https://anaconda.org/conda-forge/typeguard/badges/downloads.svg)](https://anaconda.org/conda-forge/typeguard) |
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
 | [codacy-coverage](https://anaconda.org/conda-forge/codacy-coverage) | [![conda](https://anaconda.org/conda-forge/codacy-coverage/badges/downloads.svg)](https://anaconda.org/conda-forge/codacy-coverage) |
 | [openbabel](https://anaconda.org/conda-forge/openbabel) | [![conda](https://anaconda.org/conda-forge/openbabel/badges/downloads.svg)](https://anaconda.org/conda-forge/openbabel) |
@@ -626,3 +627,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [coexist](https://anaconda.org/conda-forge/coexist) | [![conda](https://anaconda.org/conda-forge/coexist/badges/downloads.svg)](https://anaconda.org/conda-forge/coexist) |
 | [dtool_lookup_server_search_plugin_mongo](https://anaconda.org/conda-forge/dtool_lookup_server_search_plugin_mongo) | [![conda](https://anaconda.org/conda-forge/dtool_lookup_server_search_plugin_mongo/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_lookup_server_search_plugin_mongo) |
 | [dtool_lookup_server_retrieve_plugin_mongo](https://anaconda.org/conda-forge/dtool_lookup_server_retrieve_plugin_mongo) | [![conda](https://anaconda.org/conda-forge/dtool_lookup_server_retrieve_plugin_mongo/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_lookup_server_retrieve_plugin_mongo) |
+| [atomistics](https://anaconda.org/conda-forge/atomistics) | [![conda](https://anaconda.org/conda-forge/atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/atomistics) |

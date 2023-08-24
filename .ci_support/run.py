@@ -133,11 +133,13 @@ def download_existing_data(data_download):
 
 
 def get_statistics(package_lst, repo, filename):
-    data_download = get_github_stats_url(repo=repo, filename=filename)
-    df_new = get_condaforge_contribution(package_lst=package_lst)
-    df_old = download_existing_data(data_download=data_download)
-    df_merge = df_old.append(df_new, sort=False)
-    df_merge.to_csv(filename)
+    pandas.concat([
+        download_existing_data(data_download=get_github_stats_url(
+            repo=repo, 
+            filename=filename,
+        )), 
+        get_condaforge_contribution(package_lst=package_lst),
+    ], sort=False).to_csv(filename)
 
 
 if __name__ == "__main__":
