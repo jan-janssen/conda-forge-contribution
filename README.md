@@ -118,6 +118,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [libsigsegv](https://anaconda.org/conda-forge/libsigsegv) | [![conda](https://anaconda.org/conda-forge/libsigsegv/badges/downloads.svg)](https://anaconda.org/conda-forge/libsigsegv) |
 | [ovito](https://anaconda.org/conda-forge/ovito) | [![conda](https://anaconda.org/conda-forge/ovito/badges/downloads.svg)](https://anaconda.org/conda-forge/ovito) |
 | [python-crontab](https://anaconda.org/conda-forge/python-crontab) | [![conda](https://anaconda.org/conda-forge/python-crontab/badges/downloads.svg)](https://anaconda.org/conda-forge/python-crontab) |
+| [zbar](https://anaconda.org/conda-forge/zbar) | [![conda](https://anaconda.org/conda-forge/zbar/badges/downloads.svg)](https://anaconda.org/conda-forge/zbar) |
 | [simpletraj](https://anaconda.org/conda-forge/simpletraj) | [![conda](https://anaconda.org/conda-forge/simpletraj/badges/downloads.svg)](https://anaconda.org/conda-forge/simpletraj) |
 | [atomsk](https://anaconda.org/conda-forge/atomsk) | [![conda](https://anaconda.org/conda-forge/atomsk/badges/downloads.svg)](https://anaconda.org/conda-forge/atomsk) |
 | [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
