@@ -632,3 +632,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyprctl](https://anaconda.org/conda-forge/pyprctl) | [![conda](https://anaconda.org/conda-forge/pyprctl/badges/downloads.svg)](https://anaconda.org/conda-forge/pyprctl) |
 | [irreptables](https://anaconda.org/conda-forge/irreptables) | [![conda](https://anaconda.org/conda-forge/irreptables/badges/downloads.svg)](https://anaconda.org/conda-forge/irreptables) |
 | [irrep](https://anaconda.org/conda-forge/irrep) | [![conda](https://anaconda.org/conda-forge/irrep/badges/downloads.svg)](https://anaconda.org/conda-forge/irrep) |
+| [python-ace](https://anaconda.org/conda-forge/python-ace) | [![conda](https://anaconda.org/conda-forge/python-ace/badges/downloads.svg)](https://anaconda.org/conda-forge/python-ace) |
