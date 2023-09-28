@@ -597,6 +597,7 @@
 | [websocket](https://anaconda.org/conda-forge/websocket) | [![conda](https://anaconda.org/conda-forge/websocket/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket) |
 | [psij-python](https://anaconda.org/conda-forge/psij-python) | [![conda](https://anaconda.org/conda-forge/psij-python/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-python) |
 | [emdfile](https://anaconda.org/conda-forge/emdfile) | [![conda](https://anaconda.org/conda-forge/emdfile/badges/downloads.svg)](https://anaconda.org/conda-forge/emdfile) |
+| [pydantic-settings](https://anaconda.org/conda-forge/pydantic-settings) | [![conda](https://anaconda.org/conda-forge/pydantic-settings/badges/downloads.svg)](https://anaconda.org/conda-forge/pydantic-settings) |
 | [covalent](https://anaconda.org/conda-forge/covalent) | [![conda](https://anaconda.org/conda-forge/covalent/badges/downloads.svg)](https://anaconda.org/conda-forge/covalent) |
 | [gmailsorter](https://anaconda.org/conda-forge/gmailsorter) | [![conda](https://anaconda.org/conda-forge/gmailsorter/badges/downloads.svg)](https://anaconda.org/conda-forge/gmailsorter) |
 | [descriptastorus](https://anaconda.org/conda-forge/descriptastorus) | [![conda](https://anaconda.org/conda-forge/descriptastorus/badges/downloads.svg)](https://anaconda.org/conda-forge/descriptastorus) |
