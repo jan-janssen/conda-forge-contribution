@@ -308,6 +308,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [wquantiles](https://anaconda.org/conda-forge/wquantiles) | [![conda](https://anaconda.org/conda-forge/wquantiles/badges/downloads.svg)](https://anaconda.org/conda-forge/wquantiles) |
 | [dmba](https://anaconda.org/conda-forge/dmba) | [![conda](https://anaconda.org/conda-forge/dmba/badges/downloads.svg)](https://anaconda.org/conda-forge/dmba) |
 | [asr](https://anaconda.org/conda-forge/asr) | [![conda](https://anaconda.org/conda-forge/asr/badges/downloads.svg)](https://anaconda.org/conda-forge/asr) |
+| [chex](https://anaconda.org/conda-forge/chex) | [![conda](https://anaconda.org/conda-forge/chex/badges/downloads.svg)](https://anaconda.org/conda-forge/chex) |
 | [robocrys](https://anaconda.org/conda-forge/robocrys) | [![conda](https://anaconda.org/conda-forge/robocrys/badges/downloads.svg)](https://anaconda.org/conda-forge/robocrys) |
 | [cite](https://anaconda.org/conda-forge/cite) | [![conda](https://anaconda.org/conda-forge/cite/badges/downloads.svg)](https://anaconda.org/conda-forge/cite) |
 | [pdftotext](https://anaconda.org/conda-forge/pdftotext) | [![conda](https://anaconda.org/conda-forge/pdftotext/badges/downloads.svg)](https://anaconda.org/conda-forge/pdftotext) |
@@ -636,3 +637,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [irrep](https://anaconda.org/conda-forge/irrep) | [![conda](https://anaconda.org/conda-forge/irrep/badges/downloads.svg)](https://anaconda.org/conda-forge/irrep) |
 | [python-ace](https://anaconda.org/conda-forge/python-ace) | [![conda](https://anaconda.org/conda-forge/python-ace/badges/downloads.svg)](https://anaconda.org/conda-forge/python-ace) |
 | [psiflow](https://anaconda.org/conda-forge/psiflow) | [![conda](https://anaconda.org/conda-forge/psiflow/badges/downloads.svg)](https://anaconda.org/conda-forge/psiflow) |
+| [nanosculpt](https://anaconda.org/conda-forge/nanosculpt) | [![conda](https://anaconda.org/conda-forge/nanosculpt/badges/downloads.svg)](https://anaconda.org/conda-forge/nanosculpt) |
+| [lmdbm](https://anaconda.org/conda-forge/lmdbm) | [![conda](https://anaconda.org/conda-forge/lmdbm/badges/downloads.svg)](https://anaconda.org/conda-forge/lmdbm) |
