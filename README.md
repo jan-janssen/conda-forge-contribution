@@ -639,3 +639,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [psiflow](https://anaconda.org/conda-forge/psiflow) | [![conda](https://anaconda.org/conda-forge/psiflow/badges/downloads.svg)](https://anaconda.org/conda-forge/psiflow) |
 | [nanosculpt](https://anaconda.org/conda-forge/nanosculpt) | [![conda](https://anaconda.org/conda-forge/nanosculpt/badges/downloads.svg)](https://anaconda.org/conda-forge/nanosculpt) |
 | [lmdbm](https://anaconda.org/conda-forge/lmdbm) | [![conda](https://anaconda.org/conda-forge/lmdbm/badges/downloads.svg)](https://anaconda.org/conda-forge/lmdbm) |
+| [pyiron_workflow](https://anaconda.org/conda-forge/pyiron_workflow) | [![conda](https://anaconda.org/conda-forge/pyiron_workflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_workflow) |
+| [pyiron_potentialfit](https://anaconda.org/conda-forge/pyiron_potentialfit) | [![conda](https://anaconda.org/conda-forge/pyiron_potentialfit/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_potentialfit) |
