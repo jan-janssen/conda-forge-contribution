@@ -25,6 +25,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [h5py](https://anaconda.org/conda-forge/h5py) | [![conda](https://anaconda.org/conda-forge/h5py/badges/downloads.svg)](https://anaconda.org/conda-forge/h5py) |
 | [pystache](https://anaconda.org/conda-forge/pystache) | [![conda](https://anaconda.org/conda-forge/pystache/badges/downloads.svg)](https://anaconda.org/conda-forge/pystache) |
 | [pyzmq](https://anaconda.org/conda-forge/pyzmq) | [![conda](https://anaconda.org/conda-forge/pyzmq/badges/downloads.svg)](https://anaconda.org/conda-forge/pyzmq) |
+| [tempita](https://anaconda.org/conda-forge/tempita) | [![conda](https://anaconda.org/conda-forge/tempita/badges/downloads.svg)](https://anaconda.org/conda-forge/tempita) |
 | [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
 | [mutagen](https://anaconda.org/conda-forge/mutagen) | [![conda](https://anaconda.org/conda-forge/mutagen/badges/downloads.svg)](https://anaconda.org/conda-forge/mutagen) |
