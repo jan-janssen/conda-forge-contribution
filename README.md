@@ -619,6 +619,9 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [psij-zmq](https://anaconda.org/conda-forge/psij-zmq) | [![conda](https://anaconda.org/conda-forge/psij-zmq/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-zmq) |
 | [websocket](https://anaconda.org/conda-forge/websocket) | [![conda](https://anaconda.org/conda-forge/websocket/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket) |
 | [psij-python](https://anaconda.org/conda-forge/psij-python) | [![conda](https://anaconda.org/conda-forge/psij-python/badges/downloads.svg)](https://anaconda.org/conda-forge/psij-python) |
+| [globus-compute-common-split](https://anaconda.org/conda-forge/globus-compute-common-split) | [![conda](https://anaconda.org/conda-forge/globus-compute-common-split/badges/downloads.svg)](https://anaconda.org/conda-forge/globus-compute-common-split) |
+| [globus-compute-endpoint](https://anaconda.org/conda-forge/globus-compute-endpoint) | [![conda](https://anaconda.org/conda-forge/globus-compute-endpoint/badges/downloads.svg)](https://anaconda.org/conda-forge/globus-compute-endpoint) |
+| [globus-compute-sdk](https://anaconda.org/conda-forge/globus-compute-sdk) | [![conda](https://anaconda.org/conda-forge/globus-compute-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/globus-compute-sdk) |
 | [emdfile](https://anaconda.org/conda-forge/emdfile) | [![conda](https://anaconda.org/conda-forge/emdfile/badges/downloads.svg)](https://anaconda.org/conda-forge/emdfile) |
 | [pydantic-settings](https://anaconda.org/conda-forge/pydantic-settings) | [![conda](https://anaconda.org/conda-forge/pydantic-settings/badges/downloads.svg)](https://anaconda.org/conda-forge/pydantic-settings) |
 | [covalent](https://anaconda.org/conda-forge/covalent) | [![conda](https://anaconda.org/conda-forge/covalent/badges/downloads.svg)](https://anaconda.org/conda-forge/covalent) |
