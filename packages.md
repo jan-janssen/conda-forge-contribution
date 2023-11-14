@@ -642,3 +642,4 @@
 | [nomad-camels-driver-pid](https://anaconda.org/conda-forge/nomad-camels-driver-pid) | [![conda](https://anaconda.org/conda-forge/nomad-camels-driver-pid/badges/downloads.svg)](https://anaconda.org/conda-forge/nomad-camels-driver-pid) |
 | [globus-identity-mapping](https://anaconda.org/conda-forge/globus-identity-mapping) | [![conda](https://anaconda.org/conda-forge/globus-identity-mapping/badges/downloads.svg)](https://anaconda.org/conda-forge/globus-identity-mapping) |
 | [tosholi](https://anaconda.org/conda-forge/tosholi) | [![conda](https://anaconda.org/conda-forge/tosholi/badges/downloads.svg)](https://anaconda.org/conda-forge/tosholi) |
+| [clusterx](https://anaconda.org/conda-forge/clusterx) | [![conda](https://anaconda.org/conda-forge/clusterx/badges/downloads.svg)](https://anaconda.org/conda-forge/clusterx) |
