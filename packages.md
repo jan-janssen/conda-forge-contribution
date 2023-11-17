@@ -643,3 +643,8 @@
 | [globus-identity-mapping](https://anaconda.org/conda-forge/globus-identity-mapping) | [![conda](https://anaconda.org/conda-forge/globus-identity-mapping/badges/downloads.svg)](https://anaconda.org/conda-forge/globus-identity-mapping) |
 | [tosholi](https://anaconda.org/conda-forge/tosholi) | [![conda](https://anaconda.org/conda-forge/tosholi/badges/downloads.svg)](https://anaconda.org/conda-forge/tosholi) |
 | [clusterx](https://anaconda.org/conda-forge/clusterx) | [![conda](https://anaconda.org/conda-forge/clusterx/badges/downloads.svg)](https://anaconda.org/conda-forge/clusterx) |
+| [stk](https://anaconda.org/conda-forge/stk) | [![conda](https://anaconda.org/conda-forge/stk/badges/downloads.svg)](https://anaconda.org/conda-forge/stk) |
+| [atomlite](https://anaconda.org/conda-forge/atomlite) | [![conda](https://anaconda.org/conda-forge/atomlite/badges/downloads.svg)](https://anaconda.org/conda-forge/atomlite) |
+| [vabene](https://anaconda.org/conda-forge/vabene) | [![conda](https://anaconda.org/conda-forge/vabene/badges/downloads.svg)](https://anaconda.org/conda-forge/vabene) |
+| [spindry](https://anaconda.org/conda-forge/spindry) | [![conda](https://anaconda.org/conda-forge/spindry/badges/downloads.svg)](https://anaconda.org/conda-forge/spindry) |
+| [mchammer](https://anaconda.org/conda-forge/mchammer) | [![conda](https://anaconda.org/conda-forge/mchammer/badges/downloads.svg)](https://anaconda.org/conda-forge/mchammer) |
