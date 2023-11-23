@@ -667,3 +667,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [vabene](https://anaconda.org/conda-forge/vabene) | [![conda](https://anaconda.org/conda-forge/vabene/badges/downloads.svg)](https://anaconda.org/conda-forge/vabene) |
 | [spindry](https://anaconda.org/conda-forge/spindry) | [![conda](https://anaconda.org/conda-forge/spindry/badges/downloads.svg)](https://anaconda.org/conda-forge/spindry) |
 | [mchammer](https://anaconda.org/conda-forge/mchammer) | [![conda](https://anaconda.org/conda-forge/mchammer/badges/downloads.svg)](https://anaconda.org/conda-forge/mchammer) |
+| [fenics-fiat](https://anaconda.org/conda-forge/fenics-fiat) | [![conda](https://anaconda.org/conda-forge/fenics-fiat/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics-fiat) |
+| [fenics-dijitso](https://anaconda.org/conda-forge/fenics-dijitso) | [![conda](https://anaconda.org/conda-forge/fenics-dijitso/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics-dijitso) |
+| [fenics-ufl-legacy](https://anaconda.org/conda-forge/fenics-ufl-legacy) | [![conda](https://anaconda.org/conda-forge/fenics-ufl-legacy/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics-ufl-legacy) |
+| [fenics-ffc](https://anaconda.org/conda-forge/fenics-ffc) | [![conda](https://anaconda.org/conda-forge/fenics-ffc/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics-ffc) |
