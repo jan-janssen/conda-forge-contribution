@@ -664,3 +664,4 @@
 | [chgnet](https://anaconda.org/conda-forge/chgnet) | [![conda](https://anaconda.org/conda-forge/chgnet/badges/downloads.svg)](https://anaconda.org/conda-forge/chgnet) |
 | [parallel-numpy-rng](https://anaconda.org/conda-forge/parallel-numpy-rng) | [![conda](https://anaconda.org/conda-forge/parallel-numpy-rng/badges/downloads.svg)](https://anaconda.org/conda-forge/parallel-numpy-rng) |
 | [wannier90io](https://anaconda.org/conda-forge/wannier90io) | [![conda](https://anaconda.org/conda-forge/wannier90io/badges/downloads.svg)](https://anaconda.org/conda-forge/wannier90io) |
+| [matgl](https://anaconda.org/conda-forge/matgl) | [![conda](https://anaconda.org/conda-forge/matgl/badges/downloads.svg)](https://anaconda.org/conda-forge/matgl) |
