@@ -667,3 +667,5 @@
 | [wannier90io](https://anaconda.org/conda-forge/wannier90io) | [![conda](https://anaconda.org/conda-forge/wannier90io/badges/downloads.svg)](https://anaconda.org/conda-forge/wannier90io) |
 | [matgl](https://anaconda.org/conda-forge/matgl) | [![conda](https://anaconda.org/conda-forge/matgl/badges/downloads.svg)](https://anaconda.org/conda-forge/matgl) |
 | [h5io_browser](https://anaconda.org/conda-forge/h5io_browser) | [![conda](https://anaconda.org/conda-forge/h5io_browser/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io_browser) |
+| [ssh-utilities](https://anaconda.org/conda-forge/ssh-utilities) | [![conda](https://anaconda.org/conda-forge/ssh-utilities/badges/downloads.svg)](https://anaconda.org/conda-forge/ssh-utilities) |
+| [conda_subprocess](https://anaconda.org/conda-forge/conda_subprocess) | [![conda](https://anaconda.org/conda-forge/conda_subprocess/badges/downloads.svg)](https://anaconda.org/conda-forge/conda_subprocess) |
