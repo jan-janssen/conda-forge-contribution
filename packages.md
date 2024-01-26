@@ -669,3 +669,5 @@
 | [h5io_browser](https://anaconda.org/conda-forge/h5io_browser) | [![conda](https://anaconda.org/conda-forge/h5io_browser/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io_browser) |
 | [ssh-utilities](https://anaconda.org/conda-forge/ssh-utilities) | [![conda](https://anaconda.org/conda-forge/ssh-utilities/badges/downloads.svg)](https://anaconda.org/conda-forge/ssh-utilities) |
 | [conda_subprocess](https://anaconda.org/conda-forge/conda_subprocess) | [![conda](https://anaconda.org/conda-forge/conda_subprocess/badges/downloads.svg)](https://anaconda.org/conda-forge/conda_subprocess) |
+| [vp4jl](https://anaconda.org/conda-forge/vp4jl) | [![conda](https://anaconda.org/conda-forge/vp4jl/badges/downloads.svg)](https://anaconda.org/conda-forge/vp4jl) |
+| [pygmtools](https://anaconda.org/conda-forge/pygmtools) | [![conda](https://anaconda.org/conda-forge/pygmtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmtools) |
