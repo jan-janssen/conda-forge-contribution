@@ -107,6 +107,7 @@
 | [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
 | [python-flint](https://anaconda.org/conda-forge/python-flint) | [![conda](https://anaconda.org/conda-forge/python-flint/badges/downloads.svg)](https://anaconda.org/conda-forge/python-flint) |
 | [bcrypt](https://anaconda.org/conda-forge/bcrypt) | [![conda](https://anaconda.org/conda-forge/bcrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/bcrypt) |
+| [hickle](https://anaconda.org/conda-forge/hickle) | [![conda](https://anaconda.org/conda-forge/hickle/badges/downloads.svg)](https://anaconda.org/conda-forge/hickle) |
 | [typeguard](https://anaconda.org/conda-forge/typeguard) | [![conda](https://anaconda.org/conda-forge/typeguard/badges/downloads.svg)](https://anaconda.org/conda-forge/typeguard) |
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
 | [codacy-coverage](https://anaconda.org/conda-forge/codacy-coverage) | [![conda](https://anaconda.org/conda-forge/codacy-coverage/badges/downloads.svg)](https://anaconda.org/conda-forge/codacy-coverage) |
@@ -673,3 +674,5 @@
 | [pygmtools](https://anaconda.org/conda-forge/pygmtools) | [![conda](https://anaconda.org/conda-forge/pygmtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmtools) |
 | [meamfit](https://anaconda.org/conda-forge/meamfit) | [![conda](https://anaconda.org/conda-forge/meamfit/badges/downloads.svg)](https://anaconda.org/conda-forge/meamfit) |
 | [phidata](https://anaconda.org/conda-forge/phidata) | [![conda](https://anaconda.org/conda-forge/phidata/badges/downloads.svg)](https://anaconda.org/conda-forge/phidata) |
+| [uravu](https://anaconda.org/conda-forge/uravu) | [![conda](https://anaconda.org/conda-forge/uravu/badges/downloads.svg)](https://anaconda.org/conda-forge/uravu) |
+| [kinisi](https://anaconda.org/conda-forge/kinisi) | [![conda](https://anaconda.org/conda-forge/kinisi/badges/downloads.svg)](https://anaconda.org/conda-forge/kinisi) |
