@@ -676,3 +676,4 @@
 | [phidata](https://anaconda.org/conda-forge/phidata) | [![conda](https://anaconda.org/conda-forge/phidata/badges/downloads.svg)](https://anaconda.org/conda-forge/phidata) |
 | [uravu](https://anaconda.org/conda-forge/uravu) | [![conda](https://anaconda.org/conda-forge/uravu/badges/downloads.svg)](https://anaconda.org/conda-forge/uravu) |
 | [kinisi](https://anaconda.org/conda-forge/kinisi) | [![conda](https://anaconda.org/conda-forge/kinisi/badges/downloads.svg)](https://anaconda.org/conda-forge/kinisi) |
+| [runnerase](https://anaconda.org/conda-forge/runnerase) | [![conda](https://anaconda.org/conda-forge/runnerase/badges/downloads.svg)](https://anaconda.org/conda-forge/runnerase) |
