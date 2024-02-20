@@ -696,3 +696,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [uravu](https://anaconda.org/conda-forge/uravu) | [![conda](https://anaconda.org/conda-forge/uravu/badges/downloads.svg)](https://anaconda.org/conda-forge/uravu) |
 | [kinisi](https://anaconda.org/conda-forge/kinisi) | [![conda](https://anaconda.org/conda-forge/kinisi/badges/downloads.svg)](https://anaconda.org/conda-forge/kinisi) |
 | [runnerase](https://anaconda.org/conda-forge/runnerase) | [![conda](https://anaconda.org/conda-forge/runnerase/badges/downloads.svg)](https://anaconda.org/conda-forge/runnerase) |
+| [uf3](https://anaconda.org/conda-forge/uf3) | [![conda](https://anaconda.org/conda-forge/uf3/badges/downloads.svg)](https://anaconda.org/conda-forge/uf3) |
