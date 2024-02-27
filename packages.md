@@ -103,6 +103,7 @@
 | [python-crontab](https://anaconda.org/conda-forge/python-crontab) | [![conda](https://anaconda.org/conda-forge/python-crontab/badges/downloads.svg)](https://anaconda.org/conda-forge/python-crontab) |
 | [zbar](https://anaconda.org/conda-forge/zbar) | [![conda](https://anaconda.org/conda-forge/zbar/badges/downloads.svg)](https://anaconda.org/conda-forge/zbar) |
 | [simpletraj](https://anaconda.org/conda-forge/simpletraj) | [![conda](https://anaconda.org/conda-forge/simpletraj/badges/downloads.svg)](https://anaconda.org/conda-forge/simpletraj) |
+| [jwcrypto](https://anaconda.org/conda-forge/jwcrypto) | [![conda](https://anaconda.org/conda-forge/jwcrypto/badges/downloads.svg)](https://anaconda.org/conda-forge/jwcrypto) |
 | [atomsk](https://anaconda.org/conda-forge/atomsk) | [![conda](https://anaconda.org/conda-forge/atomsk/badges/downloads.svg)](https://anaconda.org/conda-forge/atomsk) |
 | [astral](https://anaconda.org/conda-forge/astral) | [![conda](https://anaconda.org/conda-forge/astral/badges/downloads.svg)](https://anaconda.org/conda-forge/astral) |
 | [python-flint](https://anaconda.org/conda-forge/python-flint) | [![conda](https://anaconda.org/conda-forge/python-flint/badges/downloads.svg)](https://anaconda.org/conda-forge/python-flint) |
@@ -114,6 +115,7 @@
 | [openbabel](https://anaconda.org/conda-forge/openbabel) | [![conda](https://anaconda.org/conda-forge/openbabel/badges/downloads.svg)](https://anaconda.org/conda-forge/openbabel) |
 | [pyotp](https://anaconda.org/conda-forge/pyotp) | [![conda](https://anaconda.org/conda-forge/pyotp/badges/downloads.svg)](https://anaconda.org/conda-forge/pyotp) |
 | [libxc](https://anaconda.org/conda-forge/libxc) | [![conda](https://anaconda.org/conda-forge/libxc/badges/downloads.svg)](https://anaconda.org/conda-forge/libxc) |
+| [exrex](https://anaconda.org/conda-forge/exrex) | [![conda](https://anaconda.org/conda-forge/exrex/badges/downloads.svg)](https://anaconda.org/conda-forge/exrex) |
 | [dtool_s3](https://anaconda.org/conda-forge/dtool_s3) | [![conda](https://anaconda.org/conda-forge/dtool_s3/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_s3) |
 | [dtool_http](https://anaconda.org/conda-forge/dtool_http) | [![conda](https://anaconda.org/conda-forge/dtool_http/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_http) |
 | [dtool_cli](https://anaconda.org/conda-forge/dtool_cli) | [![conda](https://anaconda.org/conda-forge/dtool_cli/badges/downloads.svg)](https://anaconda.org/conda-forge/dtool_cli) |
@@ -678,3 +680,5 @@
 | [kinisi](https://anaconda.org/conda-forge/kinisi) | [![conda](https://anaconda.org/conda-forge/kinisi/badges/downloads.svg)](https://anaconda.org/conda-forge/kinisi) |
 | [runnerase](https://anaconda.org/conda-forge/runnerase) | [![conda](https://anaconda.org/conda-forge/runnerase/badges/downloads.svg)](https://anaconda.org/conda-forge/runnerase) |
 | [uf3](https://anaconda.org/conda-forge/uf3) | [![conda](https://anaconda.org/conda-forge/uf3/badges/downloads.svg)](https://anaconda.org/conda-forge/uf3) |
+| [kg4vasp](https://anaconda.org/conda-forge/kg4vasp) | [![conda](https://anaconda.org/conda-forge/kg4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/kg4vasp) |
+| [sherlock-lib](https://anaconda.org/conda-forge/sherlock-lib) | [![conda](https://anaconda.org/conda-forge/sherlock-lib/badges/downloads.svg)](https://anaconda.org/conda-forge/sherlock-lib) |
