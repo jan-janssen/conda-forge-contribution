@@ -701,3 +701,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [uf3](https://anaconda.org/conda-forge/uf3) | [![conda](https://anaconda.org/conda-forge/uf3/badges/downloads.svg)](https://anaconda.org/conda-forge/uf3) |
 | [kg4vasp](https://anaconda.org/conda-forge/kg4vasp) | [![conda](https://anaconda.org/conda-forge/kg4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/kg4vasp) |
 | [sherlock-lib](https://anaconda.org/conda-forge/sherlock-lib) | [![conda](https://anaconda.org/conda-forge/sherlock-lib/badges/downloads.svg)](https://anaconda.org/conda-forge/sherlock-lib) |
+| [pytorch-minimize](https://anaconda.org/conda-forge/pytorch-minimize) | [![conda](https://anaconda.org/conda-forge/pytorch-minimize/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch-minimize) |
+| [joserfc](https://anaconda.org/conda-forge/joserfc) | [![conda](https://anaconda.org/conda-forge/joserfc/badges/downloads.svg)](https://anaconda.org/conda-forge/joserfc) |
