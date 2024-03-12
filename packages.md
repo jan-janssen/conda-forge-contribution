@@ -110,6 +110,7 @@
 | [bcrypt](https://anaconda.org/conda-forge/bcrypt) | [![conda](https://anaconda.org/conda-forge/bcrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/bcrypt) |
 | [hickle](https://anaconda.org/conda-forge/hickle) | [![conda](https://anaconda.org/conda-forge/hickle/badges/downloads.svg)](https://anaconda.org/conda-forge/hickle) |
 | [typeguard](https://anaconda.org/conda-forge/typeguard) | [![conda](https://anaconda.org/conda-forge/typeguard/badges/downloads.svg)](https://anaconda.org/conda-forge/typeguard) |
+| [colored](https://anaconda.org/conda-forge/colored) | [![conda](https://anaconda.org/conda-forge/colored/badges/downloads.svg)](https://anaconda.org/conda-forge/colored) |
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
 | [codacy-coverage](https://anaconda.org/conda-forge/codacy-coverage) | [![conda](https://anaconda.org/conda-forge/codacy-coverage/badges/downloads.svg)](https://anaconda.org/conda-forge/codacy-coverage) |
 | [openbabel](https://anaconda.org/conda-forge/openbabel) | [![conda](https://anaconda.org/conda-forge/openbabel/badges/downloads.svg)](https://anaconda.org/conda-forge/openbabel) |
@@ -193,6 +194,7 @@
 | [recordtype](https://anaconda.org/conda-forge/recordtype) | [![conda](https://anaconda.org/conda-forge/recordtype/badges/downloads.svg)](https://anaconda.org/conda-forge/recordtype) |
 | [conda-merge](https://anaconda.org/conda-forge/conda-merge) | [![conda](https://anaconda.org/conda-forge/conda-merge/badges/downloads.svg)](https://anaconda.org/conda-forge/conda-merge) |
 | [kliff](https://anaconda.org/conda-forge/kliff) | [![conda](https://anaconda.org/conda-forge/kliff/badges/downloads.svg)](https://anaconda.org/conda-forge/kliff) |
+| [environs](https://anaconda.org/conda-forge/environs) | [![conda](https://anaconda.org/conda-forge/environs/badges/downloads.svg)](https://anaconda.org/conda-forge/environs) |
 | [parsplice](https://anaconda.org/conda-forge/parsplice) | [![conda](https://anaconda.org/conda-forge/parsplice/badges/downloads.svg)](https://anaconda.org/conda-forge/parsplice) |
 | [damask](https://anaconda.org/conda-forge/damask) | [![conda](https://anaconda.org/conda-forge/damask/badges/downloads.svg)](https://anaconda.org/conda-forge/damask) |
 | [phono3py](https://anaconda.org/conda-forge/phono3py) | [![conda](https://anaconda.org/conda-forge/phono3py/badges/downloads.svg)](https://anaconda.org/conda-forge/phono3py) |
@@ -684,3 +686,5 @@
 | [sherlock-lib](https://anaconda.org/conda-forge/sherlock-lib) | [![conda](https://anaconda.org/conda-forge/sherlock-lib/badges/downloads.svg)](https://anaconda.org/conda-forge/sherlock-lib) |
 | [pytorch-minimize](https://anaconda.org/conda-forge/pytorch-minimize) | [![conda](https://anaconda.org/conda-forge/pytorch-minimize/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch-minimize) |
 | [joserfc](https://anaconda.org/conda-forge/joserfc) | [![conda](https://anaconda.org/conda-forge/joserfc/badges/downloads.svg)](https://anaconda.org/conda-forge/joserfc) |
+| [pydpc](https://anaconda.org/conda-forge/pydpc) | [![conda](https://anaconda.org/conda-forge/pydpc/badges/downloads.svg)](https://anaconda.org/conda-forge/pydpc) |
+| [pysisso](https://anaconda.org/conda-forge/pysisso) | [![conda](https://anaconda.org/conda-forge/pysisso/badges/downloads.svg)](https://anaconda.org/conda-forge/pysisso) |
