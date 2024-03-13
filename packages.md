@@ -688,3 +688,8 @@
 | [joserfc](https://anaconda.org/conda-forge/joserfc) | [![conda](https://anaconda.org/conda-forge/joserfc/badges/downloads.svg)](https://anaconda.org/conda-forge/joserfc) |
 | [pydpc](https://anaconda.org/conda-forge/pydpc) | [![conda](https://anaconda.org/conda-forge/pydpc/badges/downloads.svg)](https://anaconda.org/conda-forge/pydpc) |
 | [pysisso](https://anaconda.org/conda-forge/pysisso) | [![conda](https://anaconda.org/conda-forge/pysisso/badges/downloads.svg)](https://anaconda.org/conda-forge/pysisso) |
+| [son](https://anaconda.org/conda-forge/son) | [![conda](https://anaconda.org/conda-forge/son/badges/downloads.svg)](https://anaconda.org/conda-forge/son) |
+| [lz](https://anaconda.org/conda-forge/lz) | [![conda](https://anaconda.org/conda-forge/lz/badges/downloads.svg)](https://anaconda.org/conda-forge/lz) |
+| [paradigm](https://anaconda.org/conda-forge/paradigm) | [![conda](https://anaconda.org/conda-forge/paradigm/badges/downloads.svg)](https://anaconda.org/conda-forge/paradigm) |
+| [pysmartdl2](https://anaconda.org/conda-forge/pysmartdl2) | [![conda](https://anaconda.org/conda-forge/pysmartdl2/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl2) |
+| [memoir](https://anaconda.org/conda-forge/memoir) | [![conda](https://anaconda.org/conda-forge/memoir/badges/downloads.svg)](https://anaconda.org/conda-forge/memoir) |
