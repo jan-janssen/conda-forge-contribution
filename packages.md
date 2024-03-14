@@ -693,3 +693,4 @@
 | [paradigm](https://anaconda.org/conda-forge/paradigm) | [![conda](https://anaconda.org/conda-forge/paradigm/badges/downloads.svg)](https://anaconda.org/conda-forge/paradigm) |
 | [pysmartdl2](https://anaconda.org/conda-forge/pysmartdl2) | [![conda](https://anaconda.org/conda-forge/pysmartdl2/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl2) |
 | [memoir](https://anaconda.org/conda-forge/memoir) | [![conda](https://anaconda.org/conda-forge/memoir/badges/downloads.svg)](https://anaconda.org/conda-forge/memoir) |
+| [jarvis-leaderboard](https://anaconda.org/conda-forge/jarvis-leaderboard) | [![conda](https://anaconda.org/conda-forge/jarvis-leaderboard/badges/downloads.svg)](https://anaconda.org/conda-forge/jarvis-leaderboard) |
