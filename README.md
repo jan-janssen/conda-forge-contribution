@@ -713,3 +713,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pysmartdl2](https://anaconda.org/conda-forge/pysmartdl2) | [![conda](https://anaconda.org/conda-forge/pysmartdl2/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl2) |
 | [memoir](https://anaconda.org/conda-forge/memoir) | [![conda](https://anaconda.org/conda-forge/memoir/badges/downloads.svg)](https://anaconda.org/conda-forge/memoir) |
 | [jarvis-leaderboard](https://anaconda.org/conda-forge/jarvis-leaderboard) | [![conda](https://anaconda.org/conda-forge/jarvis-leaderboard/badges/downloads.svg)](https://anaconda.org/conda-forge/jarvis-leaderboard) |
+| [python-sscha](https://anaconda.org/conda-forge/python-sscha) | [![conda](https://anaconda.org/conda-forge/python-sscha/badges/downloads.svg)](https://anaconda.org/conda-forge/python-sscha) |
+| [cellconstructor](https://anaconda.org/conda-forge/cellconstructor) | [![conda](https://anaconda.org/conda-forge/cellconstructor/badges/downloads.svg)](https://anaconda.org/conda-forge/cellconstructor) |
