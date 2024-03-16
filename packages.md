@@ -696,3 +696,10 @@
 | [jarvis-leaderboard](https://anaconda.org/conda-forge/jarvis-leaderboard) | [![conda](https://anaconda.org/conda-forge/jarvis-leaderboard/badges/downloads.svg)](https://anaconda.org/conda-forge/jarvis-leaderboard) |
 | [python-sscha](https://anaconda.org/conda-forge/python-sscha) | [![conda](https://anaconda.org/conda-forge/python-sscha/badges/downloads.svg)](https://anaconda.org/conda-forge/python-sscha) |
 | [cellconstructor](https://anaconda.org/conda-forge/cellconstructor) | [![conda](https://anaconda.org/conda-forge/cellconstructor/badges/downloads.svg)](https://anaconda.org/conda-forge/cellconstructor) |
+| [tdscha](https://anaconda.org/conda-forge/tdscha) | [![conda](https://anaconda.org/conda-forge/tdscha/badges/downloads.svg)](https://anaconda.org/conda-forge/tdscha) |
+| [prisms-jobs](https://anaconda.org/conda-forge/prisms-jobs) | [![conda](https://anaconda.org/conda-forge/prisms-jobs/badges/downloads.svg)](https://anaconda.org/conda-forge/prisms-jobs) |
+| [pypar](https://anaconda.org/conda-forge/pypar) | [![conda](https://anaconda.org/conda-forge/pypar/badges/downloads.svg)](https://anaconda.org/conda-forge/pypar) |
+| [molecular-rectifier](https://anaconda.org/conda-forge/molecular-rectifier) | [![conda](https://anaconda.org/conda-forge/molecular-rectifier/badges/downloads.svg)](https://anaconda.org/conda-forge/molecular-rectifier) |
+| [smallworld-api](https://anaconda.org/conda-forge/smallworld-api) | [![conda](https://anaconda.org/conda-forge/smallworld-api/badges/downloads.svg)](https://anaconda.org/conda-forge/smallworld-api) |
+| [fragmenstein](https://anaconda.org/conda-forge/fragmenstein) | [![conda](https://anaconda.org/conda-forge/fragmenstein/badges/downloads.svg)](https://anaconda.org/conda-forge/fragmenstein) |
+| [rdkit-to-params](https://anaconda.org/conda-forge/rdkit-to-params) | [![conda](https://anaconda.org/conda-forge/rdkit-to-params/badges/downloads.svg)](https://anaconda.org/conda-forge/rdkit-to-params) |
