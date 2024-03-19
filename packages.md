@@ -703,3 +703,4 @@
 | [smallworld-api](https://anaconda.org/conda-forge/smallworld-api) | [![conda](https://anaconda.org/conda-forge/smallworld-api/badges/downloads.svg)](https://anaconda.org/conda-forge/smallworld-api) |
 | [fragmenstein](https://anaconda.org/conda-forge/fragmenstein) | [![conda](https://anaconda.org/conda-forge/fragmenstein/badges/downloads.svg)](https://anaconda.org/conda-forge/fragmenstein) |
 | [rdkit-to-params](https://anaconda.org/conda-forge/rdkit-to-params) | [![conda](https://anaconda.org/conda-forge/rdkit-to-params/badges/downloads.svg)](https://anaconda.org/conda-forge/rdkit-to-params) |
+| [xarg-python](https://anaconda.org/conda-forge/xarg-python) | [![conda](https://anaconda.org/conda-forge/xarg-python/badges/downloads.svg)](https://anaconda.org/conda-forge/xarg-python) |
