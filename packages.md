@@ -704,3 +704,7 @@
 | [fragmenstein](https://anaconda.org/conda-forge/fragmenstein) | [![conda](https://anaconda.org/conda-forge/fragmenstein/badges/downloads.svg)](https://anaconda.org/conda-forge/fragmenstein) |
 | [rdkit-to-params](https://anaconda.org/conda-forge/rdkit-to-params) | [![conda](https://anaconda.org/conda-forge/rdkit-to-params/badges/downloads.svg)](https://anaconda.org/conda-forge/rdkit-to-params) |
 | [xarg-python](https://anaconda.org/conda-forge/xarg-python) | [![conda](https://anaconda.org/conda-forge/xarg-python/badges/downloads.svg)](https://anaconda.org/conda-forge/xarg-python) |
+| [posebusters](https://anaconda.org/conda-forge/posebusters) | [![conda](https://anaconda.org/conda-forge/posebusters/badges/downloads.svg)](https://anaconda.org/conda-forge/posebusters) |
+| [rxnmapper](https://anaconda.org/conda-forge/rxnmapper) | [![conda](https://anaconda.org/conda-forge/rxnmapper/badges/downloads.svg)](https://anaconda.org/conda-forge/rxnmapper) |
+| [rxn-utils](https://anaconda.org/conda-forge/rxn-utils) | [![conda](https://anaconda.org/conda-forge/rxn-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/rxn-utils) |
+| [rxn-chem-utils](https://anaconda.org/conda-forge/rxn-chem-utils) | [![conda](https://anaconda.org/conda-forge/rxn-chem-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/rxn-chem-utils) |
