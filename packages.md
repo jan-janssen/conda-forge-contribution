@@ -708,3 +708,11 @@
 | [rxnmapper](https://anaconda.org/conda-forge/rxnmapper) | [![conda](https://anaconda.org/conda-forge/rxnmapper/badges/downloads.svg)](https://anaconda.org/conda-forge/rxnmapper) |
 | [rxn-utils](https://anaconda.org/conda-forge/rxn-utils) | [![conda](https://anaconda.org/conda-forge/rxn-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/rxn-utils) |
 | [rxn-chem-utils](https://anaconda.org/conda-forge/rxn-chem-utils) | [![conda](https://anaconda.org/conda-forge/rxn-chem-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/rxn-chem-utils) |
+| [llmlingua](https://anaconda.org/conda-forge/llmlingua) | [![conda](https://anaconda.org/conda-forge/llmlingua/badges/downloads.svg)](https://anaconda.org/conda-forge/llmlingua) |
+| [unstructured-client](https://anaconda.org/conda-forge/unstructured-client) | [![conda](https://anaconda.org/conda-forge/unstructured-client/badges/downloads.svg)](https://anaconda.org/conda-forge/unstructured-client) |
+| [litellm](https://anaconda.org/conda-forge/litellm) | [![conda](https://anaconda.org/conda-forge/litellm/badges/downloads.svg)](https://anaconda.org/conda-forge/litellm) |
+| [html2image](https://anaconda.org/conda-forge/html2image) | [![conda](https://anaconda.org/conda-forge/html2image/badges/downloads.svg)](https://anaconda.org/conda-forge/html2image) |
+| [unstructured](https://anaconda.org/conda-forge/unstructured) | [![conda](https://anaconda.org/conda-forge/unstructured/badges/downloads.svg)](https://anaconda.org/conda-forge/unstructured) |
+| [python-iso639](https://anaconda.org/conda-forge/python-iso639) | [![conda](https://anaconda.org/conda-forge/python-iso639/badges/downloads.svg)](https://anaconda.org/conda-forge/python-iso639) |
+| [tokentrim](https://anaconda.org/conda-forge/tokentrim) | [![conda](https://anaconda.org/conda-forge/tokentrim/badges/downloads.svg)](https://anaconda.org/conda-forge/tokentrim) |
+| [jsonpath-python](https://anaconda.org/conda-forge/jsonpath-python) | [![conda](https://anaconda.org/conda-forge/jsonpath-python/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-python) |
