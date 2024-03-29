@@ -716,3 +716,5 @@
 | [python-iso639](https://anaconda.org/conda-forge/python-iso639) | [![conda](https://anaconda.org/conda-forge/python-iso639/badges/downloads.svg)](https://anaconda.org/conda-forge/python-iso639) |
 | [tokentrim](https://anaconda.org/conda-forge/tokentrim) | [![conda](https://anaconda.org/conda-forge/tokentrim/badges/downloads.svg)](https://anaconda.org/conda-forge/tokentrim) |
 | [jsonpath-python](https://anaconda.org/conda-forge/jsonpath-python) | [![conda](https://anaconda.org/conda-forge/jsonpath-python/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-python) |
+| [amp-atomistics](https://anaconda.org/conda-forge/amp-atomistics) | [![conda](https://anaconda.org/conda-forge/amp-atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/amp-atomistics) |
+| [kfac-jax](https://anaconda.org/conda-forge/kfac-jax) | [![conda](https://anaconda.org/conda-forge/kfac-jax/badges/downloads.svg)](https://anaconda.org/conda-forge/kfac-jax) |
