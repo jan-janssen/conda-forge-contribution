@@ -212,6 +212,7 @@
 | [qe](https://anaconda.org/conda-forge/qe) | [![conda](https://anaconda.org/conda-forge/qe/badges/downloads.svg)](https://anaconda.org/conda-forge/qe) |
 | [pwtools](https://anaconda.org/conda-forge/pwtools) | [![conda](https://anaconda.org/conda-forge/pwtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pwtools) |
 | [click-shell](https://anaconda.org/conda-forge/click-shell) | [![conda](https://anaconda.org/conda-forge/click-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/click-shell) |
+| [mupdf](https://anaconda.org/conda-forge/mupdf) | [![conda](https://anaconda.org/conda-forge/mupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/mupdf) |
 | [temmeta](https://anaconda.org/conda-forge/temmeta) | [![conda](https://anaconda.org/conda-forge/temmeta/badges/downloads.svg)](https://anaconda.org/conda-forge/temmeta) |
 | [abipy](https://anaconda.org/conda-forge/abipy) | [![conda](https://anaconda.org/conda-forge/abipy/badges/downloads.svg)](https://anaconda.org/conda-forge/abipy) |
 | [periodic-table-plotter](https://anaconda.org/conda-forge/periodic-table-plotter) | [![conda](https://anaconda.org/conda-forge/periodic-table-plotter/badges/downloads.svg)](https://anaconda.org/conda-forge/periodic-table-plotter) |
@@ -718,3 +719,6 @@
 | [jsonpath-python](https://anaconda.org/conda-forge/jsonpath-python) | [![conda](https://anaconda.org/conda-forge/jsonpath-python/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-python) |
 | [amp-atomistics](https://anaconda.org/conda-forge/amp-atomistics) | [![conda](https://anaconda.org/conda-forge/amp-atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/amp-atomistics) |
 | [kfac-jax](https://anaconda.org/conda-forge/kfac-jax) | [![conda](https://anaconda.org/conda-forge/kfac-jax/badges/downloads.svg)](https://anaconda.org/conda-forge/kfac-jax) |
+| [pymupdf](https://anaconda.org/conda-forge/pymupdf) | [![conda](https://anaconda.org/conda-forge/pymupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf) |
+| [striprtf](https://anaconda.org/conda-forge/striprtf) | [![conda](https://anaconda.org/conda-forge/striprtf/badges/downloads.svg)](https://anaconda.org/conda-forge/striprtf) |
+| [pymupdf-fonts](https://anaconda.org/conda-forge/pymupdf-fonts) | [![conda](https://anaconda.org/conda-forge/pymupdf-fonts/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf-fonts) |
