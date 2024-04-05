@@ -722,3 +722,6 @@
 | [pymupdf](https://anaconda.org/conda-forge/pymupdf) | [![conda](https://anaconda.org/conda-forge/pymupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf) |
 | [striprtf](https://anaconda.org/conda-forge/striprtf) | [![conda](https://anaconda.org/conda-forge/striprtf/badges/downloads.svg)](https://anaconda.org/conda-forge/striprtf) |
 | [pymupdf-fonts](https://anaconda.org/conda-forge/pymupdf-fonts) | [![conda](https://anaconda.org/conda-forge/pymupdf-fonts/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf-fonts) |
+| [mujs](https://anaconda.org/conda-forge/mujs) | [![conda](https://anaconda.org/conda-forge/mujs/badges/downloads.svg)](https://anaconda.org/conda-forge/mujs) |
+| [jsonpath-rw](https://anaconda.org/conda-forge/jsonpath-rw) | [![conda](https://anaconda.org/conda-forge/jsonpath-rw/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-rw) |
+| [mlcroissant](https://anaconda.org/conda-forge/mlcroissant) | [![conda](https://anaconda.org/conda-forge/mlcroissant/badges/downloads.svg)](https://anaconda.org/conda-forge/mlcroissant) |
