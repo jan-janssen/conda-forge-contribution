@@ -725,3 +725,4 @@
 | [mujs](https://anaconda.org/conda-forge/mujs) | [![conda](https://anaconda.org/conda-forge/mujs/badges/downloads.svg)](https://anaconda.org/conda-forge/mujs) |
 | [jsonpath-rw](https://anaconda.org/conda-forge/jsonpath-rw) | [![conda](https://anaconda.org/conda-forge/jsonpath-rw/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-rw) |
 | [mlcroissant](https://anaconda.org/conda-forge/mlcroissant) | [![conda](https://anaconda.org/conda-forge/mlcroissant/badges/downloads.svg)](https://anaconda.org/conda-forge/mlcroissant) |
+| [e3x](https://anaconda.org/conda-forge/e3x) | [![conda](https://anaconda.org/conda-forge/e3x/badges/downloads.svg)](https://anaconda.org/conda-forge/e3x) |
