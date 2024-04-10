@@ -729,3 +729,6 @@
 | [llmtuner](https://anaconda.org/conda-forge/llmtuner) | [![conda](https://anaconda.org/conda-forge/llmtuner/badges/downloads.svg)](https://anaconda.org/conda-forge/llmtuner) |
 | [trl](https://anaconda.org/conda-forge/trl) | [![conda](https://anaconda.org/conda-forge/trl/badges/downloads.svg)](https://anaconda.org/conda-forge/trl) |
 | [galore-torch](https://anaconda.org/conda-forge/galore-torch) | [![conda](https://anaconda.org/conda-forge/galore-torch/badges/downloads.svg)](https://anaconda.org/conda-forge/galore-torch) |
+| [qlient](https://anaconda.org/conda-forge/qlient) | [![conda](https://anaconda.org/conda-forge/qlient/badges/downloads.svg)](https://anaconda.org/conda-forge/qlient) |
+| [qlient-core](https://anaconda.org/conda-forge/qlient-core) | [![conda](https://anaconda.org/conda-forge/qlient-core/badges/downloads.svg)](https://anaconda.org/conda-forge/qlient-core) |
+| [torch-nl](https://anaconda.org/conda-forge/torch-nl) | [![conda](https://anaconda.org/conda-forge/torch-nl/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-nl) |
