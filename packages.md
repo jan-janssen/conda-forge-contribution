@@ -628,6 +628,7 @@
 | [pyprctl](https://anaconda.org/conda-forge/pyprctl) | [![conda](https://anaconda.org/conda-forge/pyprctl/badges/downloads.svg)](https://anaconda.org/conda-forge/pyprctl) |
 | [irreptables](https://anaconda.org/conda-forge/irreptables) | [![conda](https://anaconda.org/conda-forge/irreptables/badges/downloads.svg)](https://anaconda.org/conda-forge/irreptables) |
 | [irrep](https://anaconda.org/conda-forge/irrep) | [![conda](https://anaconda.org/conda-forge/irrep/badges/downloads.svg)](https://anaconda.org/conda-forge/irrep) |
+| [llama-index](https://anaconda.org/conda-forge/llama-index) | [![conda](https://anaconda.org/conda-forge/llama-index/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index) |
 | [python-ace](https://anaconda.org/conda-forge/python-ace) | [![conda](https://anaconda.org/conda-forge/python-ace/badges/downloads.svg)](https://anaconda.org/conda-forge/python-ace) |
 | [psiflow](https://anaconda.org/conda-forge/psiflow) | [![conda](https://anaconda.org/conda-forge/psiflow/badges/downloads.svg)](https://anaconda.org/conda-forge/psiflow) |
 | [nanosculpt](https://anaconda.org/conda-forge/nanosculpt) | [![conda](https://anaconda.org/conda-forge/nanosculpt/badges/downloads.svg)](https://anaconda.org/conda-forge/nanosculpt) |
@@ -732,3 +733,10 @@
 | [qlient](https://anaconda.org/conda-forge/qlient) | [![conda](https://anaconda.org/conda-forge/qlient/badges/downloads.svg)](https://anaconda.org/conda-forge/qlient) |
 | [qlient-core](https://anaconda.org/conda-forge/qlient-core) | [![conda](https://anaconda.org/conda-forge/qlient-core/badges/downloads.svg)](https://anaconda.org/conda-forge/qlient-core) |
 | [torch-nl](https://anaconda.org/conda-forge/torch-nl) | [![conda](https://anaconda.org/conda-forge/torch-nl/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-nl) |
+| [llama-index-readers-file](https://anaconda.org/conda-forge/llama-index-readers-file) | [![conda](https://anaconda.org/conda-forge/llama-index-readers-file/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-readers-file) |
+| [llama-index-indices-managed-llama-cloud](https://anaconda.org/conda-forge/llama-index-indices-managed-llama-cloud) | [![conda](https://anaconda.org/conda-forge/llama-index-indices-managed-llama-cloud/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-indices-managed-llama-cloud) |
+| [llama-parse](https://anaconda.org/conda-forge/llama-parse) | [![conda](https://anaconda.org/conda-forge/llama-parse/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-parse) |
+| [llama-index-cli](https://anaconda.org/conda-forge/llama-index-cli) | [![conda](https://anaconda.org/conda-forge/llama-index-cli/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-cli) |
+| [llama-index-readers-llama-parse](https://anaconda.org/conda-forge/llama-index-readers-llama-parse) | [![conda](https://anaconda.org/conda-forge/llama-index-readers-llama-parse/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-readers-llama-parse) |
+| [asaplib](https://anaconda.org/conda-forge/asaplib) | [![conda](https://anaconda.org/conda-forge/asaplib/badges/downloads.svg)](https://anaconda.org/conda-forge/asaplib) |
+| [torchopt](https://anaconda.org/conda-forge/torchopt) | [![conda](https://anaconda.org/conda-forge/torchopt/badges/downloads.svg)](https://anaconda.org/conda-forge/torchopt) |
