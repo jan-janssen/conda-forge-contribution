@@ -759,3 +759,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [llama-index-readers-llama-parse](https://anaconda.org/conda-forge/llama-index-readers-llama-parse) | [![conda](https://anaconda.org/conda-forge/llama-index-readers-llama-parse/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-readers-llama-parse) |
 | [asaplib](https://anaconda.org/conda-forge/asaplib) | [![conda](https://anaconda.org/conda-forge/asaplib/badges/downloads.svg)](https://anaconda.org/conda-forge/asaplib) |
 | [torchopt](https://anaconda.org/conda-forge/torchopt) | [![conda](https://anaconda.org/conda-forge/torchopt/badges/downloads.svg)](https://anaconda.org/conda-forge/torchopt) |
+| [gauche](https://anaconda.org/conda-forge/gauche) | [![conda](https://anaconda.org/conda-forge/gauche/badges/downloads.svg)](https://anaconda.org/conda-forge/gauche) |
+| [dsms-sdk](https://anaconda.org/conda-forge/dsms-sdk) | [![conda](https://anaconda.org/conda-forge/dsms-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/dsms-sdk) |
+| [chemiscope](https://anaconda.org/conda-forge/chemiscope) | [![conda](https://anaconda.org/conda-forge/chemiscope/badges/downloads.svg)](https://anaconda.org/conda-forge/chemiscope) |
