@@ -233,6 +233,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [click-shell](https://anaconda.org/conda-forge/click-shell) | [![conda](https://anaconda.org/conda-forge/click-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/click-shell) |
 | [mupdf](https://anaconda.org/conda-forge/mupdf) | [![conda](https://anaconda.org/conda-forge/mupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/mupdf) |
 | [temmeta](https://anaconda.org/conda-forge/temmeta) | [![conda](https://anaconda.org/conda-forge/temmeta/badges/downloads.svg)](https://anaconda.org/conda-forge/temmeta) |
+| [pyshtools](https://anaconda.org/conda-forge/pyshtools) | [![conda](https://anaconda.org/conda-forge/pyshtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pyshtools) |
 | [abipy](https://anaconda.org/conda-forge/abipy) | [![conda](https://anaconda.org/conda-forge/abipy/badges/downloads.svg)](https://anaconda.org/conda-forge/abipy) |
 | [periodic-table-plotter](https://anaconda.org/conda-forge/periodic-table-plotter) | [![conda](https://anaconda.org/conda-forge/periodic-table-plotter/badges/downloads.svg)](https://anaconda.org/conda-forge/periodic-table-plotter) |
 | [atomicfile](https://anaconda.org/conda-forge/atomicfile) | [![conda](https://anaconda.org/conda-forge/atomicfile/badges/downloads.svg)](https://anaconda.org/conda-forge/atomicfile) |
@@ -762,3 +763,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [gauche](https://anaconda.org/conda-forge/gauche) | [![conda](https://anaconda.org/conda-forge/gauche/badges/downloads.svg)](https://anaconda.org/conda-forge/gauche) |
 | [dsms-sdk](https://anaconda.org/conda-forge/dsms-sdk) | [![conda](https://anaconda.org/conda-forge/dsms-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/dsms-sdk) |
 | [chemiscope](https://anaconda.org/conda-forge/chemiscope) | [![conda](https://anaconda.org/conda-forge/chemiscope/badges/downloads.svg)](https://anaconda.org/conda-forge/chemiscope) |
+| [vise](https://anaconda.org/conda-forge/vise) | [![conda](https://anaconda.org/conda-forge/vise/badges/downloads.svg)](https://anaconda.org/conda-forge/vise) |
+| [pydefect](https://anaconda.org/conda-forge/pydefect) | [![conda](https://anaconda.org/conda-forge/pydefect/badges/downloads.svg)](https://anaconda.org/conda-forge/pydefect) |
+| [moleculeace](https://anaconda.org/conda-forge/moleculeace) | [![conda](https://anaconda.org/conda-forge/moleculeace/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculeace) |
