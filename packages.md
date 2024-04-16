@@ -747,3 +747,4 @@
 | [vise](https://anaconda.org/conda-forge/vise) | [![conda](https://anaconda.org/conda-forge/vise/badges/downloads.svg)](https://anaconda.org/conda-forge/vise) |
 | [pydefect](https://anaconda.org/conda-forge/pydefect) | [![conda](https://anaconda.org/conda-forge/pydefect/badges/downloads.svg)](https://anaconda.org/conda-forge/pydefect) |
 | [moleculeace](https://anaconda.org/conda-forge/moleculeace) | [![conda](https://anaconda.org/conda-forge/moleculeace/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculeace) |
+| [pychromatic](https://anaconda.org/conda-forge/pychromatic) | [![conda](https://anaconda.org/conda-forge/pychromatic/badges/downloads.svg)](https://anaconda.org/conda-forge/pychromatic) |
