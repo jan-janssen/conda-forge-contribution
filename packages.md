@@ -748,3 +748,5 @@
 | [pydefect](https://anaconda.org/conda-forge/pydefect) | [![conda](https://anaconda.org/conda-forge/pydefect/badges/downloads.svg)](https://anaconda.org/conda-forge/pydefect) |
 | [moleculeace](https://anaconda.org/conda-forge/moleculeace) | [![conda](https://anaconda.org/conda-forge/moleculeace/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculeace) |
 | [pychromatic](https://anaconda.org/conda-forge/pychromatic) | [![conda](https://anaconda.org/conda-forge/pychromatic/badges/downloads.svg)](https://anaconda.org/conda-forge/pychromatic) |
+| [chowlk-unofficial-fork](https://anaconda.org/conda-forge/chowlk-unofficial-fork) | [![conda](https://anaconda.org/conda-forge/chowlk-unofficial-fork/badges/downloads.svg)](https://anaconda.org/conda-forge/chowlk-unofficial-fork) |
+| [data2rdf](https://anaconda.org/conda-forge/data2rdf) | [![conda](https://anaconda.org/conda-forge/data2rdf/badges/downloads.svg)](https://anaconda.org/conda-forge/data2rdf) |
