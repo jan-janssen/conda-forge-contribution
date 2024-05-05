@@ -232,6 +232,7 @@
 | [pychemia](https://anaconda.org/conda-forge/pychemia) | [![conda](https://anaconda.org/conda-forge/pychemia/badges/downloads.svg)](https://anaconda.org/conda-forge/pychemia) |
 | [match-series](https://anaconda.org/conda-forge/match-series) | [![conda](https://anaconda.org/conda-forge/match-series/badges/downloads.svg)](https://anaconda.org/conda-forge/match-series) |
 | [scanf](https://anaconda.org/conda-forge/scanf) | [![conda](https://anaconda.org/conda-forge/scanf/badges/downloads.svg)](https://anaconda.org/conda-forge/scanf) |
+| [pytorch_geometric](https://anaconda.org/conda-forge/pytorch_geometric) | [![conda](https://anaconda.org/conda-forge/pytorch_geometric/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch_geometric) |
 | [chemics](https://anaconda.org/conda-forge/chemics) | [![conda](https://anaconda.org/conda-forge/chemics/badges/downloads.svg)](https://anaconda.org/conda-forge/chemics) |
 | [pystem](https://anaconda.org/conda-forge/pystem) | [![conda](https://anaconda.org/conda-forge/pystem/badges/downloads.svg)](https://anaconda.org/conda-forge/pystem) |
 | [py4dstem](https://anaconda.org/conda-forge/py4dstem) | [![conda](https://anaconda.org/conda-forge/py4dstem/badges/downloads.svg)](https://anaconda.org/conda-forge/py4dstem) |
