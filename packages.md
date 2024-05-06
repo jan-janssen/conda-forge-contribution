@@ -752,3 +752,4 @@
 | [chowlk-unofficial-fork](https://anaconda.org/conda-forge/chowlk-unofficial-fork) | [![conda](https://anaconda.org/conda-forge/chowlk-unofficial-fork/badges/downloads.svg)](https://anaconda.org/conda-forge/chowlk-unofficial-fork) |
 | [data2rdf](https://anaconda.org/conda-forge/data2rdf) | [![conda](https://anaconda.org/conda-forge/data2rdf/badges/downloads.svg)](https://anaconda.org/conda-forge/data2rdf) |
 | [tt-sketch](https://anaconda.org/conda-forge/tt-sketch) | [![conda](https://anaconda.org/conda-forge/tt-sketch/badges/downloads.svg)](https://anaconda.org/conda-forge/tt-sketch) |
+| [executorlib-core](https://anaconda.org/conda-forge/executorlib-core) | [![conda](https://anaconda.org/conda-forge/executorlib-core/badges/downloads.svg)](https://anaconda.org/conda-forge/executorlib-core) |
