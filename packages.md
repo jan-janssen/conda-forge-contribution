@@ -753,3 +753,7 @@
 | [data2rdf](https://anaconda.org/conda-forge/data2rdf) | [![conda](https://anaconda.org/conda-forge/data2rdf/badges/downloads.svg)](https://anaconda.org/conda-forge/data2rdf) |
 | [tt-sketch](https://anaconda.org/conda-forge/tt-sketch) | [![conda](https://anaconda.org/conda-forge/tt-sketch/badges/downloads.svg)](https://anaconda.org/conda-forge/tt-sketch) |
 | [executorlib-core](https://anaconda.org/conda-forge/executorlib-core) | [![conda](https://anaconda.org/conda-forge/executorlib-core/badges/downloads.svg)](https://anaconda.org/conda-forge/executorlib-core) |
+| [physicsml](https://anaconda.org/conda-forge/physicsml) | [![conda](https://anaconda.org/conda-forge/physicsml/badges/downloads.svg)](https://anaconda.org/conda-forge/physicsml) |
+| [molflux](https://anaconda.org/conda-forge/molflux) | [![conda](https://anaconda.org/conda-forge/molflux/badges/downloads.svg)](https://anaconda.org/conda-forge/molflux) |
+| [ragas](https://anaconda.org/conda-forge/ragas) | [![conda](https://anaconda.org/conda-forge/ragas/badges/downloads.svg)](https://anaconda.org/conda-forge/ragas) |
+| [langchainhub](https://anaconda.org/conda-forge/langchainhub) | [![conda](https://anaconda.org/conda-forge/langchainhub/badges/downloads.svg)](https://anaconda.org/conda-forge/langchainhub) |
