@@ -757,3 +757,6 @@
 | [molflux](https://anaconda.org/conda-forge/molflux) | [![conda](https://anaconda.org/conda-forge/molflux/badges/downloads.svg)](https://anaconda.org/conda-forge/molflux) |
 | [ragas](https://anaconda.org/conda-forge/ragas) | [![conda](https://anaconda.org/conda-forge/ragas/badges/downloads.svg)](https://anaconda.org/conda-forge/ragas) |
 | [langchainhub](https://anaconda.org/conda-forge/langchainhub) | [![conda](https://anaconda.org/conda-forge/langchainhub/badges/downloads.svg)](https://anaconda.org/conda-forge/langchainhub) |
+| [groq](https://anaconda.org/conda-forge/groq) | [![conda](https://anaconda.org/conda-forge/groq/badges/downloads.svg)](https://anaconda.org/conda-forge/groq) |
+| [langchain-groq](https://anaconda.org/conda-forge/langchain-groq) | [![conda](https://anaconda.org/conda-forge/langchain-groq/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-groq) |
+| [langchain-anthropic](https://anaconda.org/conda-forge/langchain-anthropic) | [![conda](https://anaconda.org/conda-forge/langchain-anthropic/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-anthropic) |
