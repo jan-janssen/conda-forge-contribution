@@ -601,6 +601,7 @@
 | [gpcam](https://anaconda.org/conda-forge/gpcam) | [![conda](https://anaconda.org/conda-forge/gpcam/badges/downloads.svg)](https://anaconda.org/conda-forge/gpcam) |
 | [pycrystal](https://anaconda.org/conda-forge/pycrystal) | [![conda](https://anaconda.org/conda-forge/pycrystal/badges/downloads.svg)](https://anaconda.org/conda-forge/pycrystal) |
 | [pyxtal](https://anaconda.org/conda-forge/pyxtal) | [![conda](https://anaconda.org/conda-forge/pyxtal/badges/downloads.svg)](https://anaconda.org/conda-forge/pyxtal) |
+| [anthropic](https://anaconda.org/conda-forge/anthropic) | [![conda](https://anaconda.org/conda-forge/anthropic/badges/downloads.svg)](https://anaconda.org/conda-forge/anthropic) |
 | [flux-restful-client](https://anaconda.org/conda-forge/flux-restful-client) | [![conda](https://anaconda.org/conda-forge/flux-restful-client/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-restful-client) |
 | [maxvolpy](https://anaconda.org/conda-forge/maxvolpy) | [![conda](https://anaconda.org/conda-forge/maxvolpy/badges/downloads.svg)](https://anaconda.org/conda-forge/maxvolpy) |
 | [ttopt](https://anaconda.org/conda-forge/ttopt) | [![conda](https://anaconda.org/conda-forge/ttopt/badges/downloads.svg)](https://anaconda.org/conda-forge/ttopt) |
@@ -760,3 +761,7 @@
 | [groq](https://anaconda.org/conda-forge/groq) | [![conda](https://anaconda.org/conda-forge/groq/badges/downloads.svg)](https://anaconda.org/conda-forge/groq) |
 | [langchain-groq](https://anaconda.org/conda-forge/langchain-groq) | [![conda](https://anaconda.org/conda-forge/langchain-groq/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-groq) |
 | [langchain-anthropic](https://anaconda.org/conda-forge/langchain-anthropic) | [![conda](https://anaconda.org/conda-forge/langchain-anthropic/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-anthropic) |
+| [google-generativeai](https://anaconda.org/conda-forge/google-generativeai) | [![conda](https://anaconda.org/conda-forge/google-generativeai/badges/downloads.svg)](https://anaconda.org/conda-forge/google-generativeai) |
+| [google-ai-generativelanguage](https://anaconda.org/conda-forge/google-ai-generativelanguage) | [![conda](https://anaconda.org/conda-forge/google-ai-generativelanguage/badges/downloads.svg)](https://anaconda.org/conda-forge/google-ai-generativelanguage) |
+| [langchain-google-genai](https://anaconda.org/conda-forge/langchain-google-genai) | [![conda](https://anaconda.org/conda-forge/langchain-google-genai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-google-genai) |
+| [yahoo-search-py](https://anaconda.org/conda-forge/yahoo-search-py) | [![conda](https://anaconda.org/conda-forge/yahoo-search-py/badges/downloads.svg)](https://anaconda.org/conda-forge/yahoo-search-py) |
