@@ -765,3 +765,4 @@
 | [google-ai-generativelanguage](https://anaconda.org/conda-forge/google-ai-generativelanguage) | [![conda](https://anaconda.org/conda-forge/google-ai-generativelanguage/badges/downloads.svg)](https://anaconda.org/conda-forge/google-ai-generativelanguage) |
 | [langchain-google-genai](https://anaconda.org/conda-forge/langchain-google-genai) | [![conda](https://anaconda.org/conda-forge/langchain-google-genai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-google-genai) |
 | [yahoo-search-py](https://anaconda.org/conda-forge/yahoo-search-py) | [![conda](https://anaconda.org/conda-forge/yahoo-search-py/badges/downloads.svg)](https://anaconda.org/conda-forge/yahoo-search-py) |
+| [minify-html](https://anaconda.org/conda-forge/minify-html) | [![conda](https://anaconda.org/conda-forge/minify-html/badges/downloads.svg)](https://anaconda.org/conda-forge/minify-html) |
