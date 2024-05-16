@@ -785,3 +785,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [langchain-google-genai](https://anaconda.org/conda-forge/langchain-google-genai) | [![conda](https://anaconda.org/conda-forge/langchain-google-genai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-google-genai) |
 | [yahoo-search-py](https://anaconda.org/conda-forge/yahoo-search-py) | [![conda](https://anaconda.org/conda-forge/yahoo-search-py/badges/downloads.svg)](https://anaconda.org/conda-forge/yahoo-search-py) |
 | [minify-html](https://anaconda.org/conda-forge/minify-html) | [![conda](https://anaconda.org/conda-forge/minify-html/badges/downloads.svg)](https://anaconda.org/conda-forge/minify-html) |
+| [langchain-huggingface](https://anaconda.org/conda-forge/langchain-huggingface) | [![conda](https://anaconda.org/conda-forge/langchain-huggingface/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-huggingface) |
+| [text-generation](https://anaconda.org/conda-forge/text-generation) | [![conda](https://anaconda.org/conda-forge/text-generation/badges/downloads.svg)](https://anaconda.org/conda-forge/text-generation) |
