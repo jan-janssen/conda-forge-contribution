@@ -787,3 +787,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [minify-html](https://anaconda.org/conda-forge/minify-html) | [![conda](https://anaconda.org/conda-forge/minify-html/badges/downloads.svg)](https://anaconda.org/conda-forge/minify-html) |
 | [langchain-huggingface](https://anaconda.org/conda-forge/langchain-huggingface) | [![conda](https://anaconda.org/conda-forge/langchain-huggingface/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-huggingface) |
 | [text-generation](https://anaconda.org/conda-forge/text-generation) | [![conda](https://anaconda.org/conda-forge/text-generation/badges/downloads.svg)](https://anaconda.org/conda-forge/text-generation) |
+| [jiter](https://anaconda.org/conda-forge/jiter) | [![conda](https://anaconda.org/conda-forge/jiter/badges/downloads.svg)](https://anaconda.org/conda-forge/jiter) |
