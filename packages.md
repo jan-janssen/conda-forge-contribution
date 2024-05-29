@@ -770,3 +770,4 @@
 | [text-generation](https://anaconda.org/conda-forge/text-generation) | [![conda](https://anaconda.org/conda-forge/text-generation/badges/downloads.svg)](https://anaconda.org/conda-forge/text-generation) |
 | [jiter](https://anaconda.org/conda-forge/jiter) | [![conda](https://anaconda.org/conda-forge/jiter/badges/downloads.svg)](https://anaconda.org/conda-forge/jiter) |
 | [paper-qa](https://anaconda.org/conda-forge/paper-qa) | [![conda](https://anaconda.org/conda-forge/paper-qa/badges/downloads.svg)](https://anaconda.org/conda-forge/paper-qa) |
+| [flux-pmix](https://anaconda.org/conda-forge/flux-pmix) | [![conda](https://anaconda.org/conda-forge/flux-pmix/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-pmix) |
