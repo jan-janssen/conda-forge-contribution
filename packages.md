@@ -196,7 +196,6 @@
 | [kliff](https://anaconda.org/conda-forge/kliff) | [![conda](https://anaconda.org/conda-forge/kliff/badges/downloads.svg)](https://anaconda.org/conda-forge/kliff) |
 | [environs](https://anaconda.org/conda-forge/environs) | [![conda](https://anaconda.org/conda-forge/environs/badges/downloads.svg)](https://anaconda.org/conda-forge/environs) |
 | [parsplice](https://anaconda.org/conda-forge/parsplice) | [![conda](https://anaconda.org/conda-forge/parsplice/badges/downloads.svg)](https://anaconda.org/conda-forge/parsplice) |
-| [damask](https://anaconda.org/conda-forge/damask) | [![conda](https://anaconda.org/conda-forge/damask/badges/downloads.svg)](https://anaconda.org/conda-forge/damask) |
 | [phono3py](https://anaconda.org/conda-forge/phono3py) | [![conda](https://anaconda.org/conda-forge/phono3py/badges/downloads.svg)](https://anaconda.org/conda-forge/phono3py) |
 | [wulffpack](https://anaconda.org/conda-forge/wulffpack) | [![conda](https://anaconda.org/conda-forge/wulffpack/badges/downloads.svg)](https://anaconda.org/conda-forge/wulffpack) |
 | [dynasor](https://anaconda.org/conda-forge/dynasor) | [![conda](https://anaconda.org/conda-forge/dynasor/badges/downloads.svg)](https://anaconda.org/conda-forge/dynasor) |
