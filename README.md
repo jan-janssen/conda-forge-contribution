@@ -129,6 +129,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [bcrypt](https://anaconda.org/conda-forge/bcrypt) | [![conda](https://anaconda.org/conda-forge/bcrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/bcrypt) |
 | [hickle](https://anaconda.org/conda-forge/hickle) | [![conda](https://anaconda.org/conda-forge/hickle/badges/downloads.svg)](https://anaconda.org/conda-forge/hickle) |
 | [typeguard](https://anaconda.org/conda-forge/typeguard) | [![conda](https://anaconda.org/conda-forge/typeguard/badges/downloads.svg)](https://anaconda.org/conda-forge/typeguard) |
+| [zipp](https://anaconda.org/conda-forge/zipp) | [![conda](https://anaconda.org/conda-forge/zipp/badges/downloads.svg)](https://anaconda.org/conda-forge/zipp) |
 | [colored](https://anaconda.org/conda-forge/colored) | [![conda](https://anaconda.org/conda-forge/colored/badges/downloads.svg)](https://anaconda.org/conda-forge/colored) |
 | [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
 | [codacy-coverage](https://anaconda.org/conda-forge/codacy-coverage) | [![conda](https://anaconda.org/conda-forge/codacy-coverage/badges/downloads.svg)](https://anaconda.org/conda-forge/codacy-coverage) |
@@ -203,6 +204,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [kim-api](https://anaconda.org/conda-forge/kim-api) | [![conda](https://anaconda.org/conda-forge/kim-api/badges/downloads.svg)](https://anaconda.org/conda-forge/kim-api) |
 | [proteus](https://anaconda.org/conda-forge/proteus) | [![conda](https://anaconda.org/conda-forge/proteus/badges/downloads.svg)](https://anaconda.org/conda-forge/proteus) |
 | [kimpy](https://anaconda.org/conda-forge/kimpy) | [![conda](https://anaconda.org/conda-forge/kimpy/badges/downloads.svg)](https://anaconda.org/conda-forge/kimpy) |
+| [html2text](https://anaconda.org/conda-forge/html2text) | [![conda](https://anaconda.org/conda-forge/html2text/badges/downloads.svg)](https://anaconda.org/conda-forge/html2text) |
 | [openkimmodels](https://anaconda.org/conda-forge/openkimmodels) | [![conda](https://anaconda.org/conda-forge/openkimmodels/badges/downloads.svg)](https://anaconda.org/conda-forge/openkimmodels) |
 | [rocm-smi](https://anaconda.org/conda-forge/rocm-smi) | [![conda](https://anaconda.org/conda-forge/rocm-smi/badges/downloads.svg)](https://anaconda.org/conda-forge/rocm-smi) |
 | [openkim-models](https://anaconda.org/conda-forge/openkim-models) | [![conda](https://anaconda.org/conda-forge/openkim-models/badges/downloads.svg)](https://anaconda.org/conda-forge/openkim-models) |
