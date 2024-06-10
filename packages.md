@@ -416,6 +416,7 @@
 | [libecpint](https://anaconda.org/conda-forge/libecpint) | [![conda](https://anaconda.org/conda-forge/libecpint/badges/downloads.svg)](https://anaconda.org/conda-forge/libecpint) |
 | [handcalcs](https://anaconda.org/conda-forge/handcalcs) | [![conda](https://anaconda.org/conda-forge/handcalcs/badges/downloads.svg)](https://anaconda.org/conda-forge/handcalcs) |
 | [votca](https://anaconda.org/conda-forge/votca) | [![conda](https://anaconda.org/conda-forge/votca/badges/downloads.svg)](https://anaconda.org/conda-forge/votca) |
+| [free-proxy](https://anaconda.org/conda-forge/free-proxy) | [![conda](https://anaconda.org/conda-forge/free-proxy/badges/downloads.svg)](https://anaconda.org/conda-forge/free-proxy) |
 | [torchmd](https://anaconda.org/conda-forge/torchmd) | [![conda](https://anaconda.org/conda-forge/torchmd/badges/downloads.svg)](https://anaconda.org/conda-forge/torchmd) |
 | [jobflow](https://anaconda.org/conda-forge/jobflow) | [![conda](https://anaconda.org/conda-forge/jobflow/badges/downloads.svg)](https://anaconda.org/conda-forge/jobflow) |
 | [python-binance](https://anaconda.org/conda-forge/python-binance) | [![conda](https://anaconda.org/conda-forge/python-binance/badges/downloads.svg)](https://anaconda.org/conda-forge/python-binance) |
@@ -775,3 +776,6 @@
 | [chemparse](https://anaconda.org/conda-forge/chemparse) | [![conda](https://anaconda.org/conda-forge/chemparse/badges/downloads.svg)](https://anaconda.org/conda-forge/chemparse) |
 | [glasspy](https://anaconda.org/conda-forge/glasspy) | [![conda](https://anaconda.org/conda-forge/glasspy/badges/downloads.svg)](https://anaconda.org/conda-forge/glasspy) |
 | [grep-ast](https://anaconda.org/conda-forge/grep-ast) | [![conda](https://anaconda.org/conda-forge/grep-ast/badges/downloads.svg)](https://anaconda.org/conda-forge/grep-ast) |
+| [async-property](https://anaconda.org/conda-forge/async-property) | [![conda](https://anaconda.org/conda-forge/async-property/badges/downloads.svg)](https://anaconda.org/conda-forge/async-property) |
+| [playwright-python](https://anaconda.org/conda-forge/playwright-python) | [![conda](https://anaconda.org/conda-forge/playwright-python/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright-python) |
+| [playwright](https://anaconda.org/conda-forge/playwright) | [![conda](https://anaconda.org/conda-forge/playwright/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright) |
