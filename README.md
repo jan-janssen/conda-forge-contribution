@@ -798,3 +798,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [async-property](https://anaconda.org/conda-forge/async-property) | [![conda](https://anaconda.org/conda-forge/async-property/badges/downloads.svg)](https://anaconda.org/conda-forge/async-property) |
 | [playwright-python](https://anaconda.org/conda-forge/playwright-python) | [![conda](https://anaconda.org/conda-forge/playwright-python/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright-python) |
 | [playwright](https://anaconda.org/conda-forge/playwright) | [![conda](https://anaconda.org/conda-forge/playwright/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright) |
+| [mgzip](https://anaconda.org/conda-forge/mgzip) | [![conda](https://anaconda.org/conda-forge/mgzip/badges/downloads.svg)](https://anaconda.org/conda-forge/mgzip) |
+| [jaraco.test](https://anaconda.org/conda-forge/jaraco.test) | [![conda](https://anaconda.org/conda-forge/jaraco.test/badges/downloads.svg)](https://anaconda.org/conda-forge/jaraco.test) |
+| [langgraph](https://anaconda.org/conda-forge/langgraph) | [![conda](https://anaconda.org/conda-forge/langgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph) |
+| [upsonic](https://anaconda.org/conda-forge/upsonic) | [![conda](https://anaconda.org/conda-forge/upsonic/badges/downloads.svg)](https://anaconda.org/conda-forge/upsonic) |
+| [pysoundcard](https://anaconda.org/conda-forge/pysoundcard) | [![conda](https://anaconda.org/conda-forge/pysoundcard/badges/downloads.svg)](https://anaconda.org/conda-forge/pysoundcard) |
