@@ -728,6 +728,7 @@
 | [pymupdf](https://anaconda.org/conda-forge/pymupdf) | [![conda](https://anaconda.org/conda-forge/pymupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf) |
 | [striprtf](https://anaconda.org/conda-forge/striprtf) | [![conda](https://anaconda.org/conda-forge/striprtf/badges/downloads.svg)](https://anaconda.org/conda-forge/striprtf) |
 | [pymupdf-fonts](https://anaconda.org/conda-forge/pymupdf-fonts) | [![conda](https://anaconda.org/conda-forge/pymupdf-fonts/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf-fonts) |
+| [langchain-experimental](https://anaconda.org/conda-forge/langchain-experimental) | [![conda](https://anaconda.org/conda-forge/langchain-experimental/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-experimental) |
 | [mujs](https://anaconda.org/conda-forge/mujs) | [![conda](https://anaconda.org/conda-forge/mujs/badges/downloads.svg)](https://anaconda.org/conda-forge/mujs) |
 | [jsonpath-rw](https://anaconda.org/conda-forge/jsonpath-rw) | [![conda](https://anaconda.org/conda-forge/jsonpath-rw/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-rw) |
 | [mlcroissant](https://anaconda.org/conda-forge/mlcroissant) | [![conda](https://anaconda.org/conda-forge/mlcroissant/badges/downloads.svg)](https://anaconda.org/conda-forge/mlcroissant) |
@@ -784,3 +785,6 @@
 | [langgraph](https://anaconda.org/conda-forge/langgraph) | [![conda](https://anaconda.org/conda-forge/langgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph) |
 | [upsonic](https://anaconda.org/conda-forge/upsonic) | [![conda](https://anaconda.org/conda-forge/upsonic/badges/downloads.svg)](https://anaconda.org/conda-forge/upsonic) |
 | [pysoundcard](https://anaconda.org/conda-forge/pysoundcard) | [![conda](https://anaconda.org/conda-forge/pysoundcard/badges/downloads.svg)](https://anaconda.org/conda-forge/pysoundcard) |
+| [flexcache](https://anaconda.org/conda-forge/flexcache) | [![conda](https://anaconda.org/conda-forge/flexcache/badges/downloads.svg)](https://anaconda.org/conda-forge/flexcache) |
+| [flexparser](https://anaconda.org/conda-forge/flexparser) | [![conda](https://anaconda.org/conda-forge/flexparser/badges/downloads.svg)](https://anaconda.org/conda-forge/flexparser) |
+| [aider](https://anaconda.org/conda-forge/aider) | [![conda](https://anaconda.org/conda-forge/aider/badges/downloads.svg)](https://anaconda.org/conda-forge/aider) |
