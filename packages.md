@@ -788,3 +788,5 @@
 | [flexcache](https://anaconda.org/conda-forge/flexcache) | [![conda](https://anaconda.org/conda-forge/flexcache/badges/downloads.svg)](https://anaconda.org/conda-forge/flexcache) |
 | [flexparser](https://anaconda.org/conda-forge/flexparser) | [![conda](https://anaconda.org/conda-forge/flexparser/badges/downloads.svg)](https://anaconda.org/conda-forge/flexparser) |
 | [aider](https://anaconda.org/conda-forge/aider) | [![conda](https://anaconda.org/conda-forge/aider/badges/downloads.svg)](https://anaconda.org/conda-forge/aider) |
+| [websocket-server](https://anaconda.org/conda-forge/websocket-server) | [![conda](https://anaconda.org/conda-forge/websocket-server/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket-server) |
+| [py2cfg](https://anaconda.org/conda-forge/py2cfg) | [![conda](https://anaconda.org/conda-forge/py2cfg/badges/downloads.svg)](https://anaconda.org/conda-forge/py2cfg) |
