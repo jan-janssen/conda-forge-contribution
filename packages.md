@@ -790,3 +790,4 @@
 | [aider](https://anaconda.org/conda-forge/aider) | [![conda](https://anaconda.org/conda-forge/aider/badges/downloads.svg)](https://anaconda.org/conda-forge/aider) |
 | [websocket-server](https://anaconda.org/conda-forge/websocket-server) | [![conda](https://anaconda.org/conda-forge/websocket-server/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket-server) |
 | [py2cfg](https://anaconda.org/conda-forge/py2cfg) | [![conda](https://anaconda.org/conda-forge/py2cfg/badges/downloads.svg)](https://anaconda.org/conda-forge/py2cfg) |
+| [pyserini](https://anaconda.org/conda-forge/pyserini) | [![conda](https://anaconda.org/conda-forge/pyserini/badges/downloads.svg)](https://anaconda.org/conda-forge/pyserini) |
