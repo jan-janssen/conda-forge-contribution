@@ -810,3 +810,17 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [websocket-server](https://anaconda.org/conda-forge/websocket-server) | [![conda](https://anaconda.org/conda-forge/websocket-server/badges/downloads.svg)](https://anaconda.org/conda-forge/websocket-server) |
 | [py2cfg](https://anaconda.org/conda-forge/py2cfg) | [![conda](https://anaconda.org/conda-forge/py2cfg/badges/downloads.svg)](https://anaconda.org/conda-forge/py2cfg) |
 | [pyserini](https://anaconda.org/conda-forge/pyserini) | [![conda](https://anaconda.org/conda-forge/pyserini/badges/downloads.svg)](https://anaconda.org/conda-forge/pyserini) |
+| [upstash-ratelimit](https://anaconda.org/conda-forge/upstash-ratelimit) | [![conda](https://anaconda.org/conda-forge/upstash-ratelimit/badges/downloads.svg)](https://anaconda.org/conda-forge/upstash-ratelimit) |
+| [httpx-sse](https://anaconda.org/conda-forge/httpx-sse) | [![conda](https://anaconda.org/conda-forge/httpx-sse/badges/downloads.svg)](https://anaconda.org/conda-forge/httpx-sse) |
+| [azure-ai-documentintelligence](https://anaconda.org/conda-forge/azure-ai-documentintelligence) | [![conda](https://anaconda.org/conda-forge/azure-ai-documentintelligence/badges/downloads.svg)](https://anaconda.org/conda-forge/azure-ai-documentintelligence) |
+| [ocifs](https://anaconda.org/conda-forge/ocifs) | [![conda](https://anaconda.org/conda-forge/ocifs/badges/downloads.svg)](https://anaconda.org/conda-forge/ocifs) |
+| [upstash-redis](https://anaconda.org/conda-forge/upstash-redis) | [![conda](https://anaconda.org/conda-forge/upstash-redis/badges/downloads.svg)](https://anaconda.org/conda-forge/upstash-redis) |
+| [tidb-vector](https://anaconda.org/conda-forge/tidb-vector) | [![conda](https://anaconda.org/conda-forge/tidb-vector/badges/downloads.svg)](https://anaconda.org/conda-forge/tidb-vector) |
+| [azure-search-documents](https://anaconda.org/conda-forge/azure-search-documents) | [![conda](https://anaconda.org/conda-forge/azure-search-documents/badges/downloads.svg)](https://anaconda.org/conda-forge/azure-search-documents) |
+| [premai](https://anaconda.org/conda-forge/premai) | [![conda](https://anaconda.org/conda-forge/premai/badges/downloads.svg)](https://anaconda.org/conda-forge/premai) |
+| [friendli-client](https://anaconda.org/conda-forge/friendli-client) | [![conda](https://anaconda.org/conda-forge/friendli-client/badges/downloads.svg)](https://anaconda.org/conda-forge/friendli-client) |
+| [oracle-ads](https://anaconda.org/conda-forge/oracle-ads) | [![conda](https://anaconda.org/conda-forge/oracle-ads/badges/downloads.svg)](https://anaconda.org/conda-forge/oracle-ads) |
+| [python_jsonschema_objects](https://anaconda.org/conda-forge/python_jsonschema_objects) | [![conda](https://anaconda.org/conda-forge/python_jsonschema_objects/badges/downloads.svg)](https://anaconda.org/conda-forge/python_jsonschema_objects) |
+| [fireworks-ai](https://anaconda.org/conda-forge/fireworks-ai) | [![conda](https://anaconda.org/conda-forge/fireworks-ai/badges/downloads.svg)](https://anaconda.org/conda-forge/fireworks-ai) |
+| [vdms](https://anaconda.org/conda-forge/vdms) | [![conda](https://anaconda.org/conda-forge/vdms/badges/downloads.svg)](https://anaconda.org/conda-forge/vdms) |
+| [gradientai](https://anaconda.org/conda-forge/gradientai) | [![conda](https://anaconda.org/conda-forge/gradientai/badges/downloads.svg)](https://anaconda.org/conda-forge/gradientai) |
