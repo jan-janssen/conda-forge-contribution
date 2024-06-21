@@ -593,6 +593,7 @@
 | [pysmartdl](https://anaconda.org/conda-forge/pysmartdl) | [![conda](https://anaconda.org/conda-forge/pysmartdl/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl) |
 | [rfc3161ng](https://anaconda.org/conda-forge/rfc3161ng) | [![conda](https://anaconda.org/conda-forge/rfc3161ng/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3161ng) |
 | [pdb-tools](https://anaconda.org/conda-forge/pdb-tools) | [![conda](https://anaconda.org/conda-forge/pdb-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/pdb-tools) |
+| [langchain](https://anaconda.org/conda-forge/langchain) | [![conda](https://anaconda.org/conda-forge/langchain/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain) |
 | [moleculekit](https://anaconda.org/conda-forge/moleculekit) | [![conda](https://anaconda.org/conda-forge/moleculekit/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculekit) |
 | [pymace](https://anaconda.org/conda-forge/pymace) | [![conda](https://anaconda.org/conda-forge/pymace/badges/downloads.svg)](https://anaconda.org/conda-forge/pymace) |
 | [watchgha](https://anaconda.org/conda-forge/watchgha) | [![conda](https://anaconda.org/conda-forge/watchgha/badges/downloads.svg)](https://anaconda.org/conda-forge/watchgha) |
@@ -677,6 +678,7 @@
 | [chgnet](https://anaconda.org/conda-forge/chgnet) | [![conda](https://anaconda.org/conda-forge/chgnet/badges/downloads.svg)](https://anaconda.org/conda-forge/chgnet) |
 | [parallel-numpy-rng](https://anaconda.org/conda-forge/parallel-numpy-rng) | [![conda](https://anaconda.org/conda-forge/parallel-numpy-rng/badges/downloads.svg)](https://anaconda.org/conda-forge/parallel-numpy-rng) |
 | [wannier90io](https://anaconda.org/conda-forge/wannier90io) | [![conda](https://anaconda.org/conda-forge/wannier90io/badges/downloads.svg)](https://anaconda.org/conda-forge/wannier90io) |
+| [langchain-community](https://anaconda.org/conda-forge/langchain-community) | [![conda](https://anaconda.org/conda-forge/langchain-community/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-community) |
 | [matgl](https://anaconda.org/conda-forge/matgl) | [![conda](https://anaconda.org/conda-forge/matgl/badges/downloads.svg)](https://anaconda.org/conda-forge/matgl) |
 | [h5io_browser](https://anaconda.org/conda-forge/h5io_browser) | [![conda](https://anaconda.org/conda-forge/h5io_browser/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io_browser) |
 | [ssh-utilities](https://anaconda.org/conda-forge/ssh-utilities) | [![conda](https://anaconda.org/conda-forge/ssh-utilities/badges/downloads.svg)](https://anaconda.org/conda-forge/ssh-utilities) |
@@ -805,3 +807,19 @@
 | [fireworks-ai](https://anaconda.org/conda-forge/fireworks-ai) | [![conda](https://anaconda.org/conda-forge/fireworks-ai/badges/downloads.svg)](https://anaconda.org/conda-forge/fireworks-ai) |
 | [vdms](https://anaconda.org/conda-forge/vdms) | [![conda](https://anaconda.org/conda-forge/vdms/badges/downloads.svg)](https://anaconda.org/conda-forge/vdms) |
 | [gradientai](https://anaconda.org/conda-forge/gradientai) | [![conda](https://anaconda.org/conda-forge/gradientai/badges/downloads.svg)](https://anaconda.org/conda-forge/gradientai) |
+| [ai21](https://anaconda.org/conda-forge/ai21) | [![conda](https://anaconda.org/conda-forge/ai21/badges/downloads.svg)](https://anaconda.org/conda-forge/ai21) |
+| [langchain-ai21](https://anaconda.org/conda-forge/langchain-ai21) | [![conda](https://anaconda.org/conda-forge/langchain-ai21/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-ai21) |
+| [langchain-fireworks](https://anaconda.org/conda-forge/langchain-fireworks) | [![conda](https://anaconda.org/conda-forge/langchain-fireworks/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-fireworks) |
+| [ai21-tokenizer](https://anaconda.org/conda-forge/ai21-tokenizer) | [![conda](https://anaconda.org/conda-forge/ai21-tokenizer/badges/downloads.svg)](https://anaconda.org/conda-forge/ai21-tokenizer) |
+| [langchain-nomic](https://anaconda.org/conda-forge/langchain-nomic) | [![conda](https://anaconda.org/conda-forge/langchain-nomic/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-nomic) |
+| [langchain-prompty](https://anaconda.org/conda-forge/langchain-prompty) | [![conda](https://anaconda.org/conda-forge/langchain-prompty/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-prompty) |
+| [langchain-qdrant](https://anaconda.org/conda-forge/langchain-qdrant) | [![conda](https://anaconda.org/conda-forge/langchain-qdrant/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-qdrant) |
+| [voyageai](https://anaconda.org/conda-forge/voyageai) | [![conda](https://anaconda.org/conda-forge/voyageai/badges/downloads.svg)](https://anaconda.org/conda-forge/voyageai) |
+| [nomic](https://anaconda.org/conda-forge/nomic) | [![conda](https://anaconda.org/conda-forge/nomic/badges/downloads.svg)](https://anaconda.org/conda-forge/nomic) |
+| [langchain-azure-dynamic-sessions](https://anaconda.org/conda-forge/langchain-azure-dynamic-sessions) | [![conda](https://anaconda.org/conda-forge/langchain-azure-dynamic-sessions/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-azure-dynamic-sessions) |
+| [langchain-together](https://anaconda.org/conda-forge/langchain-together) | [![conda](https://anaconda.org/conda-forge/langchain-together/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-together) |
+| [langchain-mistralai](https://anaconda.org/conda-forge/langchain-mistralai) | [![conda](https://anaconda.org/conda-forge/langchain-mistralai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-mistralai) |
+| [langchain-mongodb](https://anaconda.org/conda-forge/langchain-mongodb) | [![conda](https://anaconda.org/conda-forge/langchain-mongodb/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-mongodb) |
+| [langchain-chroma](https://anaconda.org/conda-forge/langchain-chroma) | [![conda](https://anaconda.org/conda-forge/langchain-chroma/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-chroma) |
+| [langchain-voyageai](https://anaconda.org/conda-forge/langchain-voyageai) | [![conda](https://anaconda.org/conda-forge/langchain-voyageai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-voyageai) |
+| [langchain-robocorp](https://anaconda.org/conda-forge/langchain-robocorp) | [![conda](https://anaconda.org/conda-forge/langchain-robocorp/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-robocorp) |
