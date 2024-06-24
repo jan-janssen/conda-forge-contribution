@@ -588,6 +588,7 @@
 | [oxdna-analysis-tools](https://anaconda.org/conda-forge/oxdna-analysis-tools) | [![conda](https://anaconda.org/conda-forge/oxdna-analysis-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/oxdna-analysis-tools) |
 | [hydra-colorlog](https://anaconda.org/conda-forge/hydra-colorlog) | [![conda](https://anaconda.org/conda-forge/hydra-colorlog/badges/downloads.svg)](https://anaconda.org/conda-forge/hydra-colorlog) |
 | [read-version](https://anaconda.org/conda-forge/read-version) | [![conda](https://anaconda.org/conda-forge/read-version/badges/downloads.svg)](https://anaconda.org/conda-forge/read-version) |
+| [tensordict](https://anaconda.org/conda-forge/tensordict) | [![conda](https://anaconda.org/conda-forge/tensordict/badges/downloads.svg)](https://anaconda.org/conda-forge/tensordict) |
 | [structuretoolkit](https://anaconda.org/conda-forge/structuretoolkit) | [![conda](https://anaconda.org/conda-forge/structuretoolkit/badges/downloads.svg)](https://anaconda.org/conda-forge/structuretoolkit) |
 | [pysipfenn](https://anaconda.org/conda-forge/pysipfenn) | [![conda](https://anaconda.org/conda-forge/pysipfenn/badges/downloads.svg)](https://anaconda.org/conda-forge/pysipfenn) |
 | [pysmartdl](https://anaconda.org/conda-forge/pysmartdl) | [![conda](https://anaconda.org/conda-forge/pysmartdl/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl) |
