@@ -843,3 +843,10 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [langchain-chroma](https://anaconda.org/conda-forge/langchain-chroma) | [![conda](https://anaconda.org/conda-forge/langchain-chroma/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-chroma) |
 | [langchain-voyageai](https://anaconda.org/conda-forge/langchain-voyageai) | [![conda](https://anaconda.org/conda-forge/langchain-voyageai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-voyageai) |
 | [langchain-robocorp](https://anaconda.org/conda-forge/langchain-robocorp) | [![conda](https://anaconda.org/conda-forge/langchain-robocorp/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-robocorp) |
+| [bytefield](https://anaconda.org/conda-forge/bytefield) | [![conda](https://anaconda.org/conda-forge/bytefield/badges/downloads.svg)](https://anaconda.org/conda-forge/bytefield) |
+| [tminterface](https://anaconda.org/conda-forge/tminterface) | [![conda](https://anaconda.org/conda-forge/tminterface/badges/downloads.svg)](https://anaconda.org/conda-forge/tminterface) |
+| [llama-cloud](https://anaconda.org/conda-forge/llama-cloud) | [![conda](https://anaconda.org/conda-forge/llama-cloud/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-cloud) |
+| [dxcam](https://anaconda.org/conda-forge/dxcam) | [![conda](https://anaconda.org/conda-forge/dxcam/badges/downloads.svg)](https://anaconda.org/conda-forge/dxcam) |
+| [pydirectinput](https://anaconda.org/conda-forge/pydirectinput) | [![conda](https://anaconda.org/conda-forge/pydirectinput/badges/downloads.svg)](https://anaconda.org/conda-forge/pydirectinput) |
+| [readwritememory](https://anaconda.org/conda-forge/readwritememory) | [![conda](https://anaconda.org/conda-forge/readwritememory/badges/downloads.svg)](https://anaconda.org/conda-forge/readwritememory) |
+| [pygbx](https://anaconda.org/conda-forge/pygbx) | [![conda](https://anaconda.org/conda-forge/pygbx/badges/downloads.svg)](https://anaconda.org/conda-forge/pygbx) |
