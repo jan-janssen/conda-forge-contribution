@@ -851,3 +851,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pydirectinput](https://anaconda.org/conda-forge/pydirectinput) | [![conda](https://anaconda.org/conda-forge/pydirectinput/badges/downloads.svg)](https://anaconda.org/conda-forge/pydirectinput) |
 | [readwritememory](https://anaconda.org/conda-forge/readwritememory) | [![conda](https://anaconda.org/conda-forge/readwritememory/badges/downloads.svg)](https://anaconda.org/conda-forge/readwritememory) |
 | [pygbx](https://anaconda.org/conda-forge/pygbx) | [![conda](https://anaconda.org/conda-forge/pygbx/badges/downloads.svg)](https://anaconda.org/conda-forge/pygbx) |
+| [python-libxdo](https://anaconda.org/conda-forge/python-libxdo) | [![conda](https://anaconda.org/conda-forge/python-libxdo/badges/downloads.svg)](https://anaconda.org/conda-forge/python-libxdo) |
