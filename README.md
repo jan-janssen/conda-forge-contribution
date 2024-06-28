@@ -253,6 +253,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [match-series](https://anaconda.org/conda-forge/match-series) | [![conda](https://anaconda.org/conda-forge/match-series/badges/downloads.svg)](https://anaconda.org/conda-forge/match-series) |
 | [scanf](https://anaconda.org/conda-forge/scanf) | [![conda](https://anaconda.org/conda-forge/scanf/badges/downloads.svg)](https://anaconda.org/conda-forge/scanf) |
 | [pytorch_geometric](https://anaconda.org/conda-forge/pytorch_geometric) | [![conda](https://anaconda.org/conda-forge/pytorch_geometric/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch_geometric) |
+| [terracotta](https://anaconda.org/conda-forge/terracotta) | [![conda](https://anaconda.org/conda-forge/terracotta/badges/downloads.svg)](https://anaconda.org/conda-forge/terracotta) |
 | [chemics](https://anaconda.org/conda-forge/chemics) | [![conda](https://anaconda.org/conda-forge/chemics/badges/downloads.svg)](https://anaconda.org/conda-forge/chemics) |
 | [pystem](https://anaconda.org/conda-forge/pystem) | [![conda](https://anaconda.org/conda-forge/pystem/badges/downloads.svg)](https://anaconda.org/conda-forge/pystem) |
 | [py4dstem](https://anaconda.org/conda-forge/py4dstem) | [![conda](https://anaconda.org/conda-forge/py4dstem/badges/downloads.svg)](https://anaconda.org/conda-forge/py4dstem) |
@@ -852,3 +853,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [readwritememory](https://anaconda.org/conda-forge/readwritememory) | [![conda](https://anaconda.org/conda-forge/readwritememory/badges/downloads.svg)](https://anaconda.org/conda-forge/readwritememory) |
 | [pygbx](https://anaconda.org/conda-forge/pygbx) | [![conda](https://anaconda.org/conda-forge/pygbx/badges/downloads.svg)](https://anaconda.org/conda-forge/pygbx) |
 | [python-libxdo](https://anaconda.org/conda-forge/python-libxdo) | [![conda](https://anaconda.org/conda-forge/python-libxdo/badges/downloads.svg)](https://anaconda.org/conda-forge/python-libxdo) |
+| [pytorchrl](https://anaconda.org/conda-forge/pytorchrl) | [![conda](https://anaconda.org/conda-forge/pytorchrl/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorchrl) |
