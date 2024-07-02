@@ -89,6 +89,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [transaction](https://anaconda.org/conda-forge/transaction) | [![conda](https://anaconda.org/conda-forge/transaction/badges/downloads.svg)](https://anaconda.org/conda-forge/transaction) |
 | [zodb](https://anaconda.org/conda-forge/zodb) | [![conda](https://anaconda.org/conda-forge/zodb/badges/downloads.svg)](https://anaconda.org/conda-forge/zodb) |
 | [zeo](https://anaconda.org/conda-forge/zeo) | [![conda](https://anaconda.org/conda-forge/zeo/badges/downloads.svg)](https://anaconda.org/conda-forge/zeo) |
+| [gpy](https://anaconda.org/conda-forge/gpy) | [![conda](https://anaconda.org/conda-forge/gpy/badges/downloads.svg)](https://anaconda.org/conda-forge/gpy) |
 | [google-auth](https://anaconda.org/conda-forge/google-auth) | [![conda](https://anaconda.org/conda-forge/google-auth/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth) |
 | [google-auth-oauthlib](https://anaconda.org/conda-forge/google-auth-oauthlib) | [![conda](https://anaconda.org/conda-forge/google-auth-oauthlib/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth-oauthlib) |
 | [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
