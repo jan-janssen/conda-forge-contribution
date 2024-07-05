@@ -89,6 +89,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [transaction](https://anaconda.org/conda-forge/transaction) | [![conda](https://anaconda.org/conda-forge/transaction/badges/downloads.svg)](https://anaconda.org/conda-forge/transaction) |
 | [zodb](https://anaconda.org/conda-forge/zodb) | [![conda](https://anaconda.org/conda-forge/zodb/badges/downloads.svg)](https://anaconda.org/conda-forge/zodb) |
 | [zeo](https://anaconda.org/conda-forge/zeo) | [![conda](https://anaconda.org/conda-forge/zeo/badges/downloads.svg)](https://anaconda.org/conda-forge/zeo) |
+| [paramz](https://anaconda.org/conda-forge/paramz) | [![conda](https://anaconda.org/conda-forge/paramz/badges/downloads.svg)](https://anaconda.org/conda-forge/paramz) |
 | [gpy](https://anaconda.org/conda-forge/gpy) | [![conda](https://anaconda.org/conda-forge/gpy/badges/downloads.svg)](https://anaconda.org/conda-forge/gpy) |
 | [google-auth](https://anaconda.org/conda-forge/google-auth) | [![conda](https://anaconda.org/conda-forge/google-auth/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth) |
 | [google-auth-oauthlib](https://anaconda.org/conda-forge/google-auth-oauthlib) | [![conda](https://anaconda.org/conda-forge/google-auth-oauthlib/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth-oauthlib) |
@@ -856,3 +857,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [python-libxdo](https://anaconda.org/conda-forge/python-libxdo) | [![conda](https://anaconda.org/conda-forge/python-libxdo/badges/downloads.svg)](https://anaconda.org/conda-forge/python-libxdo) |
 | [pytorchrl](https://anaconda.org/conda-forge/pytorchrl) | [![conda](https://anaconda.org/conda-forge/pytorchrl/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorchrl) |
 | [pyometiff](https://anaconda.org/conda-forge/pyometiff) | [![conda](https://anaconda.org/conda-forge/pyometiff/badges/downloads.svg)](https://anaconda.org/conda-forge/pyometiff) |
+| [barfi](https://anaconda.org/conda-forge/barfi) | [![conda](https://anaconda.org/conda-forge/barfi/badges/downloads.svg)](https://anaconda.org/conda-forge/barfi) |
+| [pyflyde](https://anaconda.org/conda-forge/pyflyde) | [![conda](https://anaconda.org/conda-forge/pyflyde/badges/downloads.svg)](https://anaconda.org/conda-forge/pyflyde) |
