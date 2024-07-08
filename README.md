@@ -859,3 +859,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyometiff](https://anaconda.org/conda-forge/pyometiff) | [![conda](https://anaconda.org/conda-forge/pyometiff/badges/downloads.svg)](https://anaconda.org/conda-forge/pyometiff) |
 | [barfi](https://anaconda.org/conda-forge/barfi) | [![conda](https://anaconda.org/conda-forge/barfi/badges/downloads.svg)](https://anaconda.org/conda-forge/barfi) |
 | [pyflyde](https://anaconda.org/conda-forge/pyflyde) | [![conda](https://anaconda.org/conda-forge/pyflyde/badges/downloads.svg)](https://anaconda.org/conda-forge/pyflyde) |
+| [molpipeline](https://anaconda.org/conda-forge/molpipeline) | [![conda](https://anaconda.org/conda-forge/molpipeline/badges/downloads.svg)](https://anaconda.org/conda-forge/molpipeline) |
+| [bofire](https://anaconda.org/conda-forge/bofire) | [![conda](https://anaconda.org/conda-forge/bofire/badges/downloads.svg)](https://anaconda.org/conda-forge/bofire) |
