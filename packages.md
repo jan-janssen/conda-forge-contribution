@@ -52,6 +52,7 @@
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
 | [leather](https://anaconda.org/conda-forge/leather) | [![conda](https://anaconda.org/conda-forge/leather/badges/downloads.svg)](https://anaconda.org/conda-forge/leather) |
 | [agate](https://anaconda.org/conda-forge/agate) | [![conda](https://anaconda.org/conda-forge/agate/badges/downloads.svg)](https://anaconda.org/conda-forge/agate) |
+| [lua-luaposix](https://anaconda.org/conda-forge/lua-luaposix) | [![conda](https://anaconda.org/conda-forge/lua-luaposix/badges/downloads.svg)](https://anaconda.org/conda-forge/lua-luaposix) |
 | [agate-dbf](https://anaconda.org/conda-forge/agate-dbf) | [![conda](https://anaconda.org/conda-forge/agate-dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-dbf) |
 | [agate-sql](https://anaconda.org/conda-forge/agate-sql) | [![conda](https://anaconda.org/conda-forge/agate-sql/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-sql) |
 | [csvkit](https://anaconda.org/conda-forge/csvkit) | [![conda](https://anaconda.org/conda-forge/csvkit/badges/downloads.svg)](https://anaconda.org/conda-forge/csvkit) |
@@ -488,6 +489,7 @@
 | [pbkdf2](https://anaconda.org/conda-forge/pbkdf2) | [![conda](https://anaconda.org/conda-forge/pbkdf2/badges/downloads.svg)](https://anaconda.org/conda-forge/pbkdf2) |
 | [pystore](https://anaconda.org/conda-forge/pystore) | [![conda](https://anaconda.org/conda-forge/pystore/badges/downloads.svg)](https://anaconda.org/conda-forge/pystore) |
 | [sha256](https://anaconda.org/conda-forge/sha256) | [![conda](https://anaconda.org/conda-forge/sha256/badges/downloads.svg)](https://anaconda.org/conda-forge/sha256) |
+| [hyppo](https://anaconda.org/conda-forge/hyppo) | [![conda](https://anaconda.org/conda-forge/hyppo/badges/downloads.svg)](https://anaconda.org/conda-forge/hyppo) |
 | [py4vasp](https://anaconda.org/conda-forge/py4vasp) | [![conda](https://anaconda.org/conda-forge/py4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/py4vasp) |
 | [imap-tools](https://anaconda.org/conda-forge/imap-tools) | [![conda](https://anaconda.org/conda-forge/imap-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/imap-tools) |
 | [threeml](https://anaconda.org/conda-forge/threeml) | [![conda](https://anaconda.org/conda-forge/threeml/badges/downloads.svg)](https://anaconda.org/conda-forge/threeml) |
