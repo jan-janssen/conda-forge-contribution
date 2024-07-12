@@ -698,6 +698,7 @@
 | [runnerase](https://anaconda.org/conda-forge/runnerase) | [![conda](https://anaconda.org/conda-forge/runnerase/badges/downloads.svg)](https://anaconda.org/conda-forge/runnerase) |
 | [llama-index-core](https://anaconda.org/conda-forge/llama-index-core) | [![conda](https://anaconda.org/conda-forge/llama-index-core/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-core) |
 | [uf3](https://anaconda.org/conda-forge/uf3) | [![conda](https://anaconda.org/conda-forge/uf3/badges/downloads.svg)](https://anaconda.org/conda-forge/uf3) |
+| [lancedb](https://anaconda.org/conda-forge/lancedb) | [![conda](https://anaconda.org/conda-forge/lancedb/badges/downloads.svg)](https://anaconda.org/conda-forge/lancedb) |
 | [kg4vasp](https://anaconda.org/conda-forge/kg4vasp) | [![conda](https://anaconda.org/conda-forge/kg4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/kg4vasp) |
 | [sherlock-lib](https://anaconda.org/conda-forge/sherlock-lib) | [![conda](https://anaconda.org/conda-forge/sherlock-lib/badges/downloads.svg)](https://anaconda.org/conda-forge/sherlock-lib) |
 | [pytorch-minimize](https://anaconda.org/conda-forge/pytorch-minimize) | [![conda](https://anaconda.org/conda-forge/pytorch-minimize/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch-minimize) |
@@ -844,3 +845,6 @@
 | [pyflyde](https://anaconda.org/conda-forge/pyflyde) | [![conda](https://anaconda.org/conda-forge/pyflyde/badges/downloads.svg)](https://anaconda.org/conda-forge/pyflyde) |
 | [molpipeline](https://anaconda.org/conda-forge/molpipeline) | [![conda](https://anaconda.org/conda-forge/molpipeline/badges/downloads.svg)](https://anaconda.org/conda-forge/molpipeline) |
 | [bofire](https://anaconda.org/conda-forge/bofire) | [![conda](https://anaconda.org/conda-forge/bofire/badges/downloads.svg)](https://anaconda.org/conda-forge/bofire) |
+| [tensorpotential](https://anaconda.org/conda-forge/tensorpotential) | [![conda](https://anaconda.org/conda-forge/tensorpotential/badges/downloads.svg)](https://anaconda.org/conda-forge/tensorpotential) |
+| [mdanse](https://anaconda.org/conda-forge/mdanse) | [![conda](https://anaconda.org/conda-forge/mdanse/badges/downloads.svg)](https://anaconda.org/conda-forge/mdanse) |
+| [ctypesgen-pypdfium2-team](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team) | [![conda](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team/badges/downloads.svg)](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team) |
