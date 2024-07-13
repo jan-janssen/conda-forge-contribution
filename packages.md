@@ -848,3 +848,12 @@
 | [tensorpotential](https://anaconda.org/conda-forge/tensorpotential) | [![conda](https://anaconda.org/conda-forge/tensorpotential/badges/downloads.svg)](https://anaconda.org/conda-forge/tensorpotential) |
 | [mdanse](https://anaconda.org/conda-forge/mdanse) | [![conda](https://anaconda.org/conda-forge/mdanse/badges/downloads.svg)](https://anaconda.org/conda-forge/mdanse) |
 | [ctypesgen-pypdfium2-team](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team) | [![conda](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team/badges/downloads.svg)](https://anaconda.org/conda-forge/ctypesgen-pypdfium2-team) |
+| [pypdfium2](https://anaconda.org/conda-forge/pypdfium2) | [![conda](https://anaconda.org/conda-forge/pypdfium2/badges/downloads.svg)](https://anaconda.org/conda-forge/pypdfium2) |
+| [noodles](https://anaconda.org/conda-forge/noodles) | [![conda](https://anaconda.org/conda-forge/noodles/badges/downloads.svg)](https://anaconda.org/conda-forge/noodles) |
+| [qmflows](https://anaconda.org/conda-forge/qmflows) | [![conda](https://anaconda.org/conda-forge/qmflows/badges/downloads.svg)](https://anaconda.org/conda-forge/qmflows) |
+| [pyxenon](https://anaconda.org/conda-forge/pyxenon) | [![conda](https://anaconda.org/conda-forge/pyxenon/badges/downloads.svg)](https://anaconda.org/conda-forge/pyxenon) |
+| [texify](https://anaconda.org/conda-forge/texify) | [![conda](https://anaconda.org/conda-forge/texify/badges/downloads.svg)](https://anaconda.org/conda-forge/texify) |
+| [pdftext](https://anaconda.org/conda-forge/pdftext) | [![conda](https://anaconda.org/conda-forge/pdftext/badges/downloads.svg)](https://anaconda.org/conda-forge/pdftext) |
+| [surya-ocr](https://anaconda.org/conda-forge/surya-ocr) | [![conda](https://anaconda.org/conda-forge/surya-ocr/badges/downloads.svg)](https://anaconda.org/conda-forge/surya-ocr) |
+| [pysages](https://anaconda.org/conda-forge/pysages) | [![conda](https://anaconda.org/conda-forge/pysages/badges/downloads.svg)](https://anaconda.org/conda-forge/pysages) |
+| [conquest](https://anaconda.org/conda-forge/conquest) | [![conda](https://anaconda.org/conda-forge/conquest/badges/downloads.svg)](https://anaconda.org/conda-forge/conquest) |
