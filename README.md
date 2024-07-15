@@ -236,6 +236,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pwtools](https://anaconda.org/conda-forge/pwtools) | [![conda](https://anaconda.org/conda-forge/pwtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pwtools) |
 | [click-shell](https://anaconda.org/conda-forge/click-shell) | [![conda](https://anaconda.org/conda-forge/click-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/click-shell) |
 | [mupdf](https://anaconda.org/conda-forge/mupdf) | [![conda](https://anaconda.org/conda-forge/mupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/mupdf) |
+| [anytree](https://anaconda.org/conda-forge/anytree) | [![conda](https://anaconda.org/conda-forge/anytree/badges/downloads.svg)](https://anaconda.org/conda-forge/anytree) |
 | [temmeta](https://anaconda.org/conda-forge/temmeta) | [![conda](https://anaconda.org/conda-forge/temmeta/badges/downloads.svg)](https://anaconda.org/conda-forge/temmeta) |
 | [pyshtools](https://anaconda.org/conda-forge/pyshtools) | [![conda](https://anaconda.org/conda-forge/pyshtools/badges/downloads.svg)](https://anaconda.org/conda-forge/pyshtools) |
 | [abipy](https://anaconda.org/conda-forge/abipy) | [![conda](https://anaconda.org/conda-forge/abipy/badges/downloads.svg)](https://anaconda.org/conda-forge/abipy) |
@@ -357,6 +358,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ifermi](https://anaconda.org/conda-forge/ifermi) | [![conda](https://anaconda.org/conda-forge/ifermi/badges/downloads.svg)](https://anaconda.org/conda-forge/ifermi) |
 | [meshcut](https://anaconda.org/conda-forge/meshcut) | [![conda](https://anaconda.org/conda-forge/meshcut/badges/downloads.svg)](https://anaconda.org/conda-forge/meshcut) |
 | [enumlib](https://anaconda.org/conda-forge/enumlib) | [![conda](https://anaconda.org/conda-forge/enumlib/badges/downloads.svg)](https://anaconda.org/conda-forge/enumlib) |
+| [pyaml-env](https://anaconda.org/conda-forge/pyaml-env) | [![conda](https://anaconda.org/conda-forge/pyaml-env/badges/downloads.svg)](https://anaconda.org/conda-forge/pyaml-env) |
 | [pymatgen-analysis-diffusion](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion) | [![conda](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-analysis-diffusion) |
 | [pymatgen-lammps](https://anaconda.org/conda-forge/pymatgen-lammps) | [![conda](https://anaconda.org/conda-forge/pymatgen-lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-lammps) |
 | [lammps-interface](https://anaconda.org/conda-forge/lammps-interface) | [![conda](https://anaconda.org/conda-forge/lammps-interface/badges/downloads.svg)](https://anaconda.org/conda-forge/lammps-interface) |
