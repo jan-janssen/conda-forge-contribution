@@ -859,3 +859,6 @@
 | [surya-ocr](https://anaconda.org/conda-forge/surya-ocr) | [![conda](https://anaconda.org/conda-forge/surya-ocr/badges/downloads.svg)](https://anaconda.org/conda-forge/surya-ocr) |
 | [pysages](https://anaconda.org/conda-forge/pysages) | [![conda](https://anaconda.org/conda-forge/pysages/badges/downloads.svg)](https://anaconda.org/conda-forge/pysages) |
 | [conquest](https://anaconda.org/conda-forge/conquest) | [![conda](https://anaconda.org/conda-forge/conquest/badges/downloads.svg)](https://anaconda.org/conda-forge/conquest) |
+| [executorlib](https://anaconda.org/conda-forge/executorlib) | [![conda](https://anaconda.org/conda-forge/executorlib/badges/downloads.svg)](https://anaconda.org/conda-forge/executorlib) |
+| [graphrag](https://anaconda.org/conda-forge/graphrag) | [![conda](https://anaconda.org/conda-forge/graphrag/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag) |
+| [datashaper](https://anaconda.org/conda-forge/datashaper) | [![conda](https://anaconda.org/conda-forge/datashaper/badges/downloads.svg)](https://anaconda.org/conda-forge/datashaper) |
