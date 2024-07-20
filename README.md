@@ -807,6 +807,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [flux-pmix](https://anaconda.org/conda-forge/flux-pmix) | [![conda](https://anaconda.org/conda-forge/flux-pmix/badges/downloads.svg)](https://anaconda.org/conda-forge/flux-pmix) |
 | [chemparse](https://anaconda.org/conda-forge/chemparse) | [![conda](https://anaconda.org/conda-forge/chemparse/badges/downloads.svg)](https://anaconda.org/conda-forge/chemparse) |
 | [glasspy](https://anaconda.org/conda-forge/glasspy) | [![conda](https://anaconda.org/conda-forge/glasspy/badges/downloads.svg)](https://anaconda.org/conda-forge/glasspy) |
+| [pyiron_snippets](https://anaconda.org/conda-forge/pyiron_snippets) | [![conda](https://anaconda.org/conda-forge/pyiron_snippets/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_snippets) |
 | [grep-ast](https://anaconda.org/conda-forge/grep-ast) | [![conda](https://anaconda.org/conda-forge/grep-ast/badges/downloads.svg)](https://anaconda.org/conda-forge/grep-ast) |
 | [async-property](https://anaconda.org/conda-forge/async-property) | [![conda](https://anaconda.org/conda-forge/async-property/badges/downloads.svg)](https://anaconda.org/conda-forge/async-property) |
 | [playwright-python](https://anaconda.org/conda-forge/playwright-python) | [![conda](https://anaconda.org/conda-forge/playwright-python/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright-python) |
@@ -881,3 +882,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [executorlib](https://anaconda.org/conda-forge/executorlib) | [![conda](https://anaconda.org/conda-forge/executorlib/badges/downloads.svg)](https://anaconda.org/conda-forge/executorlib) |
 | [graphrag](https://anaconda.org/conda-forge/graphrag) | [![conda](https://anaconda.org/conda-forge/graphrag/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag) |
 | [datashaper](https://anaconda.org/conda-forge/datashaper) | [![conda](https://anaconda.org/conda-forge/datashaper/badges/downloads.svg)](https://anaconda.org/conda-forge/datashaper) |
+| [ccx2paraview](https://anaconda.org/conda-forge/ccx2paraview) | [![conda](https://anaconda.org/conda-forge/ccx2paraview/badges/downloads.svg)](https://anaconda.org/conda-forge/ccx2paraview) |
