@@ -883,3 +883,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [graphrag](https://anaconda.org/conda-forge/graphrag) | [![conda](https://anaconda.org/conda-forge/graphrag/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag) |
 | [datashaper](https://anaconda.org/conda-forge/datashaper) | [![conda](https://anaconda.org/conda-forge/datashaper/badges/downloads.svg)](https://anaconda.org/conda-forge/datashaper) |
 | [ccx2paraview](https://anaconda.org/conda-forge/ccx2paraview) | [![conda](https://anaconda.org/conda-forge/ccx2paraview/badges/downloads.svg)](https://anaconda.org/conda-forge/ccx2paraview) |
+| [python-zstd](https://anaconda.org/conda-forge/python-zstd) | [![conda](https://anaconda.org/conda-forge/python-zstd/badges/downloads.svg)](https://anaconda.org/conda-forge/python-zstd) |
+| [pyautogen](https://anaconda.org/conda-forge/pyautogen) | [![conda](https://anaconda.org/conda-forge/pyautogen/badges/downloads.svg)](https://anaconda.org/conda-forge/pyautogen) |
