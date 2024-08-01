@@ -2,6 +2,7 @@ import sys
 import getopt
 import requests
 import pandas
+from typing import List
 from datetime import date
 from jinja2 import Template
 from urllib.error import URLError
@@ -32,7 +33,20 @@ query_template = """
 """
 
 
-def get_all_package_names(username, token):
+def get_all_package_names(username: str, token: str) -> list:
+    """
+    Retrieves a list of all package names for a given user from the GitHub API.
+
+    Args:
+        username (str): The GitHub username.
+        token (str): The GitHub API token.
+
+    Returns:
+        list: A list of package names.
+
+    Raises:
+        Exception: If the query fails to run.
+    """
     t = Template(query_template)
     after = None 
     next_page = True 
@@ -52,17 +66,41 @@ def get_all_package_names(username, token):
     return packages_lst
 
 
-def read_template(file):
+def read_template(file: str) -> str:
+    """
+    Reads the content of a file and returns it as a string.
+
+    Args:
+        file (str): The path to the file.
+
+    Returns:
+        str: The content of the file as a string.
+    """
     with open(file, 'r') as f:
         return f.read()
 
 
-def write_index(file, output):
+def write_index(file: str, output: str) -> None:
+    """
+    Writes the output to a file.
+
+    Args:
+        file (str): The path to the file.
+        output (str): The content to write.
+    """
     with open(file, 'w') as f: 
         f.writelines(output)
 
 
-def write_files(total_packages):
+from typing import List
+
+def write_files(total_packages: List[str]) -> None:
+    """
+    Write files for the given list of packages.
+
+    Args:
+        total_packages (List[str]): A list of package names.
+    """
     web = Template(read_template(file=".ci_support/template.html"))
     web_output = web.render(package_lst=total_packages)
     write_index(file="index.html", output=web_output)
@@ -72,6 +110,18 @@ def write_files(total_packages):
 
 
 def command_line(argv):
+    """
+    Parses the command line arguments and returns the username, token, and repo.
+
+    Args:
+        argv (List[str]): The command line arguments.
+
+    Returns:
+        Tuple[str, str, str]: A tuple containing the username, token, and repo.
+
+    Raises:
+        GetoptError: If there is an error parsing the command line arguments.
+    """
     username = None
     token = None
     repo = None
@@ -95,23 +145,62 @@ def command_line(argv):
     return username, token, repo
 
 
-def get_download_count_line(content_lst):
+def get_download_count_line(content_lst: List[str]) -> int:
+    """
+    Get the line containing the total download count from the given list of strings.
+
+    Args:
+        content_lst (List[str]): The list of strings to search in.
+
+    Returns:
+        int: The total download count.
+
+    """
     for i, l in enumerate(content_lst):
         if "total downloads" in l:
             return int(l.split(">")[1].split("<")[0])
 
 
-def get_github_stats_url(repo, filename):
+def get_github_stats_url(repo: str, filename: str) -> str:
+    """
+    Returns the URL for the GitHub stats page for a given repository and filename.
+
+    Args:
+        repo (str): The repository in the format "username/reponame".
+        filename (str): The name of the file.
+
+    Returns:
+        str: The URL for the GitHub stats page.
+    """
     username, reponame = repo.split("/")
     return "http://" + username + ".github.io/" + reponame + "/" + filename
     
 
-def get_package_download_count(package_name):
+def get_package_download_count(package_name: str) -> int:
+    """
+    Get the download count for a given package from the conda-forge channel.
+
+    Args:
+        package_name (str): The name of the package.
+
+    Returns:
+        int: The download count for the package.
+    """
     r = requests.get('https://anaconda.org/conda-forge/' + package_name)
     return get_download_count_line(content_lst=r.content.decode().split("\n"))
 
 
-def get_condaforge_contribution(package_lst):
+def get_condaforge_contribution(package_lst: List[str]) -> pandas.DataFrame:
+    """
+    Get the contribution of Conda Forge packages.
+
+    Args:
+        package_lst (List[str]): List of package names.
+
+    Returns:
+        pandas.DataFrame: DataFrame containing the package names and their download counts.
+
+    """
     download_count_lst = [get_package_download_count(package_name=p) for p in package_lst]
     
     # Number of packages
@@ -129,14 +218,38 @@ def get_condaforge_contribution(package_lst):
     return pandas.DataFrame({p:[d] for p, d in zip(package_lst, download_count_lst)})
 
 
-def download_existing_data(data_download):
+def download_existing_data(data_download: str) -> pandas.DataFrame:
+    """
+    Downloads existing data from the given data_download URL and returns it as a pandas DataFrame.
+
+    Args:
+        data_download (str): The URL of the data to be downloaded.
+
+    Returns:
+        pandas.DataFrame: The downloaded data as a pandas DataFrame.
+
+    Raises:
+        URLError: If there is an error in downloading the data.
+
+    """
     try:
         return pandas.read_csv(data_download, index_col=0)
     except URLError:  # this is the case for the first built
         return pandas.DataFrame({})
 
 
-def get_statistics(package_lst, repo, filename):
+def get_statistics(package_lst: list, repo: str, filename: str) -> None:
+    """
+    Get statistics for a given package list, repository, and filename.
+
+    Parameters:
+    - package_lst (list): A list of packages.
+    - repo (str): The repository name.
+    - filename (str): The name of the output file.
+
+    Returns:
+    None
+    """
     pandas.concat([
         download_existing_data(data_download=get_github_stats_url(
             repo=repo, 
