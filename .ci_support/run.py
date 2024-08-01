@@ -4,7 +4,7 @@ import requests
 import pandas
 from datetime import date
 from jinja2 import Template
-from urllib.error import URLError
+from urllib.error import HTTPError
 
 
 query_template = """
@@ -132,7 +132,7 @@ def get_condaforge_contribution(package_lst):
 def download_existing_data(data_download):
     try:
         return pandas.read_csv(data_download, index_col=0)
-    except URLError:  # this is the case for the first built
+    except HTTPError:  # this is the case for the first built
         return pandas.DataFrame({})
 
 
