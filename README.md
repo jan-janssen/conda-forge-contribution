@@ -16,6 +16,8 @@ For the token the following permissions are required:
 
 After creating the environment variable `GH_TOKEN` trigger a new build on the master branch. 
 
+If you have just forked the repo, you will likely need to enable `Actions` for your fork by going to the `Actions` tab in the github UI. 
+
 Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 # List of Packages 
 
