@@ -4,6 +4,7 @@ import requests
 import pandas
 from datetime import date
 from jinja2 import Template
+from urllib.error import URLError
 
 
 query_template = """
@@ -129,7 +130,10 @@ def get_condaforge_contribution(package_lst):
 
 
 def download_existing_data(data_download):
-    return pandas.read_csv(data_download, index_col=0)
+    try:
+        return pandas.read_csv(data_download, index_col=0)
+    except URLError:  # this is the case for the first built
+        return pandas.DataFrame({})
 
 
 def get_statistics(package_lst, repo, filename):
