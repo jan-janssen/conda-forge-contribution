@@ -869,3 +869,4 @@
 | [diffeqpy](https://anaconda.org/conda-forge/diffeqpy) | [![conda](https://anaconda.org/conda-forge/diffeqpy/badges/downloads.svg)](https://anaconda.org/conda-forge/diffeqpy) |
 | [pyrms](https://anaconda.org/conda-forge/pyrms) | [![conda](https://anaconda.org/conda-forge/pyrms/badges/downloads.svg)](https://anaconda.org/conda-forge/pyrms) |
 | [mediawikiapi](https://anaconda.org/conda-forge/mediawikiapi) | [![conda](https://anaconda.org/conda-forge/mediawikiapi/badges/downloads.svg)](https://anaconda.org/conda-forge/mediawikiapi) |
+| [json-repair](https://anaconda.org/conda-forge/json-repair) | [![conda](https://anaconda.org/conda-forge/json-repair/badges/downloads.svg)](https://anaconda.org/conda-forge/json-repair) |
