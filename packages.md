@@ -870,3 +870,7 @@
 | [pyrms](https://anaconda.org/conda-forge/pyrms) | [![conda](https://anaconda.org/conda-forge/pyrms/badges/downloads.svg)](https://anaconda.org/conda-forge/pyrms) |
 | [mediawikiapi](https://anaconda.org/conda-forge/mediawikiapi) | [![conda](https://anaconda.org/conda-forge/mediawikiapi/badges/downloads.svg)](https://anaconda.org/conda-forge/mediawikiapi) |
 | [json-repair](https://anaconda.org/conda-forge/json-repair) | [![conda](https://anaconda.org/conda-forge/json-repair/badges/downloads.svg)](https://anaconda.org/conda-forge/json-repair) |
+| [langgraph-checkpoint](https://anaconda.org/conda-forge/langgraph-checkpoint) | [![conda](https://anaconda.org/conda-forge/langgraph-checkpoint/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-checkpoint) |
+| [opentelemetry-propagator-aws-xray](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray) | [![conda](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray/badges/downloads.svg)](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray) |
+| [opentelemetry-sdk-extension-aws](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws) | [![conda](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws/badges/downloads.svg)](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws) |
+| [baybe](https://anaconda.org/conda-forge/baybe) | [![conda](https://anaconda.org/conda-forge/baybe/badges/downloads.svg)](https://anaconda.org/conda-forge/baybe) |
