@@ -22,6 +22,7 @@
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
 | [speechrecognition](https://anaconda.org/conda-forge/speechrecognition) | [![conda](https://anaconda.org/conda-forge/speechrecognition/badges/downloads.svg)](https://anaconda.org/conda-forge/speechrecognition) |
 | [qds-sdk](https://anaconda.org/conda-forge/qds-sdk) | [![conda](https://anaconda.org/conda-forge/qds-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/qds-sdk) |
+| [nltk](https://anaconda.org/conda-forge/nltk) | [![conda](https://anaconda.org/conda-forge/nltk/badges/downloads.svg)](https://anaconda.org/conda-forge/nltk) |
 | [cement](https://anaconda.org/conda-forge/cement) | [![conda](https://anaconda.org/conda-forge/cement/badges/downloads.svg)](https://anaconda.org/conda-forge/cement) |
 | [tldextract](https://anaconda.org/conda-forge/tldextract) | [![conda](https://anaconda.org/conda-forge/tldextract/badges/downloads.svg)](https://anaconda.org/conda-forge/tldextract) |
 | [wtf-peewee](https://anaconda.org/conda-forge/wtf-peewee) | [![conda](https://anaconda.org/conda-forge/wtf-peewee/badges/downloads.svg)](https://anaconda.org/conda-forge/wtf-peewee) |
