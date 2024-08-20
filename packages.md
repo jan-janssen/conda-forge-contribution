@@ -875,3 +875,4 @@
 | [opentelemetry-propagator-aws-xray](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray) | [![conda](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray/badges/downloads.svg)](https://anaconda.org/conda-forge/opentelemetry-propagator-aws-xray) |
 | [opentelemetry-sdk-extension-aws](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws) | [![conda](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws/badges/downloads.svg)](https://anaconda.org/conda-forge/opentelemetry-sdk-extension-aws) |
 | [baybe](https://anaconda.org/conda-forge/baybe) | [![conda](https://anaconda.org/conda-forge/baybe/badges/downloads.svg)](https://anaconda.org/conda-forge/baybe) |
+| [vasprun-xml](https://anaconda.org/conda-forge/vasprun-xml) | [![conda](https://anaconda.org/conda-forge/vasprun-xml/badges/downloads.svg)](https://anaconda.org/conda-forge/vasprun-xml) |
