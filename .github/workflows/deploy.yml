@@ -13,14 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: conda-incubator/setup-miniconda@v3
+    - uses: actions/setup-python@v5
       with:
-        auto-update-conda: true
-        python-version: "3.12"
+        python-version: '3.12'
     - name: Build
       shell: bash -l {0}
       run: |
-        conda install jinja2 requests pandas
+        pip install jinja2 requests pandas
         python .ci_support/run.py --username ${{ github.actor }} --token ${{ secrets.GH_TOKEN }} --githubrepo ${{ github.repository }} 
         cp .ci_support/readmetemplate.md README.md 
         cat packages.md >> README.md
