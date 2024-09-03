@@ -877,3 +877,4 @@
 | [baybe](https://anaconda.org/conda-forge/baybe) | [![conda](https://anaconda.org/conda-forge/baybe/badges/downloads.svg)](https://anaconda.org/conda-forge/baybe) |
 | [vasprun-xml](https://anaconda.org/conda-forge/vasprun-xml) | [![conda](https://anaconda.org/conda-forge/vasprun-xml/badges/downloads.svg)](https://anaconda.org/conda-forge/vasprun-xml) |
 | [python-oxmsg](https://anaconda.org/conda-forge/python-oxmsg) | [![conda](https://anaconda.org/conda-forge/python-oxmsg/badges/downloads.svg)](https://anaconda.org/conda-forge/python-oxmsg) |
+| [matcalc](https://anaconda.org/conda-forge/matcalc) | [![conda](https://anaconda.org/conda-forge/matcalc/badges/downloads.svg)](https://anaconda.org/conda-forge/matcalc) |
