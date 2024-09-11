@@ -879,3 +879,4 @@
 | [python-oxmsg](https://anaconda.org/conda-forge/python-oxmsg) | [![conda](https://anaconda.org/conda-forge/python-oxmsg/badges/downloads.svg)](https://anaconda.org/conda-forge/python-oxmsg) |
 | [matcalc](https://anaconda.org/conda-forge/matcalc) | [![conda](https://anaconda.org/conda-forge/matcalc/badges/downloads.svg)](https://anaconda.org/conda-forge/matcalc) |
 | [mambular](https://anaconda.org/conda-forge/mambular) | [![conda](https://anaconda.org/conda-forge/mambular/badges/downloads.svg)](https://anaconda.org/conda-forge/mambular) |
+| [pyocse](https://anaconda.org/conda-forge/pyocse) | [![conda](https://anaconda.org/conda-forge/pyocse/badges/downloads.svg)](https://anaconda.org/conda-forge/pyocse) |
