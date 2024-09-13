@@ -880,3 +880,4 @@
 | [matcalc](https://anaconda.org/conda-forge/matcalc) | [![conda](https://anaconda.org/conda-forge/matcalc/badges/downloads.svg)](https://anaconda.org/conda-forge/matcalc) |
 | [mambular](https://anaconda.org/conda-forge/mambular) | [![conda](https://anaconda.org/conda-forge/mambular/badges/downloads.svg)](https://anaconda.org/conda-forge/mambular) |
 | [pyocse](https://anaconda.org/conda-forge/pyocse) | [![conda](https://anaconda.org/conda-forge/pyocse/badges/downloads.svg)](https://anaconda.org/conda-forge/pyocse) |
+| [fhaviary](https://anaconda.org/conda-forge/fhaviary) | [![conda](https://anaconda.org/conda-forge/fhaviary/badges/downloads.svg)](https://anaconda.org/conda-forge/fhaviary) |
