@@ -704,6 +704,7 @@
 | [lancedb](https://anaconda.org/conda-forge/lancedb) | [![conda](https://anaconda.org/conda-forge/lancedb/badges/downloads.svg)](https://anaconda.org/conda-forge/lancedb) |
 | [kg4vasp](https://anaconda.org/conda-forge/kg4vasp) | [![conda](https://anaconda.org/conda-forge/kg4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/kg4vasp) |
 | [sherlock-lib](https://anaconda.org/conda-forge/sherlock-lib) | [![conda](https://anaconda.org/conda-forge/sherlock-lib/badges/downloads.svg)](https://anaconda.org/conda-forge/sherlock-lib) |
+| [langchain-text-splitters](https://anaconda.org/conda-forge/langchain-text-splitters) | [![conda](https://anaconda.org/conda-forge/langchain-text-splitters/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-text-splitters) |
 | [pytorch-minimize](https://anaconda.org/conda-forge/pytorch-minimize) | [![conda](https://anaconda.org/conda-forge/pytorch-minimize/badges/downloads.svg)](https://anaconda.org/conda-forge/pytorch-minimize) |
 | [joserfc](https://anaconda.org/conda-forge/joserfc) | [![conda](https://anaconda.org/conda-forge/joserfc/badges/downloads.svg)](https://anaconda.org/conda-forge/joserfc) |
 | [pydpc](https://anaconda.org/conda-forge/pydpc) | [![conda](https://anaconda.org/conda-forge/pydpc/badges/downloads.svg)](https://anaconda.org/conda-forge/pydpc) |
