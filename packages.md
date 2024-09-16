@@ -687,6 +687,7 @@
 | [chgnet](https://anaconda.org/conda-forge/chgnet) | [![conda](https://anaconda.org/conda-forge/chgnet/badges/downloads.svg)](https://anaconda.org/conda-forge/chgnet) |
 | [parallel-numpy-rng](https://anaconda.org/conda-forge/parallel-numpy-rng) | [![conda](https://anaconda.org/conda-forge/parallel-numpy-rng/badges/downloads.svg)](https://anaconda.org/conda-forge/parallel-numpy-rng) |
 | [wannier90io](https://anaconda.org/conda-forge/wannier90io) | [![conda](https://anaconda.org/conda-forge/wannier90io/badges/downloads.svg)](https://anaconda.org/conda-forge/wannier90io) |
+| [langchain-core](https://anaconda.org/conda-forge/langchain-core) | [![conda](https://anaconda.org/conda-forge/langchain-core/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-core) |
 | [langchain-community](https://anaconda.org/conda-forge/langchain-community) | [![conda](https://anaconda.org/conda-forge/langchain-community/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-community) |
 | [matgl](https://anaconda.org/conda-forge/matgl) | [![conda](https://anaconda.org/conda-forge/matgl/badges/downloads.svg)](https://anaconda.org/conda-forge/matgl) |
 | [h5io_browser](https://anaconda.org/conda-forge/h5io_browser) | [![conda](https://anaconda.org/conda-forge/h5io_browser/badges/downloads.svg)](https://anaconda.org/conda-forge/h5io_browser) |
@@ -715,6 +716,7 @@
 | [pysmartdl2](https://anaconda.org/conda-forge/pysmartdl2) | [![conda](https://anaconda.org/conda-forge/pysmartdl2/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl2) |
 | [memoir](https://anaconda.org/conda-forge/memoir) | [![conda](https://anaconda.org/conda-forge/memoir/badges/downloads.svg)](https://anaconda.org/conda-forge/memoir) |
 | [jarvis-leaderboard](https://anaconda.org/conda-forge/jarvis-leaderboard) | [![conda](https://anaconda.org/conda-forge/jarvis-leaderboard/badges/downloads.svg)](https://anaconda.org/conda-forge/jarvis-leaderboard) |
+| [langchain-openai](https://anaconda.org/conda-forge/langchain-openai) | [![conda](https://anaconda.org/conda-forge/langchain-openai/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-openai) |
 | [python-sscha](https://anaconda.org/conda-forge/python-sscha) | [![conda](https://anaconda.org/conda-forge/python-sscha/badges/downloads.svg)](https://anaconda.org/conda-forge/python-sscha) |
 | [cellconstructor](https://anaconda.org/conda-forge/cellconstructor) | [![conda](https://anaconda.org/conda-forge/cellconstructor/badges/downloads.svg)](https://anaconda.org/conda-forge/cellconstructor) |
 | [tdscha](https://anaconda.org/conda-forge/tdscha) | [![conda](https://anaconda.org/conda-forge/tdscha/badges/downloads.svg)](https://anaconda.org/conda-forge/tdscha) |
