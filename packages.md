@@ -885,3 +885,6 @@
 | [pyocse](https://anaconda.org/conda-forge/pyocse) | [![conda](https://anaconda.org/conda-forge/pyocse/badges/downloads.svg)](https://anaconda.org/conda-forge/pyocse) |
 | [fhaviary](https://anaconda.org/conda-forge/fhaviary) | [![conda](https://anaconda.org/conda-forge/fhaviary/badges/downloads.svg)](https://anaconda.org/conda-forge/fhaviary) |
 | [tantivy](https://anaconda.org/conda-forge/tantivy) | [![conda](https://anaconda.org/conda-forge/tantivy/badges/downloads.svg)](https://anaconda.org/conda-forge/tantivy) |
+| [arxiv2bib](https://anaconda.org/conda-forge/arxiv2bib) | [![conda](https://anaconda.org/conda-forge/arxiv2bib/badges/downloads.svg)](https://anaconda.org/conda-forge/arxiv2bib) |
+| [papis](https://anaconda.org/conda-forge/papis) | [![conda](https://anaconda.org/conda-forge/papis/badges/downloads.svg)](https://anaconda.org/conda-forge/papis) |
+| [python-doi](https://anaconda.org/conda-forge/python-doi) | [![conda](https://anaconda.org/conda-forge/python-doi/badges/downloads.svg)](https://anaconda.org/conda-forge/python-doi) |
