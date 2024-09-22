@@ -78,6 +78,7 @@
 | [google-auth-oauthlib](https://anaconda.org/conda-forge/google-auth-oauthlib) | [![conda](https://anaconda.org/conda-forge/google-auth-oauthlib/badges/downloads.svg)](https://anaconda.org/conda-forge/google-auth-oauthlib) |
 | [dicttoxml](https://anaconda.org/conda-forge/dicttoxml) | [![conda](https://anaconda.org/conda-forge/dicttoxml/badges/downloads.svg)](https://anaconda.org/conda-forge/dicttoxml) |
 | [moto](https://anaconda.org/conda-forge/moto) | [![conda](https://anaconda.org/conda-forge/moto/badges/downloads.svg)](https://anaconda.org/conda-forge/moto) |
+| [neomodel](https://anaconda.org/conda-forge/neomodel) | [![conda](https://anaconda.org/conda-forge/neomodel/badges/downloads.svg)](https://anaconda.org/conda-forge/neomodel) |
 | [pyperclip](https://anaconda.org/conda-forge/pyperclip) | [![conda](https://anaconda.org/conda-forge/pyperclip/badges/downloads.svg)](https://anaconda.org/conda-forge/pyperclip) |
 | [furl](https://anaconda.org/conda-forge/furl) | [![conda](https://anaconda.org/conda-forge/furl/badges/downloads.svg)](https://anaconda.org/conda-forge/furl) |
 | [pyside2](https://anaconda.org/conda-forge/pyside2) | [![conda](https://anaconda.org/conda-forge/pyside2/badges/downloads.svg)](https://anaconda.org/conda-forge/pyside2) |
