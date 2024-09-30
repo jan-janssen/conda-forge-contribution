@@ -912,3 +912,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [python-doi](https://anaconda.org/conda-forge/python-doi) | [![conda](https://anaconda.org/conda-forge/python-doi/badges/downloads.svg)](https://anaconda.org/conda-forge/python-doi) |
 | [pybliometrics](https://anaconda.org/conda-forge/pybliometrics) | [![conda](https://anaconda.org/conda-forge/pybliometrics/badges/downloads.svg)](https://anaconda.org/conda-forge/pybliometrics) |
 | [knowledge-graph-maker](https://anaconda.org/conda-forge/knowledge-graph-maker) | [![conda](https://anaconda.org/conda-forge/knowledge-graph-maker/badges/downloads.svg)](https://anaconda.org/conda-forge/knowledge-graph-maker) |
+| [crawl4ai](https://anaconda.org/conda-forge/crawl4ai) | [![conda](https://anaconda.org/conda-forge/crawl4ai/badges/downloads.svg)](https://anaconda.org/conda-forge/crawl4ai) |
