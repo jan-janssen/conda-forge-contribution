@@ -893,3 +893,4 @@
 | [knowledge-graph-maker](https://anaconda.org/conda-forge/knowledge-graph-maker) | [![conda](https://anaconda.org/conda-forge/knowledge-graph-maker/badges/downloads.svg)](https://anaconda.org/conda-forge/knowledge-graph-maker) |
 | [crawl4ai](https://anaconda.org/conda-forge/crawl4ai) | [![conda](https://anaconda.org/conda-forge/crawl4ai/badges/downloads.svg)](https://anaconda.org/conda-forge/crawl4ai) |
 | [pyiron_dataclasses](https://anaconda.org/conda-forge/pyiron_dataclasses) | [![conda](https://anaconda.org/conda-forge/pyiron_dataclasses/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_dataclasses) |
+| [coredis](https://anaconda.org/conda-forge/coredis) | [![conda](https://anaconda.org/conda-forge/coredis/badges/downloads.svg)](https://anaconda.org/conda-forge/coredis) |
