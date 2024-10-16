@@ -894,3 +894,4 @@
 | [crawl4ai](https://anaconda.org/conda-forge/crawl4ai) | [![conda](https://anaconda.org/conda-forge/crawl4ai/badges/downloads.svg)](https://anaconda.org/conda-forge/crawl4ai) |
 | [pyiron_dataclasses](https://anaconda.org/conda-forge/pyiron_dataclasses) | [![conda](https://anaconda.org/conda-forge/pyiron_dataclasses/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_dataclasses) |
 | [coredis](https://anaconda.org/conda-forge/coredis) | [![conda](https://anaconda.org/conda-forge/coredis/badges/downloads.svg)](https://anaconda.org/conda-forge/coredis) |
+| [langgraph-sdk](https://anaconda.org/conda-forge/langgraph-sdk) | [![conda](https://anaconda.org/conda-forge/langgraph-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-sdk) |
