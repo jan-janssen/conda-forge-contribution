@@ -475,6 +475,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [astromodels](https://anaconda.org/conda-forge/astromodels) | [![conda](https://anaconda.org/conda-forge/astromodels/badges/downloads.svg)](https://anaconda.org/conda-forge/astromodels) |
 | [gromacs](https://anaconda.org/conda-forge/gromacs) | [![conda](https://anaconda.org/conda-forge/gromacs/badges/downloads.svg)](https://anaconda.org/conda-forge/gromacs) |
 | [moltemplate](https://anaconda.org/conda-forge/moltemplate) | [![conda](https://anaconda.org/conda-forge/moltemplate/badges/downloads.svg)](https://anaconda.org/conda-forge/moltemplate) |
+| [enum_tools](https://anaconda.org/conda-forge/enum_tools) | [![conda](https://anaconda.org/conda-forge/enum_tools/badges/downloads.svg)](https://anaconda.org/conda-forge/enum_tools) |
 | [qforce](https://anaconda.org/conda-forge/qforce) | [![conda](https://anaconda.org/conda-forge/qforce/badges/downloads.svg)](https://anaconda.org/conda-forge/qforce) |
 | [blueqat](https://anaconda.org/conda-forge/blueqat) | [![conda](https://anaconda.org/conda-forge/blueqat/badges/downloads.svg)](https://anaconda.org/conda-forge/blueqat) |
 | [pycolt](https://anaconda.org/conda-forge/pycolt) | [![conda](https://anaconda.org/conda-forge/pycolt/badges/downloads.svg)](https://anaconda.org/conda-forge/pycolt) |
@@ -916,3 +917,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyiron_dataclasses](https://anaconda.org/conda-forge/pyiron_dataclasses) | [![conda](https://anaconda.org/conda-forge/pyiron_dataclasses/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_dataclasses) |
 | [coredis](https://anaconda.org/conda-forge/coredis) | [![conda](https://anaconda.org/conda-forge/coredis/badges/downloads.svg)](https://anaconda.org/conda-forge/coredis) |
 | [langgraph-sdk](https://anaconda.org/conda-forge/langgraph-sdk) | [![conda](https://anaconda.org/conda-forge/langgraph-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-sdk) |
+| [torch-dftd](https://anaconda.org/conda-forge/torch-dftd) | [![conda](https://anaconda.org/conda-forge/torch-dftd/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-dftd) |
+| [lightrag-hku](https://anaconda.org/conda-forge/lightrag-hku) | [![conda](https://anaconda.org/conda-forge/lightrag-hku/badges/downloads.svg)](https://anaconda.org/conda-forge/lightrag-hku) |
+| [nano-vectordb](https://anaconda.org/conda-forge/nano-vectordb) | [![conda](https://anaconda.org/conda-forge/nano-vectordb/badges/downloads.svg)](https://anaconda.org/conda-forge/nano-vectordb) |
