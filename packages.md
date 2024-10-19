@@ -899,3 +899,5 @@
 | [torch-dftd](https://anaconda.org/conda-forge/torch-dftd) | [![conda](https://anaconda.org/conda-forge/torch-dftd/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-dftd) |
 | [lightrag-hku](https://anaconda.org/conda-forge/lightrag-hku) | [![conda](https://anaconda.org/conda-forge/lightrag-hku/badges/downloads.svg)](https://anaconda.org/conda-forge/lightrag-hku) |
 | [nano-vectordb](https://anaconda.org/conda-forge/nano-vectordb) | [![conda](https://anaconda.org/conda-forge/nano-vectordb/badges/downloads.svg)](https://anaconda.org/conda-forge/nano-vectordb) |
+| [playwright-stealth](https://anaconda.org/conda-forge/playwright-stealth) | [![conda](https://anaconda.org/conda-forge/playwright-stealth/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright-stealth) |
+| [pyironflow](https://anaconda.org/conda-forge/pyironflow) | [![conda](https://anaconda.org/conda-forge/pyironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyironflow) |
