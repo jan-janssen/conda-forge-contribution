@@ -901,3 +901,4 @@
 | [nano-vectordb](https://anaconda.org/conda-forge/nano-vectordb) | [![conda](https://anaconda.org/conda-forge/nano-vectordb/badges/downloads.svg)](https://anaconda.org/conda-forge/nano-vectordb) |
 | [playwright-stealth](https://anaconda.org/conda-forge/playwright-stealth) | [![conda](https://anaconda.org/conda-forge/playwright-stealth/badges/downloads.svg)](https://anaconda.org/conda-forge/playwright-stealth) |
 | [pyironflow](https://anaconda.org/conda-forge/pyironflow) | [![conda](https://anaconda.org/conda-forge/pyironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyironflow) |
+| [nebula3-python](https://anaconda.org/conda-forge/nebula3-python) | [![conda](https://anaconda.org/conda-forge/nebula3-python/badges/downloads.svg)](https://anaconda.org/conda-forge/nebula3-python) |
