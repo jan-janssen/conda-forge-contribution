@@ -924,3 +924,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyironflow](https://anaconda.org/conda-forge/pyironflow) | [![conda](https://anaconda.org/conda-forge/pyironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyironflow) |
 | [nebula3-python](https://anaconda.org/conda-forge/nebula3-python) | [![conda](https://anaconda.org/conda-forge/nebula3-python/badges/downloads.svg)](https://anaconda.org/conda-forge/nebula3-python) |
 | [sevenn](https://anaconda.org/conda-forge/sevenn) | [![conda](https://anaconda.org/conda-forge/sevenn/badges/downloads.svg)](https://anaconda.org/conda-forge/sevenn) |
+| [fairchem-core](https://anaconda.org/conda-forge/fairchem-core) | [![conda](https://anaconda.org/conda-forge/fairchem-core/badges/downloads.svg)](https://anaconda.org/conda-forge/fairchem-core) |
