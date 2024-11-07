@@ -905,3 +905,4 @@
 | [sevenn](https://anaconda.org/conda-forge/sevenn) | [![conda](https://anaconda.org/conda-forge/sevenn/badges/downloads.svg)](https://anaconda.org/conda-forge/sevenn) |
 | [fairchem-core](https://anaconda.org/conda-forge/fairchem-core) | [![conda](https://anaconda.org/conda-forge/fairchem-core/badges/downloads.svg)](https://anaconda.org/conda-forge/fairchem-core) |
 | [aiida-shell](https://anaconda.org/conda-forge/aiida-shell) | [![conda](https://anaconda.org/conda-forge/aiida-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-shell) |
+| [factur-x](https://anaconda.org/conda-forge/factur-x) | [![conda](https://anaconda.org/conda-forge/factur-x/badges/downloads.svg)](https://anaconda.org/conda-forge/factur-x) |
