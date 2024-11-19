@@ -723,7 +723,9 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [uravu](https://anaconda.org/conda-forge/uravu) | [![conda](https://anaconda.org/conda-forge/uravu/badges/downloads.svg)](https://anaconda.org/conda-forge/uravu) |
 | [kinisi](https://anaconda.org/conda-forge/kinisi) | [![conda](https://anaconda.org/conda-forge/kinisi/badges/downloads.svg)](https://anaconda.org/conda-forge/kinisi) |
 | [runnerase](https://anaconda.org/conda-forge/runnerase) | [![conda](https://anaconda.org/conda-forge/runnerase/badges/downloads.svg)](https://anaconda.org/conda-forge/runnerase) |
+| [llama-index-llms-openai](https://anaconda.org/conda-forge/llama-index-llms-openai) | [![conda](https://anaconda.org/conda-forge/llama-index-llms-openai/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-llms-openai) |
 | [llama-index-core](https://anaconda.org/conda-forge/llama-index-core) | [![conda](https://anaconda.org/conda-forge/llama-index-core/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-core) |
+| [llama-index-embeddings-openai](https://anaconda.org/conda-forge/llama-index-embeddings-openai) | [![conda](https://anaconda.org/conda-forge/llama-index-embeddings-openai/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-embeddings-openai) |
 | [uf3](https://anaconda.org/conda-forge/uf3) | [![conda](https://anaconda.org/conda-forge/uf3/badges/downloads.svg)](https://anaconda.org/conda-forge/uf3) |
 | [lancedb](https://anaconda.org/conda-forge/lancedb) | [![conda](https://anaconda.org/conda-forge/lancedb/badges/downloads.svg)](https://anaconda.org/conda-forge/lancedb) |
 | [kg4vasp](https://anaconda.org/conda-forge/kg4vasp) | [![conda](https://anaconda.org/conda-forge/kg4vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/kg4vasp) |
@@ -927,3 +929,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [fairchem-core](https://anaconda.org/conda-forge/fairchem-core) | [![conda](https://anaconda.org/conda-forge/fairchem-core/badges/downloads.svg)](https://anaconda.org/conda-forge/fairchem-core) |
 | [aiida-shell](https://anaconda.org/conda-forge/aiida-shell) | [![conda](https://anaconda.org/conda-forge/aiida-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-shell) |
 | [factur-x](https://anaconda.org/conda-forge/factur-x) | [![conda](https://anaconda.org/conda-forge/factur-x/badges/downloads.svg)](https://anaconda.org/conda-forge/factur-x) |
+| [atomai](https://anaconda.org/conda-forge/atomai) | [![conda](https://anaconda.org/conda-forge/atomai/badges/downloads.svg)](https://anaconda.org/conda-forge/atomai) |
