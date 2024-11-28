@@ -934,3 +934,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [aiida-shell](https://anaconda.org/conda-forge/aiida-shell) | [![conda](https://anaconda.org/conda-forge/aiida-shell/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-shell) |
 | [factur-x](https://anaconda.org/conda-forge/factur-x) | [![conda](https://anaconda.org/conda-forge/factur-x/badges/downloads.svg)](https://anaconda.org/conda-forge/factur-x) |
 | [atomai](https://anaconda.org/conda-forge/atomai) | [![conda](https://anaconda.org/conda-forge/atomai/badges/downloads.svg)](https://anaconda.org/conda-forge/atomai) |
+| [node-graph](https://anaconda.org/conda-forge/node-graph) | [![conda](https://anaconda.org/conda-forge/node-graph/badges/downloads.svg)](https://anaconda.org/conda-forge/node-graph) |
+| [aiida-workgraph](https://anaconda.org/conda-forge/aiida-workgraph) | [![conda](https://anaconda.org/conda-forge/aiida-workgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-workgraph) |
