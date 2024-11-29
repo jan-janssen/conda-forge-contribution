@@ -936,3 +936,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [atomai](https://anaconda.org/conda-forge/atomai) | [![conda](https://anaconda.org/conda-forge/atomai/badges/downloads.svg)](https://anaconda.org/conda-forge/atomai) |
 | [node-graph](https://anaconda.org/conda-forge/node-graph) | [![conda](https://anaconda.org/conda-forge/node-graph/badges/downloads.svg)](https://anaconda.org/conda-forge/node-graph) |
 | [aiida-workgraph](https://anaconda.org/conda-forge/aiida-workgraph) | [![conda](https://anaconda.org/conda-forge/aiida-workgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-workgraph) |
+| [batchgenerators](https://anaconda.org/conda-forge/batchgenerators) | [![conda](https://anaconda.org/conda-forge/batchgenerators/badges/downloads.svg)](https://anaconda.org/conda-forge/batchgenerators) |
+| [nnunet](https://anaconda.org/conda-forge/nnunet) | [![conda](https://anaconda.org/conda-forge/nnunet/badges/downloads.svg)](https://anaconda.org/conda-forge/nnunet) |
