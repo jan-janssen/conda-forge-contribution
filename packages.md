@@ -917,3 +917,8 @@
 | [aiida-workgraph](https://anaconda.org/conda-forge/aiida-workgraph) | [![conda](https://anaconda.org/conda-forge/aiida-workgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-workgraph) |
 | [batchgenerators](https://anaconda.org/conda-forge/batchgenerators) | [![conda](https://anaconda.org/conda-forge/batchgenerators/badges/downloads.svg)](https://anaconda.org/conda-forge/batchgenerators) |
 | [nnunet](https://anaconda.org/conda-forge/nnunet) | [![conda](https://anaconda.org/conda-forge/nnunet/badges/downloads.svg)](https://anaconda.org/conda-forge/nnunet) |
+| [pyroll](https://anaconda.org/conda-forge/pyroll) | [![conda](https://anaconda.org/conda-forge/pyroll/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll) |
+| [pyroll-report](https://anaconda.org/conda-forge/pyroll-report) | [![conda](https://anaconda.org/conda-forge/pyroll-report/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-report) |
+| [pyroll-export](https://anaconda.org/conda-forge/pyroll-export) | [![conda](https://anaconda.org/conda-forge/pyroll-export/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-export) |
+| [pyroll-core](https://anaconda.org/conda-forge/pyroll-core) | [![conda](https://anaconda.org/conda-forge/pyroll-core/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-core) |
+| [pyroll-cli](https://anaconda.org/conda-forge/pyroll-cli) | [![conda](https://anaconda.org/conda-forge/pyroll-cli/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-cli) |
