@@ -922,3 +922,4 @@
 | [pyroll-export](https://anaconda.org/conda-forge/pyroll-export) | [![conda](https://anaconda.org/conda-forge/pyroll-export/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-export) |
 | [pyroll-core](https://anaconda.org/conda-forge/pyroll-core) | [![conda](https://anaconda.org/conda-forge/pyroll-core/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-core) |
 | [pyroll-cli](https://anaconda.org/conda-forge/pyroll-cli) | [![conda](https://anaconda.org/conda-forge/pyroll-cli/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-cli) |
+| [popsregression](https://anaconda.org/conda-forge/popsregression) | [![conda](https://anaconda.org/conda-forge/popsregression/badges/downloads.svg)](https://anaconda.org/conda-forge/popsregression) |
