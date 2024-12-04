@@ -944,3 +944,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyroll-core](https://anaconda.org/conda-forge/pyroll-core) | [![conda](https://anaconda.org/conda-forge/pyroll-core/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-core) |
 | [pyroll-cli](https://anaconda.org/conda-forge/pyroll-cli) | [![conda](https://anaconda.org/conda-forge/pyroll-cli/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-cli) |
 | [popsregression](https://anaconda.org/conda-forge/popsregression) | [![conda](https://anaconda.org/conda-forge/popsregression/badges/downloads.svg)](https://anaconda.org/conda-forge/popsregression) |
+| [aiida-pythonjob](https://anaconda.org/conda-forge/aiida-pythonjob) | [![conda](https://anaconda.org/conda-forge/aiida-pythonjob/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-pythonjob) |
