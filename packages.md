@@ -924,3 +924,5 @@
 | [pyroll-cli](https://anaconda.org/conda-forge/pyroll-cli) | [![conda](https://anaconda.org/conda-forge/pyroll-cli/badges/downloads.svg)](https://anaconda.org/conda-forge/pyroll-cli) |
 | [popsregression](https://anaconda.org/conda-forge/popsregression) | [![conda](https://anaconda.org/conda-forge/popsregression/badges/downloads.svg)](https://anaconda.org/conda-forge/popsregression) |
 | [aiida-pythonjob](https://anaconda.org/conda-forge/aiida-pythonjob) | [![conda](https://anaconda.org/conda-forge/aiida-pythonjob/badges/downloads.svg)](https://anaconda.org/conda-forge/aiida-pythonjob) |
+| [node-graph-widget](https://anaconda.org/conda-forge/node-graph-widget) | [![conda](https://anaconda.org/conda-forge/node-graph-widget/badges/downloads.svg)](https://anaconda.org/conda-forge/node-graph-widget) |
+| [batchgeneratorsv2](https://anaconda.org/conda-forge/batchgeneratorsv2) | [![conda](https://anaconda.org/conda-forge/batchgeneratorsv2/badges/downloads.svg)](https://anaconda.org/conda-forge/batchgeneratorsv2) |
