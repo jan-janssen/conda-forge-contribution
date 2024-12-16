@@ -110,6 +110,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [dotmap](https://anaconda.org/conda-forge/dotmap) | [![conda](https://anaconda.org/conda-forge/dotmap/badges/downloads.svg)](https://anaconda.org/conda-forge/dotmap) |
 | [plac](https://anaconda.org/conda-forge/plac) | [![conda](https://anaconda.org/conda-forge/plac/badges/downloads.svg)](https://anaconda.org/conda-forge/plac) |
 | [pyepics](https://anaconda.org/conda-forge/pyepics) | [![conda](https://anaconda.org/conda-forge/pyepics/badges/downloads.svg)](https://anaconda.org/conda-forge/pyepics) |
+| [speclite](https://anaconda.org/conda-forge/speclite) | [![conda](https://anaconda.org/conda-forge/speclite/badges/downloads.svg)](https://anaconda.org/conda-forge/speclite) |
 | [aenum](https://anaconda.org/conda-forge/aenum) | [![conda](https://anaconda.org/conda-forge/aenum/badges/downloads.svg)](https://anaconda.org/conda-forge/aenum) |
 | [scrypt](https://anaconda.org/conda-forge/scrypt) | [![conda](https://anaconda.org/conda-forge/scrypt/badges/downloads.svg)](https://anaconda.org/conda-forge/scrypt) |
 | [siesta](https://anaconda.org/conda-forge/siesta) | [![conda](https://anaconda.org/conda-forge/siesta/badges/downloads.svg)](https://anaconda.org/conda-forge/siesta) |
