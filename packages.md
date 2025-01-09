@@ -48,6 +48,7 @@
 | [flask-migrate](https://anaconda.org/conda-forge/flask-migrate) | [![conda](https://anaconda.org/conda-forge/flask-migrate/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-migrate) |
 | [fenics](https://anaconda.org/conda-forge/fenics) | [![conda](https://anaconda.org/conda-forge/fenics/badges/downloads.svg)](https://anaconda.org/conda-forge/fenics) |
 | [petsc](https://anaconda.org/conda-forge/petsc) | [![conda](https://anaconda.org/conda-forge/petsc/badges/downloads.svg)](https://anaconda.org/conda-forge/petsc) |
+| [ase](https://anaconda.org/conda-forge/ase) | [![conda](https://anaconda.org/conda-forge/ase/badges/downloads.svg)](https://anaconda.org/conda-forge/ase) |
 | [phonopy](https://anaconda.org/conda-forge/phonopy) | [![conda](https://anaconda.org/conda-forge/phonopy/badges/downloads.svg)](https://anaconda.org/conda-forge/phonopy) |
 | [monty](https://anaconda.org/conda-forge/monty) | [![conda](https://anaconda.org/conda-forge/monty/badges/downloads.svg)](https://anaconda.org/conda-forge/monty) |
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
