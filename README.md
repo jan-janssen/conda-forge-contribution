@@ -952,3 +952,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pygt](https://anaconda.org/conda-forge/pygt) | [![conda](https://anaconda.org/conda-forge/pygt/badges/downloads.svg)](https://anaconda.org/conda-forge/pygt) |
 | [pafi](https://anaconda.org/conda-forge/pafi) | [![conda](https://anaconda.org/conda-forge/pafi/badges/downloads.svg)](https://anaconda.org/conda-forge/pafi) |
 | [ndjson](https://anaconda.org/conda-forge/ndjson) | [![conda](https://anaconda.org/conda-forge/ndjson/badges/downloads.svg)](https://anaconda.org/conda-forge/ndjson) |
+| [fh-llm-client](https://anaconda.org/conda-forge/fh-llm-client) | [![conda](https://anaconda.org/conda-forge/fh-llm-client/badges/downloads.svg)](https://anaconda.org/conda-forge/fh-llm-client) |
