@@ -932,3 +932,4 @@
 | [pafi](https://anaconda.org/conda-forge/pafi) | [![conda](https://anaconda.org/conda-forge/pafi/badges/downloads.svg)](https://anaconda.org/conda-forge/pafi) |
 | [ndjson](https://anaconda.org/conda-forge/ndjson) | [![conda](https://anaconda.org/conda-forge/ndjson/badges/downloads.svg)](https://anaconda.org/conda-forge/ndjson) |
 | [fh-llm-client](https://anaconda.org/conda-forge/fh-llm-client) | [![conda](https://anaconda.org/conda-forge/fh-llm-client/badges/downloads.svg)](https://anaconda.org/conda-forge/fh-llm-client) |
+| [variconfig](https://anaconda.org/conda-forge/variconfig) | [![conda](https://anaconda.org/conda-forge/variconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/variconfig) |
