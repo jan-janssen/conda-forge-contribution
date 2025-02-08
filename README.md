@@ -956,3 +956,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [variconfig](https://anaconda.org/conda-forge/variconfig) | [![conda](https://anaconda.org/conda-forge/variconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/variconfig) |
 | [notebook_intelligence](https://anaconda.org/conda-forge/notebook_intelligence) | [![conda](https://anaconda.org/conda-forge/notebook_intelligence/badges/downloads.svg)](https://anaconda.org/conda-forge/notebook_intelligence) |
 | [fuzy-jon](https://anaconda.org/conda-forge/fuzy-jon) | [![conda](https://anaconda.org/conda-forge/fuzy-jon/badges/downloads.svg)](https://anaconda.org/conda-forge/fuzy-jon) |
+| [llama-cloud-services](https://anaconda.org/conda-forge/llama-cloud-services) | [![conda](https://anaconda.org/conda-forge/llama-cloud-services/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-cloud-services) |
