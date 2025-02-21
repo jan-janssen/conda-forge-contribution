@@ -957,3 +957,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [notebook_intelligence](https://anaconda.org/conda-forge/notebook_intelligence) | [![conda](https://anaconda.org/conda-forge/notebook_intelligence/badges/downloads.svg)](https://anaconda.org/conda-forge/notebook_intelligence) |
 | [fuzy-jon](https://anaconda.org/conda-forge/fuzy-jon) | [![conda](https://anaconda.org/conda-forge/fuzy-jon/badges/downloads.svg)](https://anaconda.org/conda-forge/fuzy-jon) |
 | [llama-cloud-services](https://anaconda.org/conda-forge/llama-cloud-services) | [![conda](https://anaconda.org/conda-forge/llama-cloud-services/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-cloud-services) |
+| [znflow](https://anaconda.org/conda-forge/znflow) | [![conda](https://anaconda.org/conda-forge/znflow/badges/downloads.svg)](https://anaconda.org/conda-forge/znflow) |
+| [znsocket](https://anaconda.org/conda-forge/znsocket) | [![conda](https://anaconda.org/conda-forge/znsocket/badges/downloads.svg)](https://anaconda.org/conda-forge/znsocket) |
+| [znfields](https://anaconda.org/conda-forge/znfields) | [![conda](https://anaconda.org/conda-forge/znfields/badges/downloads.svg)](https://anaconda.org/conda-forge/znfields) |
+| [znjson](https://anaconda.org/conda-forge/znjson) | [![conda](https://anaconda.org/conda-forge/znjson/badges/downloads.svg)](https://anaconda.org/conda-forge/znjson) |
+| [splines](https://anaconda.org/conda-forge/splines) | [![conda](https://anaconda.org/conda-forge/splines/badges/downloads.svg)](https://anaconda.org/conda-forge/splines) |
