@@ -962,3 +962,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [znfields](https://anaconda.org/conda-forge/znfields) | [![conda](https://anaconda.org/conda-forge/znfields/badges/downloads.svg)](https://anaconda.org/conda-forge/znfields) |
 | [znjson](https://anaconda.org/conda-forge/znjson) | [![conda](https://anaconda.org/conda-forge/znjson/badges/downloads.svg)](https://anaconda.org/conda-forge/znjson) |
 | [splines](https://anaconda.org/conda-forge/splines) | [![conda](https://anaconda.org/conda-forge/splines/badges/downloads.svg)](https://anaconda.org/conda-forge/splines) |
+| [zndraw](https://anaconda.org/conda-forge/zndraw) | [![conda](https://anaconda.org/conda-forge/zndraw/badges/downloads.svg)](https://anaconda.org/conda-forge/zndraw) |
+| [zntrack](https://anaconda.org/conda-forge/zntrack) | [![conda](https://anaconda.org/conda-forge/zntrack/badges/downloads.svg)](https://anaconda.org/conda-forge/zntrack) |
