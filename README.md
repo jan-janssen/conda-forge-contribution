@@ -43,6 +43,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [f90wrap](https://anaconda.org/conda-forge/f90wrap) | [![conda](https://anaconda.org/conda-forge/f90wrap/badges/downloads.svg)](https://anaconda.org/conda-forge/f90wrap) |
 | [speechrecognition](https://anaconda.org/conda-forge/speechrecognition) | [![conda](https://anaconda.org/conda-forge/speechrecognition/badges/downloads.svg)](https://anaconda.org/conda-forge/speechrecognition) |
 | [qds-sdk](https://anaconda.org/conda-forge/qds-sdk) | [![conda](https://anaconda.org/conda-forge/qds-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/qds-sdk) |
+| [eventlet](https://anaconda.org/conda-forge/eventlet) | [![conda](https://anaconda.org/conda-forge/eventlet/badges/downloads.svg)](https://anaconda.org/conda-forge/eventlet) |
 | [nltk](https://anaconda.org/conda-forge/nltk) | [![conda](https://anaconda.org/conda-forge/nltk/badges/downloads.svg)](https://anaconda.org/conda-forge/nltk) |
 | [cement](https://anaconda.org/conda-forge/cement) | [![conda](https://anaconda.org/conda-forge/cement/badges/downloads.svg)](https://anaconda.org/conda-forge/cement) |
 | [tldextract](https://anaconda.org/conda-forge/tldextract) | [![conda](https://anaconda.org/conda-forge/tldextract/badges/downloads.svg)](https://anaconda.org/conda-forge/tldextract) |
@@ -61,6 +62,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [zodbpickle](https://anaconda.org/conda-forge/zodbpickle) | [![conda](https://anaconda.org/conda-forge/zodbpickle/badges/downloads.svg)](https://anaconda.org/conda-forge/zodbpickle) |
 | [dominate](https://anaconda.org/conda-forge/dominate) | [![conda](https://anaconda.org/conda-forge/dominate/badges/downloads.svg)](https://anaconda.org/conda-forge/dominate) |
 | [flask-debugtoolbar](https://anaconda.org/conda-forge/flask-debugtoolbar) | [![conda](https://anaconda.org/conda-forge/flask-debugtoolbar/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-debugtoolbar) |
+| [flask-socketio](https://anaconda.org/conda-forge/flask-socketio) | [![conda](https://anaconda.org/conda-forge/flask-socketio/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-socketio) |
 | [msg-extractor](https://anaconda.org/conda-forge/msg-extractor) | [![conda](https://anaconda.org/conda-forge/msg-extractor/badges/downloads.svg)](https://anaconda.org/conda-forge/msg-extractor) |
 | [flask-flatpages](https://anaconda.org/conda-forge/flask-flatpages) | [![conda](https://anaconda.org/conda-forge/flask-flatpages/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-flatpages) |
 | [textract](https://anaconda.org/conda-forge/textract) | [![conda](https://anaconda.org/conda-forge/textract/badges/downloads.svg)](https://anaconda.org/conda-forge/textract) |
@@ -964,3 +966,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [splines](https://anaconda.org/conda-forge/splines) | [![conda](https://anaconda.org/conda-forge/splines/badges/downloads.svg)](https://anaconda.org/conda-forge/splines) |
 | [zndraw](https://anaconda.org/conda-forge/zndraw) | [![conda](https://anaconda.org/conda-forge/zndraw/badges/downloads.svg)](https://anaconda.org/conda-forge/zndraw) |
 | [zntrack](https://anaconda.org/conda-forge/zntrack) | [![conda](https://anaconda.org/conda-forge/zntrack/badges/downloads.svg)](https://anaconda.org/conda-forge/zntrack) |
+| [znh5md](https://anaconda.org/conda-forge/znh5md) | [![conda](https://anaconda.org/conda-forge/znh5md/badges/downloads.svg)](https://anaconda.org/conda-forge/znh5md) |
