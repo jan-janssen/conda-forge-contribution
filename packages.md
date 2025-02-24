@@ -946,3 +946,4 @@
 | [zndraw](https://anaconda.org/conda-forge/zndraw) | [![conda](https://anaconda.org/conda-forge/zndraw/badges/downloads.svg)](https://anaconda.org/conda-forge/zndraw) |
 | [zntrack](https://anaconda.org/conda-forge/zntrack) | [![conda](https://anaconda.org/conda-forge/zntrack/badges/downloads.svg)](https://anaconda.org/conda-forge/zntrack) |
 | [znh5md](https://anaconda.org/conda-forge/znh5md) | [![conda](https://anaconda.org/conda-forge/znh5md/badges/downloads.svg)](https://anaconda.org/conda-forge/znh5md) |
+| [fhlmi](https://anaconda.org/conda-forge/fhlmi) | [![conda](https://anaconda.org/conda-forge/fhlmi/badges/downloads.svg)](https://anaconda.org/conda-forge/fhlmi) |
