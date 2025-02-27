@@ -953,6 +953,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [batchgeneratorsv2](https://anaconda.org/conda-forge/batchgeneratorsv2) | [![conda](https://anaconda.org/conda-forge/batchgeneratorsv2/badges/downloads.svg)](https://anaconda.org/conda-forge/batchgeneratorsv2) |
 | [pygt](https://anaconda.org/conda-forge/pygt) | [![conda](https://anaconda.org/conda-forge/pygt/badges/downloads.svg)](https://anaconda.org/conda-forge/pygt) |
 | [pafi](https://anaconda.org/conda-forge/pafi) | [![conda](https://anaconda.org/conda-forge/pafi/badges/downloads.svg)](https://anaconda.org/conda-forge/pafi) |
+| [sphinx_parser](https://anaconda.org/conda-forge/sphinx_parser) | [![conda](https://anaconda.org/conda-forge/sphinx_parser/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx_parser) |
 | [ndjson](https://anaconda.org/conda-forge/ndjson) | [![conda](https://anaconda.org/conda-forge/ndjson/badges/downloads.svg)](https://anaconda.org/conda-forge/ndjson) |
 | [fh-llm-client](https://anaconda.org/conda-forge/fh-llm-client) | [![conda](https://anaconda.org/conda-forge/fh-llm-client/badges/downloads.svg)](https://anaconda.org/conda-forge/fh-llm-client) |
 | [variconfig](https://anaconda.org/conda-forge/variconfig) | [![conda](https://anaconda.org/conda-forge/variconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/variconfig) |
@@ -970,3 +971,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [fhlmi](https://anaconda.org/conda-forge/fhlmi) | [![conda](https://anaconda.org/conda-forge/fhlmi/badges/downloads.svg)](https://anaconda.org/conda-forge/fhlmi) |
 | [orb-models](https://anaconda.org/conda-forge/orb-models) | [![conda](https://anaconda.org/conda-forge/orb-models/badges/downloads.svg)](https://anaconda.org/conda-forge/orb-models) |
 | [mlipx](https://anaconda.org/conda-forge/mlipx) | [![conda](https://anaconda.org/conda-forge/mlipx/badges/downloads.svg)](https://anaconda.org/conda-forge/mlipx) |
+| [grace-tensorpotential](https://anaconda.org/conda-forge/grace-tensorpotential) | [![conda](https://anaconda.org/conda-forge/grace-tensorpotential/badges/downloads.svg)](https://anaconda.org/conda-forge/grace-tensorpotential) |
