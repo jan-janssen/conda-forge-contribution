@@ -6,6 +6,7 @@
 | [h5py](https://anaconda.org/conda-forge/h5py) | [![conda](https://anaconda.org/conda-forge/h5py/badges/downloads.svg)](https://anaconda.org/conda-forge/h5py) |
 | [pystache](https://anaconda.org/conda-forge/pystache) | [![conda](https://anaconda.org/conda-forge/pystache/badges/downloads.svg)](https://anaconda.org/conda-forge/pystache) |
 | [pyzmq](https://anaconda.org/conda-forge/pyzmq) | [![conda](https://anaconda.org/conda-forge/pyzmq/badges/downloads.svg)](https://anaconda.org/conda-forge/pyzmq) |
+| [psutil](https://anaconda.org/conda-forge/psutil) | [![conda](https://anaconda.org/conda-forge/psutil/badges/downloads.svg)](https://anaconda.org/conda-forge/psutil) |
 | [tempita](https://anaconda.org/conda-forge/tempita) | [![conda](https://anaconda.org/conda-forge/tempita/badges/downloads.svg)](https://anaconda.org/conda-forge/tempita) |
 | [pyparsing](https://anaconda.org/conda-forge/pyparsing) | [![conda](https://anaconda.org/conda-forge/pyparsing/badges/downloads.svg)](https://anaconda.org/conda-forge/pyparsing) |
 | [phonenumbers](https://anaconda.org/conda-forge/phonenumbers) | [![conda](https://anaconda.org/conda-forge/phonenumbers/badges/downloads.svg)](https://anaconda.org/conda-forge/phonenumbers) |
@@ -56,6 +57,7 @@
 | [mshr](https://anaconda.org/conda-forge/mshr) | [![conda](https://anaconda.org/conda-forge/mshr/badges/downloads.svg)](https://anaconda.org/conda-forge/mshr) |
 | [leather](https://anaconda.org/conda-forge/leather) | [![conda](https://anaconda.org/conda-forge/leather/badges/downloads.svg)](https://anaconda.org/conda-forge/leather) |
 | [agate](https://anaconda.org/conda-forge/agate) | [![conda](https://anaconda.org/conda-forge/agate/badges/downloads.svg)](https://anaconda.org/conda-forge/agate) |
+| [agate-excel](https://anaconda.org/conda-forge/agate-excel) | [![conda](https://anaconda.org/conda-forge/agate-excel/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-excel) |
 | [lua-luaposix](https://anaconda.org/conda-forge/lua-luaposix) | [![conda](https://anaconda.org/conda-forge/lua-luaposix/badges/downloads.svg)](https://anaconda.org/conda-forge/lua-luaposix) |
 | [agate-dbf](https://anaconda.org/conda-forge/agate-dbf) | [![conda](https://anaconda.org/conda-forge/agate-dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-dbf) |
 | [agate-sql](https://anaconda.org/conda-forge/agate-sql) | [![conda](https://anaconda.org/conda-forge/agate-sql/badges/downloads.svg)](https://anaconda.org/conda-forge/agate-sql) |
