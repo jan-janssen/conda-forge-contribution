@@ -953,3 +953,5 @@
 | [orb-models](https://anaconda.org/conda-forge/orb-models) | [![conda](https://anaconda.org/conda-forge/orb-models/badges/downloads.svg)](https://anaconda.org/conda-forge/orb-models) |
 | [mlipx](https://anaconda.org/conda-forge/mlipx) | [![conda](https://anaconda.org/conda-forge/mlipx/badges/downloads.svg)](https://anaconda.org/conda-forge/mlipx) |
 | [grace-tensorpotential](https://anaconda.org/conda-forge/grace-tensorpotential) | [![conda](https://anaconda.org/conda-forge/grace-tensorpotential/badges/downloads.svg)](https://anaconda.org/conda-forge/grace-tensorpotential) |
+| [olmocr](https://anaconda.org/conda-forge/olmocr) | [![conda](https://anaconda.org/conda-forge/olmocr/badges/downloads.svg)](https://anaconda.org/conda-forge/olmocr) |
+| [langgraph-prebuilt](https://anaconda.org/conda-forge/langgraph-prebuilt) | [![conda](https://anaconda.org/conda-forge/langgraph-prebuilt/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-prebuilt) |
