@@ -976,3 +976,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [grace-tensorpotential](https://anaconda.org/conda-forge/grace-tensorpotential) | [![conda](https://anaconda.org/conda-forge/grace-tensorpotential/badges/downloads.svg)](https://anaconda.org/conda-forge/grace-tensorpotential) |
 | [olmocr](https://anaconda.org/conda-forge/olmocr) | [![conda](https://anaconda.org/conda-forge/olmocr/badges/downloads.svg)](https://anaconda.org/conda-forge/olmocr) |
 | [langgraph-prebuilt](https://anaconda.org/conda-forge/langgraph-prebuilt) | [![conda](https://anaconda.org/conda-forge/langgraph-prebuilt/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-prebuilt) |
+| [pynanoflann](https://anaconda.org/conda-forge/pynanoflann) | [![conda](https://anaconda.org/conda-forge/pynanoflann/badges/downloads.svg)](https://anaconda.org/conda-forge/pynanoflann) |
