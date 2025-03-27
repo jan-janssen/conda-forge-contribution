@@ -978,3 +978,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [langgraph-prebuilt](https://anaconda.org/conda-forge/langgraph-prebuilt) | [![conda](https://anaconda.org/conda-forge/langgraph-prebuilt/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-prebuilt) |
 | [pynanoflann](https://anaconda.org/conda-forge/pynanoflann) | [![conda](https://anaconda.org/conda-forge/pynanoflann/badges/downloads.svg)](https://anaconda.org/conda-forge/pynanoflann) |
 | [typing-inspection](https://anaconda.org/conda-forge/typing-inspection) | [![conda](https://anaconda.org/conda-forge/typing-inspection/badges/downloads.svg)](https://anaconda.org/conda-forge/typing-inspection) |
+| [banks](https://anaconda.org/conda-forge/banks) | [![conda](https://anaconda.org/conda-forge/banks/badges/downloads.svg)](https://anaconda.org/conda-forge/banks) |
