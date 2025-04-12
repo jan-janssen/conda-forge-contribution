@@ -961,3 +961,4 @@
 | [omp4py](https://anaconda.org/conda-forge/omp4py) | [![conda](https://anaconda.org/conda-forge/omp4py/badges/downloads.svg)](https://anaconda.org/conda-forge/omp4py) |
 | [constantdict](https://anaconda.org/conda-forge/constantdict) | [![conda](https://anaconda.org/conda-forge/constantdict/badges/downloads.svg)](https://anaconda.org/conda-forge/constantdict) |
 | [slurm-sweeps](https://anaconda.org/conda-forge/slurm-sweeps) | [![conda](https://anaconda.org/conda-forge/slurm-sweeps/badges/downloads.svg)](https://anaconda.org/conda-forge/slurm-sweeps) |
+| [google-adk](https://anaconda.org/conda-forge/google-adk) | [![conda](https://anaconda.org/conda-forge/google-adk/badges/downloads.svg)](https://anaconda.org/conda-forge/google-adk) |
