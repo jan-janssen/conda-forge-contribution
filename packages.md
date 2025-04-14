@@ -962,3 +962,4 @@
 | [constantdict](https://anaconda.org/conda-forge/constantdict) | [![conda](https://anaconda.org/conda-forge/constantdict/badges/downloads.svg)](https://anaconda.org/conda-forge/constantdict) |
 | [slurm-sweeps](https://anaconda.org/conda-forge/slurm-sweeps) | [![conda](https://anaconda.org/conda-forge/slurm-sweeps/badges/downloads.svg)](https://anaconda.org/conda-forge/slurm-sweeps) |
 | [google-adk](https://anaconda.org/conda-forge/google-adk) | [![conda](https://anaconda.org/conda-forge/google-adk/badges/downloads.svg)](https://anaconda.org/conda-forge/google-adk) |
+| [rdkit2ase](https://anaconda.org/conda-forge/rdkit2ase) | [![conda](https://anaconda.org/conda-forge/rdkit2ase/badges/downloads.svg)](https://anaconda.org/conda-forge/rdkit2ase) |
