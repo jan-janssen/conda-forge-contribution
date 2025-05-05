@@ -965,3 +965,4 @@
 | [rdkit2ase](https://anaconda.org/conda-forge/rdkit2ase) | [![conda](https://anaconda.org/conda-forge/rdkit2ase/badges/downloads.svg)](https://anaconda.org/conda-forge/rdkit2ase) |
 | [pretab](https://anaconda.org/conda-forge/pretab) | [![conda](https://anaconda.org/conda-forge/pretab/badges/downloads.svg)](https://anaconda.org/conda-forge/pretab) |
 | [python-workflow-definition](https://anaconda.org/conda-forge/python-workflow-definition) | [![conda](https://anaconda.org/conda-forge/python-workflow-definition/badges/downloads.svg)](https://anaconda.org/conda-forge/python-workflow-definition) |
+| [curl-cffi](https://anaconda.org/conda-forge/curl-cffi) | [![conda](https://anaconda.org/conda-forge/curl-cffi/badges/downloads.svg)](https://anaconda.org/conda-forge/curl-cffi) |
