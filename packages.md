@@ -906,7 +906,9 @@
 | [knowledge-graph-maker](https://anaconda.org/conda-forge/knowledge-graph-maker) | [![conda](https://anaconda.org/conda-forge/knowledge-graph-maker/badges/downloads.svg)](https://anaconda.org/conda-forge/knowledge-graph-maker) |
 | [crawl4ai](https://anaconda.org/conda-forge/crawl4ai) | [![conda](https://anaconda.org/conda-forge/crawl4ai/badges/downloads.svg)](https://anaconda.org/conda-forge/crawl4ai) |
 | [pyiron_dataclasses](https://anaconda.org/conda-forge/pyiron_dataclasses) | [![conda](https://anaconda.org/conda-forge/pyiron_dataclasses/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_dataclasses) |
+| [urllib3-future](https://anaconda.org/conda-forge/urllib3-future) | [![conda](https://anaconda.org/conda-forge/urllib3-future/badges/downloads.svg)](https://anaconda.org/conda-forge/urllib3-future) |
 | [coredis](https://anaconda.org/conda-forge/coredis) | [![conda](https://anaconda.org/conda-forge/coredis/badges/downloads.svg)](https://anaconda.org/conda-forge/coredis) |
+| [niquests](https://anaconda.org/conda-forge/niquests) | [![conda](https://anaconda.org/conda-forge/niquests/badges/downloads.svg)](https://anaconda.org/conda-forge/niquests) |
 | [langgraph-sdk](https://anaconda.org/conda-forge/langgraph-sdk) | [![conda](https://anaconda.org/conda-forge/langgraph-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/langgraph-sdk) |
 | [torch-dftd](https://anaconda.org/conda-forge/torch-dftd) | [![conda](https://anaconda.org/conda-forge/torch-dftd/badges/downloads.svg)](https://anaconda.org/conda-forge/torch-dftd) |
 | [lightrag-hku](https://anaconda.org/conda-forge/lightrag-hku) | [![conda](https://anaconda.org/conda-forge/lightrag-hku/badges/downloads.svg)](https://anaconda.org/conda-forge/lightrag-hku) |
@@ -966,3 +968,4 @@
 | [pretab](https://anaconda.org/conda-forge/pretab) | [![conda](https://anaconda.org/conda-forge/pretab/badges/downloads.svg)](https://anaconda.org/conda-forge/pretab) |
 | [python-workflow-definition](https://anaconda.org/conda-forge/python-workflow-definition) | [![conda](https://anaconda.org/conda-forge/python-workflow-definition/badges/downloads.svg)](https://anaconda.org/conda-forge/python-workflow-definition) |
 | [curl-cffi](https://anaconda.org/conda-forge/curl-cffi) | [![conda](https://anaconda.org/conda-forge/curl-cffi/badges/downloads.svg)](https://anaconda.org/conda-forge/curl-cffi) |
+| [xmlhelpy](https://anaconda.org/conda-forge/xmlhelpy) | [![conda](https://anaconda.org/conda-forge/xmlhelpy/badges/downloads.svg)](https://anaconda.org/conda-forge/xmlhelpy) |
