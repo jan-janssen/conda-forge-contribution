@@ -969,3 +969,4 @@
 | [python-workflow-definition](https://anaconda.org/conda-forge/python-workflow-definition) | [![conda](https://anaconda.org/conda-forge/python-workflow-definition/badges/downloads.svg)](https://anaconda.org/conda-forge/python-workflow-definition) |
 | [curl-cffi](https://anaconda.org/conda-forge/curl-cffi) | [![conda](https://anaconda.org/conda-forge/curl-cffi/badges/downloads.svg)](https://anaconda.org/conda-forge/curl-cffi) |
 | [xmlhelpy](https://anaconda.org/conda-forge/xmlhelpy) | [![conda](https://anaconda.org/conda-forge/xmlhelpy/badges/downloads.svg)](https://anaconda.org/conda-forge/xmlhelpy) |
+| [kadi-apy](https://anaconda.org/conda-forge/kadi-apy) | [![conda](https://anaconda.org/conda-forge/kadi-apy/badges/downloads.svg)](https://anaconda.org/conda-forge/kadi-apy) |
