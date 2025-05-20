@@ -992,3 +992,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [xmlhelpy](https://anaconda.org/conda-forge/xmlhelpy) | [![conda](https://anaconda.org/conda-forge/xmlhelpy/badges/downloads.svg)](https://anaconda.org/conda-forge/xmlhelpy) |
 | [kadi-apy](https://anaconda.org/conda-forge/kadi-apy) | [![conda](https://anaconda.org/conda-forge/kadi-apy/badges/downloads.svg)](https://anaconda.org/conda-forge/kadi-apy) |
 | [ase-db-backends](https://anaconda.org/conda-forge/ase-db-backends) | [![conda](https://anaconda.org/conda-forge/ase-db-backends/badges/downloads.svg)](https://anaconda.org/conda-forge/ase-db-backends) |
+| [json2ast](https://anaconda.org/conda-forge/json2ast) | [![conda](https://anaconda.org/conda-forge/json2ast/badges/downloads.svg)](https://anaconda.org/conda-forge/json2ast) |
+| [ast2json](https://anaconda.org/conda-forge/ast2json) | [![conda](https://anaconda.org/conda-forge/ast2json/badges/downloads.svg)](https://anaconda.org/conda-forge/ast2json) |
