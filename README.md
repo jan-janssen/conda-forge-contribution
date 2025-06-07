@@ -130,6 +130,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyiron_lammps](https://anaconda.org/conda-forge/pyiron_lammps) | [![conda](https://anaconda.org/conda-forge/pyiron_lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_lammps) |
 | [pyiron_vasp](https://anaconda.org/conda-forge/pyiron_vasp) | [![conda](https://anaconda.org/conda-forge/pyiron_vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_vasp) |
 | [lammps](https://anaconda.org/conda-forge/lammps) | [![conda](https://anaconda.org/conda-forge/lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/lammps) |
+| [coolprop](https://anaconda.org/conda-forge/coolprop) | [![conda](https://anaconda.org/conda-forge/coolprop/badges/downloads.svg)](https://anaconda.org/conda-forge/coolprop) |
 | [libsigsegv](https://anaconda.org/conda-forge/libsigsegv) | [![conda](https://anaconda.org/conda-forge/libsigsegv/badges/downloads.svg)](https://anaconda.org/conda-forge/libsigsegv) |
 | [ovito](https://anaconda.org/conda-forge/ovito) | [![conda](https://anaconda.org/conda-forge/ovito/badges/downloads.svg)](https://anaconda.org/conda-forge/ovito) |
 | [python-crontab](https://anaconda.org/conda-forge/python-crontab) | [![conda](https://anaconda.org/conda-forge/python-crontab/badges/downloads.svg)](https://anaconda.org/conda-forge/python-crontab) |
