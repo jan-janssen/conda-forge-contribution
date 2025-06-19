@@ -976,3 +976,4 @@
 | [json2ast](https://anaconda.org/conda-forge/json2ast) | [![conda](https://anaconda.org/conda-forge/json2ast/badges/downloads.svg)](https://anaconda.org/conda-forge/json2ast) |
 | [ast2json](https://anaconda.org/conda-forge/ast2json) | [![conda](https://anaconda.org/conda-forge/ast2json/badges/downloads.svg)](https://anaconda.org/conda-forge/ast2json) |
 | [botier](https://anaconda.org/conda-forge/botier) | [![conda](https://anaconda.org/conda-forge/botier/badges/downloads.svg)](https://anaconda.org/conda-forge/botier) |
+| [ontolutils](https://anaconda.org/conda-forge/ontolutils) | [![conda](https://anaconda.org/conda-forge/ontolutils/badges/downloads.svg)](https://anaconda.org/conda-forge/ontolutils) |
