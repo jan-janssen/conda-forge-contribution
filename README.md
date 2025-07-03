@@ -1000,3 +1000,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ontolutils](https://anaconda.org/conda-forge/ontolutils) | [![conda](https://anaconda.org/conda-forge/ontolutils/badges/downloads.svg)](https://anaconda.org/conda-forge/ontolutils) |
 | [llama-index-instrumentation](https://anaconda.org/conda-forge/llama-index-instrumentation) | [![conda](https://anaconda.org/conda-forge/llama-index-instrumentation/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-instrumentation) |
 | [llama-index-workflows](https://anaconda.org/conda-forge/llama-index-workflows) | [![conda](https://anaconda.org/conda-forge/llama-index-workflows/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-workflows) |
+| [clusterscope](https://anaconda.org/conda-forge/clusterscope) | [![conda](https://anaconda.org/conda-forge/clusterscope/badges/downloads.svg)](https://anaconda.org/conda-forge/clusterscope) |
