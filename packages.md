@@ -981,3 +981,6 @@
 | [llama-index-instrumentation](https://anaconda.org/conda-forge/llama-index-instrumentation) | [![conda](https://anaconda.org/conda-forge/llama-index-instrumentation/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-instrumentation) |
 | [llama-index-workflows](https://anaconda.org/conda-forge/llama-index-workflows) | [![conda](https://anaconda.org/conda-forge/llama-index-workflows/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-index-workflows) |
 | [clusterscope](https://anaconda.org/conda-forge/clusterscope) | [![conda](https://anaconda.org/conda-forge/clusterscope/badges/downloads.svg)](https://anaconda.org/conda-forge/clusterscope) |
+| [aabbtree](https://anaconda.org/conda-forge/aabbtree) | [![conda](https://anaconda.org/conda-forge/aabbtree/badges/downloads.svg)](https://anaconda.org/conda-forge/aabbtree) |
+| [mcrpy](https://anaconda.org/conda-forge/mcrpy) | [![conda](https://anaconda.org/conda-forge/mcrpy/badges/downloads.svg)](https://anaconda.org/conda-forge/mcrpy) |
+| [pyvoro-mmalahe](https://anaconda.org/conda-forge/pyvoro-mmalahe) | [![conda](https://anaconda.org/conda-forge/pyvoro-mmalahe/badges/downloads.svg)](https://anaconda.org/conda-forge/pyvoro-mmalahe) |
