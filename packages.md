@@ -984,3 +984,4 @@
 | [aabbtree](https://anaconda.org/conda-forge/aabbtree) | [![conda](https://anaconda.org/conda-forge/aabbtree/badges/downloads.svg)](https://anaconda.org/conda-forge/aabbtree) |
 | [mcrpy](https://anaconda.org/conda-forge/mcrpy) | [![conda](https://anaconda.org/conda-forge/mcrpy/badges/downloads.svg)](https://anaconda.org/conda-forge/mcrpy) |
 | [pyvoro-mmalahe](https://anaconda.org/conda-forge/pyvoro-mmalahe) | [![conda](https://anaconda.org/conda-forge/pyvoro-mmalahe/badges/downloads.svg)](https://anaconda.org/conda-forge/pyvoro-mmalahe) |
+| [lsq-ellipse](https://anaconda.org/conda-forge/lsq-ellipse) | [![conda](https://anaconda.org/conda-forge/lsq-ellipse/badges/downloads.svg)](https://anaconda.org/conda-forge/lsq-ellipse) |
