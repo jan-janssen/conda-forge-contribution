@@ -1008,3 +1008,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [lsq-ellipse](https://anaconda.org/conda-forge/lsq-ellipse) | [![conda](https://anaconda.org/conda-forge/lsq-ellipse/badges/downloads.svg)](https://anaconda.org/conda-forge/lsq-ellipse) |
 | [pygmsh](https://anaconda.org/conda-forge/pygmsh) | [![conda](https://anaconda.org/conda-forge/pygmsh/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmsh) |
 | [microstructpy](https://anaconda.org/conda-forge/microstructpy) | [![conda](https://anaconda.org/conda-forge/microstructpy/badges/downloads.svg)](https://anaconda.org/conda-forge/microstructpy) |
+| [asimtools](https://anaconda.org/conda-forge/asimtools) | [![conda](https://anaconda.org/conda-forge/asimtools/badges/downloads.svg)](https://anaconda.org/conda-forge/asimtools) |
