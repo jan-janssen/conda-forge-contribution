@@ -755,6 +755,7 @@
 | [python-iso639](https://anaconda.org/conda-forge/python-iso639) | [![conda](https://anaconda.org/conda-forge/python-iso639/badges/downloads.svg)](https://anaconda.org/conda-forge/python-iso639) |
 | [tokentrim](https://anaconda.org/conda-forge/tokentrim) | [![conda](https://anaconda.org/conda-forge/tokentrim/badges/downloads.svg)](https://anaconda.org/conda-forge/tokentrim) |
 | [jsonpath-python](https://anaconda.org/conda-forge/jsonpath-python) | [![conda](https://anaconda.org/conda-forge/jsonpath-python/badges/downloads.svg)](https://anaconda.org/conda-forge/jsonpath-python) |
+| [sphinx-markdown-builder](https://anaconda.org/conda-forge/sphinx-markdown-builder) | [![conda](https://anaconda.org/conda-forge/sphinx-markdown-builder/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-markdown-builder) |
 | [amp-atomistics](https://anaconda.org/conda-forge/amp-atomistics) | [![conda](https://anaconda.org/conda-forge/amp-atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/amp-atomistics) |
 | [kfac-jax](https://anaconda.org/conda-forge/kfac-jax) | [![conda](https://anaconda.org/conda-forge/kfac-jax/badges/downloads.svg)](https://anaconda.org/conda-forge/kfac-jax) |
 | [pymupdf](https://anaconda.org/conda-forge/pymupdf) | [![conda](https://anaconda.org/conda-forge/pymupdf/badges/downloads.svg)](https://anaconda.org/conda-forge/pymupdf) |
@@ -988,3 +989,5 @@
 | [pygmsh](https://anaconda.org/conda-forge/pygmsh) | [![conda](https://anaconda.org/conda-forge/pygmsh/badges/downloads.svg)](https://anaconda.org/conda-forge/pygmsh) |
 | [microstructpy](https://anaconda.org/conda-forge/microstructpy) | [![conda](https://anaconda.org/conda-forge/microstructpy/badges/downloads.svg)](https://anaconda.org/conda-forge/microstructpy) |
 | [asimtools](https://anaconda.org/conda-forge/asimtools) | [![conda](https://anaconda.org/conda-forge/asimtools/badges/downloads.svg)](https://anaconda.org/conda-forge/asimtools) |
+| [sphinx-llm](https://anaconda.org/conda-forge/sphinx-llm) | [![conda](https://anaconda.org/conda-forge/sphinx-llm/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-llm) |
+| [pyvers](https://anaconda.org/conda-forge/pyvers) | [![conda](https://anaconda.org/conda-forge/pyvers/badges/downloads.svg)](https://anaconda.org/conda-forge/pyvers) |
