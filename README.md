@@ -351,6 +351,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyiron_gui](https://anaconda.org/conda-forge/pyiron_gui) | [![conda](https://anaconda.org/conda-forge/pyiron_gui/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_gui) |
 | [liquidpy](https://anaconda.org/conda-forge/liquidpy) | [![conda](https://anaconda.org/conda-forge/liquidpy/badges/downloads.svg)](https://anaconda.org/conda-forge/liquidpy) |
 | [smartmontools](https://anaconda.org/conda-forge/smartmontools) | [![conda](https://anaconda.org/conda-forge/smartmontools/badges/downloads.svg)](https://anaconda.org/conda-forge/smartmontools) |
+| [multitasking](https://anaconda.org/conda-forge/multitasking) | [![conda](https://anaconda.org/conda-forge/multitasking/badges/downloads.svg)](https://anaconda.org/conda-forge/multitasking) |
 | [yfinance](https://anaconda.org/conda-forge/yfinance) | [![conda](https://anaconda.org/conda-forge/yfinance/badges/downloads.svg)](https://anaconda.org/conda-forge/yfinance) |
 | [kanapy](https://anaconda.org/conda-forge/kanapy) | [![conda](https://anaconda.org/conda-forge/kanapy/badges/downloads.svg)](https://anaconda.org/conda-forge/kanapy) |
 | [chemprop](https://anaconda.org/conda-forge/chemprop) | [![conda](https://anaconda.org/conda-forge/chemprop/badges/downloads.svg)](https://anaconda.org/conda-forge/chemprop) |
