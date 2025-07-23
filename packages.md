@@ -946,6 +946,7 @@
 | [fh-llm-client](https://anaconda.org/conda-forge/fh-llm-client) | [![conda](https://anaconda.org/conda-forge/fh-llm-client/badges/downloads.svg)](https://anaconda.org/conda-forge/fh-llm-client) |
 | [variconfig](https://anaconda.org/conda-forge/variconfig) | [![conda](https://anaconda.org/conda-forge/variconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/variconfig) |
 | [notebook_intelligence](https://anaconda.org/conda-forge/notebook_intelligence) | [![conda](https://anaconda.org/conda-forge/notebook_intelligence/badges/downloads.svg)](https://anaconda.org/conda-forge/notebook_intelligence) |
+| [autogen-core](https://anaconda.org/conda-forge/autogen-core) | [![conda](https://anaconda.org/conda-forge/autogen-core/badges/downloads.svg)](https://anaconda.org/conda-forge/autogen-core) |
 | [fuzy-jon](https://anaconda.org/conda-forge/fuzy-jon) | [![conda](https://anaconda.org/conda-forge/fuzy-jon/badges/downloads.svg)](https://anaconda.org/conda-forge/fuzy-jon) |
 | [llama-cloud-services](https://anaconda.org/conda-forge/llama-cloud-services) | [![conda](https://anaconda.org/conda-forge/llama-cloud-services/badges/downloads.svg)](https://anaconda.org/conda-forge/llama-cloud-services) |
 | [znflow](https://anaconda.org/conda-forge/znflow) | [![conda](https://anaconda.org/conda-forge/znflow/badges/downloads.svg)](https://anaconda.org/conda-forge/znflow) |
