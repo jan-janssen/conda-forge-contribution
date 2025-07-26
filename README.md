@@ -965,6 +965,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [sphinx_parser](https://anaconda.org/conda-forge/sphinx_parser) | [![conda](https://anaconda.org/conda-forge/sphinx_parser/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx_parser) |
 | [ndjson](https://anaconda.org/conda-forge/ndjson) | [![conda](https://anaconda.org/conda-forge/ndjson/badges/downloads.svg)](https://anaconda.org/conda-forge/ndjson) |
 | [fh-llm-client](https://anaconda.org/conda-forge/fh-llm-client) | [![conda](https://anaconda.org/conda-forge/fh-llm-client/badges/downloads.svg)](https://anaconda.org/conda-forge/fh-llm-client) |
+| [autogen-agentchat](https://anaconda.org/conda-forge/autogen-agentchat) | [![conda](https://anaconda.org/conda-forge/autogen-agentchat/badges/downloads.svg)](https://anaconda.org/conda-forge/autogen-agentchat) |
 | [variconfig](https://anaconda.org/conda-forge/variconfig) | [![conda](https://anaconda.org/conda-forge/variconfig/badges/downloads.svg)](https://anaconda.org/conda-forge/variconfig) |
 | [notebook_intelligence](https://anaconda.org/conda-forge/notebook_intelligence) | [![conda](https://anaconda.org/conda-forge/notebook_intelligence/badges/downloads.svg)](https://anaconda.org/conda-forge/notebook_intelligence) |
 | [autogen-core](https://anaconda.org/conda-forge/autogen-core) | [![conda](https://anaconda.org/conda-forge/autogen-core/badges/downloads.svg)](https://anaconda.org/conda-forge/autogen-core) |
@@ -1014,3 +1015,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [asimtools](https://anaconda.org/conda-forge/asimtools) | [![conda](https://anaconda.org/conda-forge/asimtools/badges/downloads.svg)](https://anaconda.org/conda-forge/asimtools) |
 | [sphinx-llm](https://anaconda.org/conda-forge/sphinx-llm) | [![conda](https://anaconda.org/conda-forge/sphinx-llm/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-llm) |
 | [pyvers](https://anaconda.org/conda-forge/pyvers) | [![conda](https://anaconda.org/conda-forge/pyvers/badges/downloads.svg)](https://anaconda.org/conda-forge/pyvers) |
+| [paper-qa-pypdf](https://anaconda.org/conda-forge/paper-qa-pypdf) | [![conda](https://anaconda.org/conda-forge/paper-qa-pypdf/badges/downloads.svg)](https://anaconda.org/conda-forge/paper-qa-pypdf) |
