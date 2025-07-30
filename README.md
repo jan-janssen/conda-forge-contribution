@@ -1016,3 +1016,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [sphinx-llm](https://anaconda.org/conda-forge/sphinx-llm) | [![conda](https://anaconda.org/conda-forge/sphinx-llm/badges/downloads.svg)](https://anaconda.org/conda-forge/sphinx-llm) |
 | [pyvers](https://anaconda.org/conda-forge/pyvers) | [![conda](https://anaconda.org/conda-forge/pyvers/badges/downloads.svg)](https://anaconda.org/conda-forge/pyvers) |
 | [paper-qa-pypdf](https://anaconda.org/conda-forge/paper-qa-pypdf) | [![conda](https://anaconda.org/conda-forge/paper-qa-pypdf/badges/downloads.svg)](https://anaconda.org/conda-forge/paper-qa-pypdf) |
+| [flowrep](https://anaconda.org/conda-forge/flowrep) | [![conda](https://anaconda.org/conda-forge/flowrep/badges/downloads.svg)](https://anaconda.org/conda-forge/flowrep) |
