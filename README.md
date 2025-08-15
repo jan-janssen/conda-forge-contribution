@@ -1019,3 +1019,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [paper-qa-pypdf](https://anaconda.org/conda-forge/paper-qa-pypdf) | [![conda](https://anaconda.org/conda-forge/paper-qa-pypdf/badges/downloads.svg)](https://anaconda.org/conda-forge/paper-qa-pypdf) |
 | [flowrep](https://anaconda.org/conda-forge/flowrep) | [![conda](https://anaconda.org/conda-forge/flowrep/badges/downloads.svg)](https://anaconda.org/conda-forge/flowrep) |
 | [pyrxiv](https://anaconda.org/conda-forge/pyrxiv) | [![conda](https://anaconda.org/conda-forge/pyrxiv/badges/downloads.svg)](https://anaconda.org/conda-forge/pyrxiv) |
+| [pysher](https://anaconda.org/conda-forge/pysher) | [![conda](https://anaconda.org/conda-forge/pysher/badges/downloads.svg)](https://anaconda.org/conda-forge/pysher) |
