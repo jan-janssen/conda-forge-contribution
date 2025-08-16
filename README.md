@@ -1020,3 +1020,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [flowrep](https://anaconda.org/conda-forge/flowrep) | [![conda](https://anaconda.org/conda-forge/flowrep/badges/downloads.svg)](https://anaconda.org/conda-forge/flowrep) |
 | [pyrxiv](https://anaconda.org/conda-forge/pyrxiv) | [![conda](https://anaconda.org/conda-forge/pyrxiv/badges/downloads.svg)](https://anaconda.org/conda-forge/pyrxiv) |
 | [pysher](https://anaconda.org/conda-forge/pysher) | [![conda](https://anaconda.org/conda-forge/pysher/badges/downloads.svg)](https://anaconda.org/conda-forge/pysher) |
+| [fastapi-mcp](https://anaconda.org/conda-forge/fastapi-mcp) | [![conda](https://anaconda.org/conda-forge/fastapi-mcp/badges/downloads.svg)](https://anaconda.org/conda-forge/fastapi-mcp) |
