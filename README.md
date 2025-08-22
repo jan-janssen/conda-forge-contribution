@@ -1021,3 +1021,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyrxiv](https://anaconda.org/conda-forge/pyrxiv) | [![conda](https://anaconda.org/conda-forge/pyrxiv/badges/downloads.svg)](https://anaconda.org/conda-forge/pyrxiv) |
 | [pysher](https://anaconda.org/conda-forge/pysher) | [![conda](https://anaconda.org/conda-forge/pysher/badges/downloads.svg)](https://anaconda.org/conda-forge/pysher) |
 | [fastapi-mcp](https://anaconda.org/conda-forge/fastapi-mcp) | [![conda](https://anaconda.org/conda-forge/fastapi-mcp/badges/downloads.svg)](https://anaconda.org/conda-forge/fastapi-mcp) |
+| [elastic-vasp](https://anaconda.org/conda-forge/elastic-vasp) | [![conda](https://anaconda.org/conda-forge/elastic-vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/elastic-vasp) |
