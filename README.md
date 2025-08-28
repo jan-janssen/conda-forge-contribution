@@ -1022,3 +1022,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pysher](https://anaconda.org/conda-forge/pysher) | [![conda](https://anaconda.org/conda-forge/pysher/badges/downloads.svg)](https://anaconda.org/conda-forge/pysher) |
 | [fastapi-mcp](https://anaconda.org/conda-forge/fastapi-mcp) | [![conda](https://anaconda.org/conda-forge/fastapi-mcp/badges/downloads.svg)](https://anaconda.org/conda-forge/fastapi-mcp) |
 | [elastic-vasp](https://anaconda.org/conda-forge/elastic-vasp) | [![conda](https://anaconda.org/conda-forge/elastic-vasp/badges/downloads.svg)](https://anaconda.org/conda-forge/elastic-vasp) |
+| [composio](https://anaconda.org/conda-forge/composio) | [![conda](https://anaconda.org/conda-forge/composio/badges/downloads.svg)](https://anaconda.org/conda-forge/composio) |
+| [composio-openai](https://anaconda.org/conda-forge/composio-openai) | [![conda](https://anaconda.org/conda-forge/composio-openai/badges/downloads.svg)](https://anaconda.org/conda-forge/composio-openai) |
+| [composio-client](https://anaconda.org/conda-forge/composio-client) | [![conda](https://anaconda.org/conda-forge/composio-client/badges/downloads.svg)](https://anaconda.org/conda-forge/composio-client) |
