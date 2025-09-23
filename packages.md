@@ -1005,3 +1005,5 @@
 | [composio-openai](https://anaconda.org/conda-forge/composio-openai) | [![conda](https://anaconda.org/conda-forge/composio-openai/badges/downloads.svg)](https://anaconda.org/conda-forge/composio-openai) |
 | [composio-client](https://anaconda.org/conda-forge/composio-client) | [![conda](https://anaconda.org/conda-forge/composio-client/badges/downloads.svg)](https://anaconda.org/conda-forge/composio-client) |
 | [fastuuid](https://anaconda.org/conda-forge/fastuuid) | [![conda](https://anaconda.org/conda-forge/fastuuid/badges/downloads.svg)](https://anaconda.org/conda-forge/fastuuid) |
+| [pondpond](https://anaconda.org/conda-forge/pondpond) | [![conda](https://anaconda.org/conda-forge/pondpond/badges/downloads.svg)](https://anaconda.org/conda-forge/pondpond) |
+| [madoka](https://anaconda.org/conda-forge/madoka) | [![conda](https://anaconda.org/conda-forge/madoka/badges/downloads.svg)](https://anaconda.org/conda-forge/madoka) |
