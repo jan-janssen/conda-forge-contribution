@@ -431,6 +431,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [tensor-sensor](https://anaconda.org/conda-forge/tensor-sensor) | [![conda](https://anaconda.org/conda-forge/tensor-sensor/badges/downloads.svg)](https://anaconda.org/conda-forge/tensor-sensor) |
 | [batoms-api](https://anaconda.org/conda-forge/batoms-api) | [![conda](https://anaconda.org/conda-forge/batoms-api/badges/downloads.svg)](https://anaconda.org/conda-forge/batoms-api) |
 | [batoms](https://anaconda.org/conda-forge/batoms) | [![conda](https://anaconda.org/conda-forge/batoms/badges/downloads.svg)](https://anaconda.org/conda-forge/batoms) |
+| [elpa](https://anaconda.org/conda-forge/elpa) | [![conda](https://anaconda.org/conda-forge/elpa/badges/downloads.svg)](https://anaconda.org/conda-forge/elpa) |
 | [calphy](https://anaconda.org/conda-forge/calphy) | [![conda](https://anaconda.org/conda-forge/calphy/badges/downloads.svg)](https://anaconda.org/conda-forge/calphy) |
 | [i-pi](https://anaconda.org/conda-forge/i-pi) | [![conda](https://anaconda.org/conda-forge/i-pi/badges/downloads.svg)](https://anaconda.org/conda-forge/i-pi) |
 | [where](https://anaconda.org/conda-forge/where) | [![conda](https://anaconda.org/conda-forge/where/badges/downloads.svg)](https://anaconda.org/conda-forge/where) |
