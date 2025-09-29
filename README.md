@@ -1030,3 +1030,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pondpond](https://anaconda.org/conda-forge/pondpond) | [![conda](https://anaconda.org/conda-forge/pondpond/badges/downloads.svg)](https://anaconda.org/conda-forge/pondpond) |
 | [madoka](https://anaconda.org/conda-forge/madoka) | [![conda](https://anaconda.org/conda-forge/madoka/badges/downloads.svg)](https://anaconda.org/conda-forge/madoka) |
 | [httpx-aiohttp](https://anaconda.org/conda-forge/httpx-aiohttp) | [![conda](https://anaconda.org/conda-forge/httpx-aiohttp/badges/downloads.svg)](https://anaconda.org/conda-forge/httpx-aiohttp) |
+| [pymatgen-io-validation](https://anaconda.org/conda-forge/pymatgen-io-validation) | [![conda](https://anaconda.org/conda-forge/pymatgen-io-validation/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-io-validation) |
