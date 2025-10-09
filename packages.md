@@ -1010,3 +1010,4 @@
 | [madoka](https://anaconda.org/conda-forge/madoka) | [![conda](https://anaconda.org/conda-forge/madoka/badges/downloads.svg)](https://anaconda.org/conda-forge/madoka) |
 | [httpx-aiohttp](https://anaconda.org/conda-forge/httpx-aiohttp) | [![conda](https://anaconda.org/conda-forge/httpx-aiohttp/badges/downloads.svg)](https://anaconda.org/conda-forge/httpx-aiohttp) |
 | [pymatgen-io-validation](https://anaconda.org/conda-forge/pymatgen-io-validation) | [![conda](https://anaconda.org/conda-forge/pymatgen-io-validation/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-io-validation) |
+| [sovapy](https://anaconda.org/conda-forge/sovapy) | [![conda](https://anaconda.org/conda-forge/sovapy/badges/downloads.svg)](https://anaconda.org/conda-forge/sovapy) |
