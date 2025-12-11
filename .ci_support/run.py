@@ -186,7 +186,7 @@ def get_package_download_count(package_name: str) -> int:
     Returns:
         int: The download count for the package.
     """
-    r = requests.get('https://anaconda.org/conda-forge/' + package_name)
+    r = requests.get('https://anaconda.org/conda-forge/' + package_name + '/manage')
     return get_download_count_line(content_lst=r.content.decode().split("\n"))
 
 
