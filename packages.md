@@ -1019,3 +1019,4 @@
 | [nomad-parser-plugins-simulation](https://anaconda.org/conda-forge/nomad-parser-plugins-simulation) | [![conda](https://anaconda.org/conda-forge/nomad-parser-plugins-simulation/badges/downloads.svg)](https://anaconda.org/conda-forge/nomad-parser-plugins-simulation) |
 | [asgi-logger](https://anaconda.org/conda-forge/asgi-logger) | [![conda](https://anaconda.org/conda-forge/asgi-logger/badges/downloads.svg)](https://anaconda.org/conda-forge/asgi-logger) |
 | [pymatgen-analysis-alloys](https://anaconda.org/conda-forge/pymatgen-analysis-alloys) | [![conda](https://anaconda.org/conda-forge/pymatgen-analysis-alloys/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-analysis-alloys) |
+| [python-code-minimap](https://anaconda.org/conda-forge/python-code-minimap) | [![conda](https://anaconda.org/conda-forge/python-code-minimap/badges/downloads.svg)](https://anaconda.org/conda-forge/python-code-minimap) |
