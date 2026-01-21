@@ -1042,3 +1042,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pymatgen-analysis-alloys](https://anaconda.org/conda-forge/pymatgen-analysis-alloys) | [![conda](https://anaconda.org/conda-forge/pymatgen-analysis-alloys/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-analysis-alloys) |
 | [python-code-minimap](https://anaconda.org/conda-forge/python-code-minimap) | [![conda](https://anaconda.org/conda-forge/python-code-minimap/badges/downloads.svg)](https://anaconda.org/conda-forge/python-code-minimap) |
 | [claude-agent-sdk](https://anaconda.org/conda-forge/claude-agent-sdk) | [![conda](https://anaconda.org/conda-forge/claude-agent-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/claude-agent-sdk) |
+| [asebytes](https://anaconda.org/conda-forge/asebytes) | [![conda](https://anaconda.org/conda-forge/asebytes/badges/downloads.svg)](https://anaconda.org/conda-forge/asebytes) |
