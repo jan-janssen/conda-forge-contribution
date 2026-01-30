@@ -1022,3 +1022,4 @@
 | [python-code-minimap](https://anaconda.org/conda-forge/python-code-minimap) | [![conda](https://anaconda.org/conda-forge/python-code-minimap/badges/downloads.svg)](https://anaconda.org/conda-forge/python-code-minimap) |
 | [claude-agent-sdk](https://anaconda.org/conda-forge/claude-agent-sdk) | [![conda](https://anaconda.org/conda-forge/claude-agent-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/claude-agent-sdk) |
 | [asebytes](https://anaconda.org/conda-forge/asebytes) | [![conda](https://anaconda.org/conda-forge/asebytes/badges/downloads.svg)](https://anaconda.org/conda-forge/asebytes) |
+| [json-schema-to-pydantic](https://anaconda.org/conda-forge/json-schema-to-pydantic) | [![conda](https://anaconda.org/conda-forge/json-schema-to-pydantic/badges/downloads.svg)](https://anaconda.org/conda-forge/json-schema-to-pydantic) |
