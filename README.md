@@ -174,6 +174,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [randspg](https://anaconda.org/conda-forge/randspg) | [![conda](https://anaconda.org/conda-forge/randspg/badges/downloads.svg)](https://anaconda.org/conda-forge/randspg) |
 | [seekpath](https://anaconda.org/conda-forge/seekpath) | [![conda](https://anaconda.org/conda-forge/seekpath/badges/downloads.svg)](https://anaconda.org/conda-forge/seekpath) |
 | [icet](https://anaconda.org/conda-forge/icet) | [![conda](https://anaconda.org/conda-forge/icet/badges/downloads.svg)](https://anaconda.org/conda-forge/icet) |
+| [parmed](https://anaconda.org/conda-forge/parmed) | [![conda](https://anaconda.org/conda-forge/parmed/badges/downloads.svg)](https://anaconda.org/conda-forge/parmed) |
 | [mendeleev](https://anaconda.org/conda-forge/mendeleev) | [![conda](https://anaconda.org/conda-forge/mendeleev/badges/downloads.svg)](https://anaconda.org/conda-forge/mendeleev) |
 | [custodian](https://anaconda.org/conda-forge/custodian) | [![conda](https://anaconda.org/conda-forge/custodian/badges/downloads.svg)](https://anaconda.org/conda-forge/custodian) |
 | [molmod](https://anaconda.org/conda-forge/molmod) | [![conda](https://anaconda.org/conda-forge/molmod/badges/downloads.svg)](https://anaconda.org/conda-forge/molmod) |
@@ -1044,3 +1045,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [claude-agent-sdk](https://anaconda.org/conda-forge/claude-agent-sdk) | [![conda](https://anaconda.org/conda-forge/claude-agent-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/claude-agent-sdk) |
 | [asebytes](https://anaconda.org/conda-forge/asebytes) | [![conda](https://anaconda.org/conda-forge/asebytes/badges/downloads.svg)](https://anaconda.org/conda-forge/asebytes) |
 | [json-schema-to-pydantic](https://anaconda.org/conda-forge/json-schema-to-pydantic) | [![conda](https://anaconda.org/conda-forge/json-schema-to-pydantic/badges/downloads.svg)](https://anaconda.org/conda-forge/json-schema-to-pydantic) |
+| [imate](https://anaconda.org/conda-forge/imate) | [![conda](https://anaconda.org/conda-forge/imate/badges/downloads.svg)](https://anaconda.org/conda-forge/imate) |
