@@ -1046,3 +1046,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [asebytes](https://anaconda.org/conda-forge/asebytes) | [![conda](https://anaconda.org/conda-forge/asebytes/badges/downloads.svg)](https://anaconda.org/conda-forge/asebytes) |
 | [json-schema-to-pydantic](https://anaconda.org/conda-forge/json-schema-to-pydantic) | [![conda](https://anaconda.org/conda-forge/json-schema-to-pydantic/badges/downloads.svg)](https://anaconda.org/conda-forge/json-schema-to-pydantic) |
 | [imate](https://anaconda.org/conda-forge/imate) | [![conda](https://anaconda.org/conda-forge/imate/badges/downloads.svg)](https://anaconda.org/conda-forge/imate) |
+| [vasp-ase](https://anaconda.org/conda-forge/vasp-ase) | [![conda](https://anaconda.org/conda-forge/vasp-ase/badges/downloads.svg)](https://anaconda.org/conda-forge/vasp-ase) |
