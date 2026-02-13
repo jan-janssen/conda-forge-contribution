@@ -1028,3 +1028,4 @@
 | [imate](https://anaconda.org/conda-forge/imate) | [![conda](https://anaconda.org/conda-forge/imate/badges/downloads.svg)](https://anaconda.org/conda-forge/imate) |
 | [vasp-ase](https://anaconda.org/conda-forge/vasp-ase) | [![conda](https://anaconda.org/conda-forge/vasp-ase/badges/downloads.svg)](https://anaconda.org/conda-forge/vasp-ase) |
 | [lammpsparser](https://anaconda.org/conda-forge/lammpsparser) | [![conda](https://anaconda.org/conda-forge/lammpsparser/badges/downloads.svg)](https://anaconda.org/conda-forge/lammpsparser) |
+| [vaspparser](https://anaconda.org/conda-forge/vaspparser) | [![conda](https://anaconda.org/conda-forge/vaspparser/badges/downloads.svg)](https://anaconda.org/conda-forge/vaspparser) |
