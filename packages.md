@@ -1030,3 +1030,4 @@
 | [lammpsparser](https://anaconda.org/conda-forge/lammpsparser) | [![conda](https://anaconda.org/conda-forge/lammpsparser/badges/downloads.svg)](https://anaconda.org/conda-forge/lammpsparser) |
 | [vaspparser](https://anaconda.org/conda-forge/vaspparser) | [![conda](https://anaconda.org/conda-forge/vaspparser/badges/downloads.svg)](https://anaconda.org/conda-forge/vaspparser) |
 | [pymatgen-core](https://anaconda.org/conda-forge/pymatgen-core) | [![conda](https://anaconda.org/conda-forge/pymatgen-core/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-core) |
+| [rootstock](https://anaconda.org/conda-forge/rootstock) | [![conda](https://anaconda.org/conda-forge/rootstock/badges/downloads.svg)](https://anaconda.org/conda-forge/rootstock) |
