@@ -1053,3 +1053,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pymatgen-core](https://anaconda.org/conda-forge/pymatgen-core) | [![conda](https://anaconda.org/conda-forge/pymatgen-core/badges/downloads.svg)](https://anaconda.org/conda-forge/pymatgen-core) |
 | [rootstock](https://anaconda.org/conda-forge/rootstock) | [![conda](https://anaconda.org/conda-forge/rootstock/badges/downloads.svg)](https://anaconda.org/conda-forge/rootstock) |
 | [girder-worker](https://anaconda.org/conda-forge/girder-worker) | [![conda](https://anaconda.org/conda-forge/girder-worker/badges/downloads.svg)](https://anaconda.org/conda-forge/girder-worker) |
+| [chemdiagrams](https://anaconda.org/conda-forge/chemdiagrams) | [![conda](https://anaconda.org/conda-forge/chemdiagrams/badges/downloads.svg)](https://anaconda.org/conda-forge/chemdiagrams) |
