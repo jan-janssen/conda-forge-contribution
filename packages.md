@@ -1033,3 +1033,6 @@
 | [rootstock](https://anaconda.org/conda-forge/rootstock) | [![conda](https://anaconda.org/conda-forge/rootstock/badges/downloads.svg)](https://anaconda.org/conda-forge/rootstock) |
 | [girder-worker](https://anaconda.org/conda-forge/girder-worker) | [![conda](https://anaconda.org/conda-forge/girder-worker/badges/downloads.svg)](https://anaconda.org/conda-forge/girder-worker) |
 | [chemdiagrams](https://anaconda.org/conda-forge/chemdiagrams) | [![conda](https://anaconda.org/conda-forge/chemdiagrams/badges/downloads.svg)](https://anaconda.org/conda-forge/chemdiagrams) |
+| [molid](https://anaconda.org/conda-forge/molid) | [![conda](https://anaconda.org/conda-forge/molid/badges/downloads.svg)](https://anaconda.org/conda-forge/molid) |
+| [solid-dmft](https://anaconda.org/conda-forge/solid-dmft) | [![conda](https://anaconda.org/conda-forge/solid-dmft/badges/downloads.svg)](https://anaconda.org/conda-forge/solid-dmft) |
+| [fluprodia](https://anaconda.org/conda-forge/fluprodia) | [![conda](https://anaconda.org/conda-forge/fluprodia/badges/downloads.svg)](https://anaconda.org/conda-forge/fluprodia) |
