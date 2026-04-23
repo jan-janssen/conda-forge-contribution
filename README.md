@@ -1057,3 +1057,8 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [molid](https://anaconda.org/conda-forge/molid) | [![conda](https://anaconda.org/conda-forge/molid/badges/downloads.svg)](https://anaconda.org/conda-forge/molid) |
 | [solid-dmft](https://anaconda.org/conda-forge/solid-dmft) | [![conda](https://anaconda.org/conda-forge/solid-dmft/badges/downloads.svg)](https://anaconda.org/conda-forge/solid-dmft) |
 | [fluprodia](https://anaconda.org/conda-forge/fluprodia) | [![conda](https://anaconda.org/conda-forge/fluprodia/badges/downloads.svg)](https://anaconda.org/conda-forge/fluprodia) |
+| [fsvisual](https://anaconda.org/conda-forge/fsvisual) | [![conda](https://anaconda.org/conda-forge/fsvisual/badges/downloads.svg)](https://anaconda.org/conda-forge/fsvisual) |
+| [pyfhiaims](https://anaconda.org/conda-forge/pyfhiaims) | [![conda](https://anaconda.org/conda-forge/pyfhiaims/badges/downloads.svg)](https://anaconda.org/conda-forge/pyfhiaims) |
+| [ase2sprkkr](https://anaconda.org/conda-forge/ase2sprkkr) | [![conda](https://anaconda.org/conda-forge/ase2sprkkr/badges/downloads.svg)](https://anaconda.org/conda-forge/ase2sprkkr) |
+| [stringthings](https://anaconda.org/conda-forge/stringthings) | [![conda](https://anaconda.org/conda-forge/stringthings/badges/downloads.svg)](https://anaconda.org/conda-forge/stringthings) |
+| [unyts](https://anaconda.org/conda-forge/unyts) | [![conda](https://anaconda.org/conda-forge/unyts/badges/downloads.svg)](https://anaconda.org/conda-forge/unyts) |
