@@ -1063,3 +1063,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [stringthings](https://anaconda.org/conda-forge/stringthings) | [![conda](https://anaconda.org/conda-forge/stringthings/badges/downloads.svg)](https://anaconda.org/conda-forge/stringthings) |
 | [unyts](https://anaconda.org/conda-forge/unyts) | [![conda](https://anaconda.org/conda-forge/unyts/badges/downloads.svg)](https://anaconda.org/conda-forge/unyts) |
 | [spectral-fingerprints](https://anaconda.org/conda-forge/spectral-fingerprints) | [![conda](https://anaconda.org/conda-forge/spectral-fingerprints/badges/downloads.svg)](https://anaconda.org/conda-forge/spectral-fingerprints) |
+| [langchain-protocol](https://anaconda.org/conda-forge/langchain-protocol) | [![conda](https://anaconda.org/conda-forge/langchain-protocol/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-protocol) |
