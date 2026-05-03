@@ -637,6 +637,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pysmartdl](https://anaconda.org/conda-forge/pysmartdl) | [![conda](https://anaconda.org/conda-forge/pysmartdl/badges/downloads.svg)](https://anaconda.org/conda-forge/pysmartdl) |
 | [rfc3161ng](https://anaconda.org/conda-forge/rfc3161ng) | [![conda](https://anaconda.org/conda-forge/rfc3161ng/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3161ng) |
 | [pdb-tools](https://anaconda.org/conda-forge/pdb-tools) | [![conda](https://anaconda.org/conda-forge/pdb-tools/badges/downloads.svg)](https://anaconda.org/conda-forge/pdb-tools) |
+| [excitingtools](https://anaconda.org/conda-forge/excitingtools) | [![conda](https://anaconda.org/conda-forge/excitingtools/badges/downloads.svg)](https://anaconda.org/conda-forge/excitingtools) |
 | [langchain](https://anaconda.org/conda-forge/langchain) | [![conda](https://anaconda.org/conda-forge/langchain/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain) |
 | [moleculekit](https://anaconda.org/conda-forge/moleculekit) | [![conda](https://anaconda.org/conda-forge/moleculekit/badges/downloads.svg)](https://anaconda.org/conda-forge/moleculekit) |
 | [pymace](https://anaconda.org/conda-forge/pymace) | [![conda](https://anaconda.org/conda-forge/pymace/badges/downloads.svg)](https://anaconda.org/conda-forge/pymace) |
@@ -1064,3 +1065,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [unyts](https://anaconda.org/conda-forge/unyts) | [![conda](https://anaconda.org/conda-forge/unyts/badges/downloads.svg)](https://anaconda.org/conda-forge/unyts) |
 | [spectral-fingerprints](https://anaconda.org/conda-forge/spectral-fingerprints) | [![conda](https://anaconda.org/conda-forge/spectral-fingerprints/badges/downloads.svg)](https://anaconda.org/conda-forge/spectral-fingerprints) |
 | [langchain-protocol](https://anaconda.org/conda-forge/langchain-protocol) | [![conda](https://anaconda.org/conda-forge/langchain-protocol/badges/downloads.svg)](https://anaconda.org/conda-forge/langchain-protocol) |
+| [pymongo-search-utils](https://anaconda.org/conda-forge/pymongo-search-utils) | [![conda](https://anaconda.org/conda-forge/pymongo-search-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/pymongo-search-utils) |
+| [excitingscripts](https://anaconda.org/conda-forge/excitingscripts) | [![conda](https://anaconda.org/conda-forge/excitingscripts/badges/downloads.svg)](https://anaconda.org/conda-forge/excitingscripts) |
