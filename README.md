@@ -1068,3 +1068,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pymongo-search-utils](https://anaconda.org/conda-forge/pymongo-search-utils) | [![conda](https://anaconda.org/conda-forge/pymongo-search-utils/badges/downloads.svg)](https://anaconda.org/conda-forge/pymongo-search-utils) |
 | [excitingscripts](https://anaconda.org/conda-forge/excitingscripts) | [![conda](https://anaconda.org/conda-forge/excitingscripts/badges/downloads.svg)](https://anaconda.org/conda-forge/excitingscripts) |
 | [pydentate](https://anaconda.org/conda-forge/pydentate) | [![conda](https://anaconda.org/conda-forge/pydentate/badges/downloads.svg)](https://anaconda.org/conda-forge/pydentate) |
+| [gfmetadata](https://anaconda.org/conda-forge/gfmetadata) | [![conda](https://anaconda.org/conda-forge/gfmetadata/badges/downloads.svg)](https://anaconda.org/conda-forge/gfmetadata) |
