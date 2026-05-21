@@ -1048,3 +1048,5 @@
 | [excitingscripts](https://anaconda.org/conda-forge/excitingscripts) | [![conda](https://anaconda.org/conda-forge/excitingscripts/badges/downloads.svg)](https://anaconda.org/conda-forge/excitingscripts) |
 | [pydentate](https://anaconda.org/conda-forge/pydentate) | [![conda](https://anaconda.org/conda-forge/pydentate/badges/downloads.svg)](https://anaconda.org/conda-forge/pydentate) |
 | [gfmetadata](https://anaconda.org/conda-forge/gfmetadata) | [![conda](https://anaconda.org/conda-forge/gfmetadata/badges/downloads.svg)](https://anaconda.org/conda-forge/gfmetadata) |
+| [myqueue](https://anaconda.org/conda-forge/myqueue) | [![conda](https://anaconda.org/conda-forge/myqueue/badges/downloads.svg)](https://anaconda.org/conda-forge/myqueue) |
+| [texteditor](https://anaconda.org/conda-forge/texteditor) | [![conda](https://anaconda.org/conda-forge/texteditor/badges/downloads.svg)](https://anaconda.org/conda-forge/texteditor) |
