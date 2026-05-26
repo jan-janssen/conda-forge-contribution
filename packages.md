@@ -1052,3 +1052,4 @@
 | [texteditor](https://anaconda.org/conda-forge/texteditor) | [![conda](https://anaconda.org/conda-forge/texteditor/badges/downloads.svg)](https://anaconda.org/conda-forge/texteditor) |
 | [pynter](https://anaconda.org/conda-forge/pynter) | [![conda](https://anaconda.org/conda-forge/pynter/badges/downloads.svg)](https://anaconda.org/conda-forge/pynter) |
 | [delu](https://anaconda.org/conda-forge/delu) | [![conda](https://anaconda.org/conda-forge/delu/badges/downloads.svg)](https://anaconda.org/conda-forge/delu) |
+| [deeptab](https://anaconda.org/conda-forge/deeptab) | [![conda](https://anaconda.org/conda-forge/deeptab/badges/downloads.svg)](https://anaconda.org/conda-forge/deeptab) |
