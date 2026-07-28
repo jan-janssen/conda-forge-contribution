@@ -1058,3 +1058,11 @@
 | [mongomock-ng](https://anaconda.org/conda-forge/mongomock-ng) | [![conda](https://anaconda.org/conda-forge/mongomock-ng/badges/downloads.svg)](https://anaconda.org/conda-forge/mongomock-ng) |
 | [streamflow](https://anaconda.org/conda-forge/streamflow) | [![conda](https://anaconda.org/conda-forge/streamflow/badges/downloads.svg)](https://anaconda.org/conda-forge/streamflow) |
 | [jupyter-workflow](https://anaconda.org/conda-forge/jupyter-workflow) | [![conda](https://anaconda.org/conda-forge/jupyter-workflow/badges/downloads.svg)](https://anaconda.org/conda-forge/jupyter-workflow) |
+| [warmup-scheduler](https://anaconda.org/conda-forge/warmup-scheduler) | [![conda](https://anaconda.org/conda-forge/warmup-scheduler/badges/downloads.svg)](https://anaconda.org/conda-forge/warmup-scheduler) |
+| [graphrag-common](https://anaconda.org/conda-forge/graphrag-common) | [![conda](https://anaconda.org/conda-forge/graphrag-common/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-common) |
+| [graphrag-storage](https://anaconda.org/conda-forge/graphrag-storage) | [![conda](https://anaconda.org/conda-forge/graphrag-storage/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-storage) |
+| [chaldene-super-resolution](https://anaconda.org/conda-forge/chaldene-super-resolution) | [![conda](https://anaconda.org/conda-forge/chaldene-super-resolution/badges/downloads.svg)](https://anaconda.org/conda-forge/chaldene-super-resolution) |
+| [msglc](https://anaconda.org/conda-forge/msglc) | [![conda](https://anaconda.org/conda-forge/msglc/badges/downloads.svg)](https://anaconda.org/conda-forge/msglc) |
+| [graphrag-cache](https://anaconda.org/conda-forge/graphrag-cache) | [![conda](https://anaconda.org/conda-forge/graphrag-cache/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-cache) |
+| [graphrag-llm](https://anaconda.org/conda-forge/graphrag-llm) | [![conda](https://anaconda.org/conda-forge/graphrag-llm/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-llm) |
+| [chaldene](https://anaconda.org/conda-forge/chaldene) | [![conda](https://anaconda.org/conda-forge/chaldene/badges/downloads.svg)](https://anaconda.org/conda-forge/chaldene) |
