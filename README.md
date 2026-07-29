@@ -45,6 +45,7 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [speechrecognition](https://anaconda.org/conda-forge/speechrecognition) | [![conda](https://anaconda.org/conda-forge/speechrecognition/badges/downloads.svg)](https://anaconda.org/conda-forge/speechrecognition) |
 | [qds-sdk](https://anaconda.org/conda-forge/qds-sdk) | [![conda](https://anaconda.org/conda-forge/qds-sdk/badges/downloads.svg)](https://anaconda.org/conda-forge/qds-sdk) |
 | [eventlet](https://anaconda.org/conda-forge/eventlet) | [![conda](https://anaconda.org/conda-forge/eventlet/badges/downloads.svg)](https://anaconda.org/conda-forge/eventlet) |
+| [textblob](https://anaconda.org/conda-forge/textblob) | [![conda](https://anaconda.org/conda-forge/textblob/badges/downloads.svg)](https://anaconda.org/conda-forge/textblob) |
 | [nltk](https://anaconda.org/conda-forge/nltk) | [![conda](https://anaconda.org/conda-forge/nltk/badges/downloads.svg)](https://anaconda.org/conda-forge/nltk) |
 | [cement](https://anaconda.org/conda-forge/cement) | [![conda](https://anaconda.org/conda-forge/cement/badges/downloads.svg)](https://anaconda.org/conda-forge/cement) |
 | [tldextract](https://anaconda.org/conda-forge/tldextract) | [![conda](https://anaconda.org/conda-forge/tldextract/badges/downloads.svg)](https://anaconda.org/conda-forge/tldextract) |
@@ -1087,3 +1088,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [graphrag-cache](https://anaconda.org/conda-forge/graphrag-cache) | [![conda](https://anaconda.org/conda-forge/graphrag-cache/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-cache) |
 | [graphrag-llm](https://anaconda.org/conda-forge/graphrag-llm) | [![conda](https://anaconda.org/conda-forge/graphrag-llm/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-llm) |
 | [chaldene](https://anaconda.org/conda-forge/chaldene) | [![conda](https://anaconda.org/conda-forge/chaldene/badges/downloads.svg)](https://anaconda.org/conda-forge/chaldene) |
+| [graphrag-input](https://anaconda.org/conda-forge/graphrag-input) | [![conda](https://anaconda.org/conda-forge/graphrag-input/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-input) |
+| [graphrag-chunking](https://anaconda.org/conda-forge/graphrag-chunking) | [![conda](https://anaconda.org/conda-forge/graphrag-chunking/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-chunking) |
+| [graphrag-vectors](https://anaconda.org/conda-forge/graphrag-vectors) | [![conda](https://anaconda.org/conda-forge/graphrag-vectors/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-vectors) |
