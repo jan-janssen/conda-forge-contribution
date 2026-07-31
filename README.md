@@ -1092,3 +1092,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [graphrag-chunking](https://anaconda.org/conda-forge/graphrag-chunking) | [![conda](https://anaconda.org/conda-forge/graphrag-chunking/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-chunking) |
 | [graphrag-vectors](https://anaconda.org/conda-forge/graphrag-vectors) | [![conda](https://anaconda.org/conda-forge/graphrag-vectors/badges/downloads.svg)](https://anaconda.org/conda-forge/graphrag-vectors) |
 | [hoptorch](https://anaconda.org/conda-forge/hoptorch) | [![conda](https://anaconda.org/conda-forge/hoptorch/badges/downloads.svg)](https://anaconda.org/conda-forge/hoptorch) |
+| [mcp-types](https://anaconda.org/conda-forge/mcp-types) | [![conda](https://anaconda.org/conda-forge/mcp-types/badges/downloads.svg)](https://anaconda.org/conda-forge/mcp-types) |
