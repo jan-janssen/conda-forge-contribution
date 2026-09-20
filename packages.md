@@ -1074,3 +1074,5 @@
 | [mcp-types](https://anaconda.org/conda-forge/mcp-types) | [![conda](https://anaconda.org/conda-forge/mcp-types/badges/downloads.svg)](https://anaconda.org/conda-forge/mcp-types) |
 | [crystallm](https://anaconda.org/conda-forge/crystallm) | [![conda](https://anaconda.org/conda-forge/crystallm/badges/downloads.svg)](https://anaconda.org/conda-forge/crystallm) |
 | [pykale](https://anaconda.org/conda-forge/pykale) | [![conda](https://anaconda.org/conda-forge/pykale/badges/downloads.svg)](https://anaconda.org/conda-forge/pykale) |
+| [interfacemethod](https://anaconda.org/conda-forge/interfacemethod) | [![conda](https://anaconda.org/conda-forge/interfacemethod/badges/downloads.svg)](https://anaconda.org/conda-forge/interfacemethod) |
+| [mailsort](https://anaconda.org/conda-forge/mailsort) | [![conda](https://anaconda.org/conda-forge/mailsort/badges/downloads.svg)](https://anaconda.org/conda-forge/mailsort) |
