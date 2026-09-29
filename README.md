@@ -1097,3 +1097,5 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pykale](https://anaconda.org/conda-forge/pykale) | [![conda](https://anaconda.org/conda-forge/pykale/badges/downloads.svg)](https://anaconda.org/conda-forge/pykale) |
 | [interfacemethod](https://anaconda.org/conda-forge/interfacemethod) | [![conda](https://anaconda.org/conda-forge/interfacemethod/badges/downloads.svg)](https://anaconda.org/conda-forge/interfacemethod) |
 | [mailsort](https://anaconda.org/conda-forge/mailsort) | [![conda](https://anaconda.org/conda-forge/mailsort/badges/downloads.svg)](https://anaconda.org/conda-forge/mailsort) |
+| [numgrid](https://anaconda.org/conda-forge/numgrid) | [![conda](https://anaconda.org/conda-forge/numgrid/badges/downloads.svg)](https://anaconda.org/conda-forge/numgrid) |
+| [pyfock](https://anaconda.org/conda-forge/pyfock) | [![conda](https://anaconda.org/conda-forge/pyfock/badges/downloads.svg)](https://anaconda.org/conda-forge/pyfock) |
