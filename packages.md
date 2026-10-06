@@ -1078,3 +1078,4 @@
 | [mailsort](https://anaconda.org/conda-forge/mailsort) | [![conda](https://anaconda.org/conda-forge/mailsort/badges/downloads.svg)](https://anaconda.org/conda-forge/mailsort) |
 | [numgrid](https://anaconda.org/conda-forge/numgrid) | [![conda](https://anaconda.org/conda-forge/numgrid/badges/downloads.svg)](https://anaconda.org/conda-forge/numgrid) |
 | [pyfock](https://anaconda.org/conda-forge/pyfock) | [![conda](https://anaconda.org/conda-forge/pyfock/badges/downloads.svg)](https://anaconda.org/conda-forge/pyfock) |
+| [pixelmatch](https://anaconda.org/conda-forge/pixelmatch) | [![conda](https://anaconda.org/conda-forge/pixelmatch/badges/downloads.svg)](https://anaconda.org/conda-forge/pixelmatch) |
