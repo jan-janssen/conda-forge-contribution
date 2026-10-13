@@ -155,6 +155,7 @@
 | [randspg](https://anaconda.org/conda-forge/randspg) | [![conda](https://anaconda.org/conda-forge/randspg/badges/downloads.svg)](https://anaconda.org/conda-forge/randspg) |
 | [seekpath](https://anaconda.org/conda-forge/seekpath) | [![conda](https://anaconda.org/conda-forge/seekpath/badges/downloads.svg)](https://anaconda.org/conda-forge/seekpath) |
 | [icet](https://anaconda.org/conda-forge/icet) | [![conda](https://anaconda.org/conda-forge/icet/badges/downloads.svg)](https://anaconda.org/conda-forge/icet) |
+| [ipyvuetify](https://anaconda.org/conda-forge/ipyvuetify) | [![conda](https://anaconda.org/conda-forge/ipyvuetify/badges/downloads.svg)](https://anaconda.org/conda-forge/ipyvuetify) |
 | [parmed](https://anaconda.org/conda-forge/parmed) | [![conda](https://anaconda.org/conda-forge/parmed/badges/downloads.svg)](https://anaconda.org/conda-forge/parmed) |
 | [mendeleev](https://anaconda.org/conda-forge/mendeleev) | [![conda](https://anaconda.org/conda-forge/mendeleev/badges/downloads.svg)](https://anaconda.org/conda-forge/mendeleev) |
 | [custodian](https://anaconda.org/conda-forge/custodian) | [![conda](https://anaconda.org/conda-forge/custodian/badges/downloads.svg)](https://anaconda.org/conda-forge/custodian) |
