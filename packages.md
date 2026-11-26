@@ -1082,3 +1082,5 @@
 | [pixelmatch](https://anaconda.org/conda-forge/pixelmatch) | [![conda](https://anaconda.org/conda-forge/pixelmatch/badges/downloads.svg)](https://anaconda.org/conda-forge/pixelmatch) |
 | [elementy](https://anaconda.org/conda-forge/elementy) | [![conda](https://anaconda.org/conda-forge/elementy/badges/downloads.svg)](https://anaconda.org/conda-forge/elementy) |
 | [pyccapt](https://anaconda.org/conda-forge/pyccapt) | [![conda](https://anaconda.org/conda-forge/pyccapt/badges/downloads.svg)](https://anaconda.org/conda-forge/pyccapt) |
+| [fst](https://anaconda.org/conda-forge/fst) | [![conda](https://anaconda.org/conda-forge/fst/badges/downloads.svg)](https://anaconda.org/conda-forge/fst) |
+| [pfst](https://anaconda.org/conda-forge/pfst) | [![conda](https://anaconda.org/conda-forge/pfst/badges/downloads.svg)](https://anaconda.org/conda-forge/pfst) |
